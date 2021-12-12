@@ -4,7 +4,7 @@ dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].characterData = [
 
-    {
+    { fghfgh
         "name": "譜久村聖",
         "img": "https://i.imgur.com/1zDygV1.jpg"
         , opts: {
