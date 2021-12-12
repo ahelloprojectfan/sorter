@@ -2193,6 +2193,23 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["pbs","2020","bypb"]
         }
     }
+   ,
+    {
+        "name": "Rio・17th summer (Kitagawa) (2021)",
+        "img": "https://i.imgur.com/uL2Mtmt.jpg"
+        , opts:{
+            subkeyaki: ["pbs","mmpb"]
+        }
+    }
+    ,
+    {
+        "name": "Mei16 (Yamazaki) (2021)",
+        "img": "https://i.imgur.com/Qgtmnae.jpg"
+        , opts:{
+            subkeyaki: ["pbs","mmpb"]
+        }
+    }
+    ,
 
 
 
@@ -2206,8 +2223,7 @@ dataSet[dataSetVersion].options = [
         tooltip: 'Check this to restrict to certain group',
         checked: true,
         sub: [
-         
-            { name: "Morning Musume '20 Photobooks", key: 'mmpb' },
+            { name: "Morning Musume '20 and '21 Photobooks", key: 'mmpb' },
             { name: 'Juice=Juice Photobooks', key: 'juicepb' },
             { name: 'Angerme Photobooks', key: 'angermepb' },
             { name: 'Tsubaki Factory Photobooks', key: 'tsubakipb' },
