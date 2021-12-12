@@ -5,7 +5,7 @@ dataSet[dataSetVersion] = {};
 dataSet[dataSetVersion].characterData = [
 
     {
-        "name": "譜久村聖",
+        "name": "譜久村聖l",
         "img": "https://i.imgur.com/1zDygV1.jpg"
         , opts: {
             subkeyaki: ["mm"]
