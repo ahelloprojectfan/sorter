@@ -38,7 +38,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Makana (Fukumura) (2018)",
-        "img": "https://i.imgur.com/QbQKkS1.jpg"
+        "img": "https://i.imgur.com/alx5Rp1.jpg"
         , opts:{
             subkeyaki: ["pbs","mmpb"]
         }
@@ -124,7 +124,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Sakura Breeze (Sakura) (2017)",
-        "img": "https://i.imgur.com/8X9xtEi.jpg"
+        "img": "https://i.imgur.com/7WGUNQU.jpg"
         , opts:{
             subkeyaki: ["pbs","mmpb"]
         }
@@ -152,7 +152,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Maria (Makino) (2016)",
-        "img": "https://i.imgur.com/GVWxELx.jpg"
+        "img": "https://i.imgur.com/4LEAFYb.jpg"
         , opts:{
             subkeyaki: ["pbs","mmpb"]
         }
@@ -166,7 +166,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Maria 17sai (Makino) (2018)",
-        "img": "https://i.imgur.com/GOV7JRT.jpg"
+        "img": "https://i.imgur.com/DPI2bf8.jpg"
         , opts:{
             subkeyaki: ["pbs","mmpb"]
         }
@@ -180,14 +180,14 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "María 18 años (Makino) (2019)",
-        "img": "https://i.imgur.com/HdAAcCz.jpg"
+        "img": "https://i.imgur.com/DfIDHjB.jpg"
         , opts:{
             subkeyaki: ["pbs","mmpb"]
         }
     },
     {
         "name": "Maria19 (Makino) (2020)",
-        "img": "https://i.imgur.com/Uy1v139.jpg"
+        "img": "https://i.imgur.com/UMbXG7A.jpg"
         , opts:{
             subkeyaki: ["pbs","mmpb","2020"]
         }
@@ -222,7 +222,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "REINA is eighteen ~N to S~ (Yokoyama) (2019)",
-        "img": "https://i.imgur.com/NMmY62x.jpg"
+        "img": "https://i.imgur.com/IMHmQ3U.jpg"
         , opts:{
             subkeyaki: ["pbs","mmpb"]
         }
@@ -2175,7 +2175,6 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["pbs","2020","tsubakipb"]
         }
     }
-
     ,
     {
         "name": "First Time (Kitagawa) (2020)",
@@ -2184,7 +2183,22 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["pbs","2020","mmpb"]
         }
     }
-
+    ,
+    {
+        "name": "Rio・17th summer (Kitagawa) (2021)",
+        "img": "https://i.imgur.com/uL2Mtmt.jpg"
+        , opts:{
+            subkeyaki: ["pbs","mmpb"]
+        }
+    }
+    ,
+    {
+        "name": "Mei16 (Yamazaki) (2021)",
+        "img": "https://i.imgur.com/ySBqzWq.jpg"
+        , opts:{
+            subkeyaki: ["vpbs","mmpb"]
+        }
+    }
     ,
     {
         "name": "Shiori (Nishida) (2020)",
