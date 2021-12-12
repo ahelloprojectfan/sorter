@@ -1257,7 +1257,7 @@ dataSet[dataSetVersion].options = [
             { name: 'アンジュルム', key: 'angerme' },
             { name: 'つばきファクトリー', key: 'tf' },
             { name: 'BEYOOOOONDS', key: 'by' },
-            { name: 'ハロプロ研修生ユニット', key: 'kunit' },
+            { name: 'OCHA NORMA', key: 'kunit' },
             { name: 'ハロプロ研修生', key: 'kss' },
             { name: 'Juice=Juice OG', key: 'ex-jj' },
             { name: 'こぶしファクトリー', key: 'kf' },

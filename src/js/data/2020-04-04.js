@@ -1257,7 +1257,7 @@ dataSet[dataSetVersion].options = [
             { name: 'Angerme', key: 'angerme' },
             { name: 'Tsubaki Factory', key: 'tf' },
             { name: 'BEYOOOOONDS', key: 'by' },
-            { name: 'Hello Pro Kenshuusei Unit', key: 'kunit' },
+            { name: 'OCHA NORMA', key: 'kunit' },
             { name: 'Hello Pro Kenshuusei', key: 'kss' },
             { name: 'Ex-Juice=Juice', key: 'ex-jj' },
             { name: 'Ex-Kobushi Factory', key: 'kf' },
