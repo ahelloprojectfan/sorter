@@ -29,7 +29,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "佐藤優樹",
         "img": "https://i.imgur.com/CTeTH09.jpg"
         , opts: {
-            subkeyaki: ["mm"]
+            subkeyaki: ["mmog"]
         }
     },
     {
