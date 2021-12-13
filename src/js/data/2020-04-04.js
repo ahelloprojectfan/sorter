@@ -1238,7 +1238,22 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["kss"]
         }
 
+    },
+    {
+        "name": "Tashiro Sumire",
+        "img": "https://i.imgur.com/kDBGJXj.jpg"
+        , opts: {
+            subkeyaki: ["kunit"]
+        }
+    },
+    {
+        "name": "Tsutsui Roco",
+        "img": "https://i.imgur.com/2BQYl6q.jpg"
+        , opts: {
+            subkeyaki: ["kunit"]
+        }
     }
+    
     
     
   
