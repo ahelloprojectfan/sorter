@@ -428,23 +428,23 @@ dataSet[dataSetVersion].characterData = [
 
     {
         "name": "Yonemura Kirara",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/4/48/YonemuraKirara2020March.jpg/revision/latest/scale-to-width-down/250?cb=20200313165121"
+        "img": "https://i.imgur.com/hQMg5W8.jpg"
         , opts: {
-            subkeyaki: ["kss", "kunit"]
+            subkeyaki: ["kunit"]
         }
     },
     {
         "name": "Nakayama Natsume",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/3/36/NakayamaNatsume2020March.jpg/revision/latest/scale-to-width-down/250?cb=20200313165206"
+        "img": "https://i.imgur.com/mJpl9qT.jpg"
         , opts: {
-            subkeyaki: ["kss", "kunit"]
+            subkeyaki: ["kunit"]
         }
     },
     {
         "name": "Kubota Nanami",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/3/38/KubotaNanami2020March.jpg/revision/latest/scale-to-width-down/250?cb=20200313165253"
+        "img": "https://i.imgur.com/h01R4sn.jpg"
         , opts: {
-            subkeyaki: ["kss", "kunit"]
+            subkeyaki: ["kunit"]
         }
     },
     {
@@ -456,9 +456,9 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Saito Madoka",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/c/cf/SaitoMadoka2020March.jpg/revision/latest/scale-to-width-down/250?cb=20200313165339"
+        "img": "https://i.imgur.com/K1Rj8lR.jpg"
         , opts: {
-            subkeyaki: ["kss", "kunit"]
+            subkeyaki: ["kunit"]
         }
     },
     {
@@ -470,9 +470,9 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Hiromoto Ruli",
-        "img": "https://i.imgur.com/IpeViM6.jpg"
+        "img": "https://i.imgur.com/fKqTItP.jpg"
         , opts: {
-            subkeyaki: ["kss", "kunit"]
+            subkeyaki: ["kunit"]
         }
     },
     {
@@ -484,9 +484,9 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Nishizaki Miku",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/5/57/NishizakiMiku2020March.jpg/revision/latest/scale-to-width-down/250?cb=20200313165811"
+        "img": "https://i.imgur.com/IcLpqC0.jpg"
         , opts: {
-            subkeyaki: ["kss", "kunit"]
+            subkeyaki: ["kunit"]
         }
     },
     {
@@ -498,9 +498,9 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Kitahara Momo",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/4/4b/KitaharaMomo2020March.jpg/revision/latest/scale-to-width-down/250?cb=20200313172243"
+        "img": "https://i.imgur.com/ppqWHlk.jpg"
         , opts: {
-            subkeyaki: ["kss", "kunit"]
+            subkeyaki: ["kunit"]
         }
     },
     {
@@ -549,9 +549,9 @@ dataSet[dataSetVersion].characterData = [
     ,
     {
         "name": "Ishiguri Kanami",
-        "img": "https://i.imgur.com/aRGSntn.jpg"
+        "img": "https://i.imgur.com/nloVIpo.jpg"
         , opts: {
-            subkeyaki: ["kss", "kunit"]
+            subkeyaki: ["kunit"]
         }
     },
 
@@ -1241,14 +1241,14 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Tashiro Sumire",
-        "img": "https://i.imgur.com/kDBGJXj.jpg"
+        "img": "https://i.imgur.com/FLz3d1K.jpg"
         , opts: {
             subkeyaki: ["kunit"]
         }
     },
     {
         "name": "Tsutsui Roco",
-        "img": "https://i.imgur.com/2BQYl6q.jpg"
+        "img": "https://i.imgur.com/FmgdvWx.jpg"
         , opts: {
             subkeyaki: ["kunit"]
         }
