@@ -428,21 +428,21 @@ dataSet[dataSetVersion].characterData = [
 
     {
         "name": "Yonemura Kirara",
-        "img": "https://i.imgur.com/hQMg5W8.jpg"
+        "img": "https://i.imgur.com/hQMg5W8.jpg?1"
         , opts: {
             subkeyaki: ["kunit"]
         }
     },
     {
         "name": "Nakayama Natsume",
-        "img": "https://i.imgur.com/mJpl9qT.jpg"
+        "img": "https://i.imgur.com/mJpl9qT.jpg?1"
         , opts: {
             subkeyaki: ["kunit"]
         }
     },
     {
         "name": "Kubota Nanami",
-        "img": "https://i.imgur.com/h01R4sn.jpg"
+        "img": "https://i.imgur.com/h01R4sn.jpg?1"
         , opts: {
             subkeyaki: ["kunit"]
         }
@@ -456,7 +456,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Saito Madoka",
-        "img": "https://i.imgur.com/K1Rj8lR.jpg"
+        "img": "https://i.imgur.com/K1Rj8lR.jpg?1"
         , opts: {
             subkeyaki: ["kunit"]
         }
@@ -470,7 +470,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Hiromoto Ruli",
-        "img": "https://i.imgur.com/fKqTItP.jpg"
+        "img": "https://i.imgur.com/fKqTItP.jpg?1"
         , opts: {
             subkeyaki: ["kunit"]
         }
@@ -484,7 +484,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Nishizaki Miku",
-        "img": "https://i.imgur.com/IcLpqC0.jpg"
+        "img": "https://i.imgur.com/IcLpqC0.jpg?1"
         , opts: {
             subkeyaki: ["kunit"]
         }
@@ -498,7 +498,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Kitahara Momo",
-        "img": "https://i.imgur.com/ppqWHlk.jpg"
+        "img": "https://i.imgur.com/ppqWHlk.jpg?1"
         , opts: {
             subkeyaki: ["kunit"]
         }
@@ -1225,7 +1225,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Yoshida Hinoha",
-        "img": "https://i.imgur.com/RTpILvl.jpg"
+        "img": "https://i.imgur.com/Fba0Uf6.jpg?1"
         , opts: {
             subkeyaki: ["kss"]
         }
@@ -1233,7 +1233,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Kawashima Mifu",
-        "img": "https://i.imgur.com/rQjVUfe.jpg"
+        "img": "https://i.imgur.com/tVkVdt6.jpg?1"
         , opts: {
             subkeyaki: ["kss"]
         }
@@ -1241,14 +1241,14 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Tashiro Sumire",
-        "img": "https://i.imgur.com/FLz3d1K.jpg"
+        "img": "https://i.imgur.com/FLz3d1K.jpg?1"
         , opts: {
             subkeyaki: ["kunit"]
         }
     },
     {
         "name": "Tsutsui Roco",
-        "img": "https://i.imgur.com/FmgdvWx.jpg"
+        "img": "https://i.imgur.com/FmgdvWx.jpg?1"
         , opts: {
             subkeyaki: ["kunit"]
         }
