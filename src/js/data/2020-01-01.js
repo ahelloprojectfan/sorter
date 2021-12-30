@@ -491,9 +491,9 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "平山遊季",
-        "img": "https://i.imgur.com/WdubJIX.jpg"
+        "img": "https://i.imgur.com/ZiHLt1a.jpg?1"
         , opts: {
-            subkeyaki: ["kss"]
+            subkeyaki: ["angerme"]
         }
     },
     {
