@@ -491,9 +491,9 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Hirayama Yuki",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/4/49/HirayamaYuki2020March.jpg/revision/latest/scale-to-width-down/250?cb=20200313172150"
+        "img": "https://i.imgur.com/ZiHLt1a.jpg?1"
         , opts: {
-            subkeyaki: ["kss"]
+            subkeyaki: ["angerme"]
         }
     },
     {
