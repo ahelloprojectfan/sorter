@@ -449,7 +449,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Matsubara Yulia",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/1/15/MatsubaraYulia2020March.jpg/revision/latest/scale-to-width-down/250?cb=20200313165312"
+        "img": "https://i.imgur.com/x8qjkwP.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
@@ -463,7 +463,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Onoda Karin",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/d/d5/OnodaKarin2020March.jpg/revision/latest/scale-to-width-down/250?cb=20200313165400"
+        "img": "https://i.imgur.com/FA83MKC.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
@@ -477,7 +477,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Hashida Honoka",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/9/98/HashidaHonoka2020March.jpg/revision/latest/scale-to-width-down/250?cb=20200313165706"
+        "img": "https://i.imgur.com/oN6NXtm.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
@@ -519,14 +519,14 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Murakoshi Ayana",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/2/2e/MurakoshiAyana2020March.jpg/revision/latest/scale-to-width-down/250?cb=20200313172612"
+        "img": "https://i.imgur.com/wXgMhyo.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
     {
         "name": "Uemura Hasumi",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/d/d2/UemuraHasumi2020March.jpg/revision/latest/scale-to-width-down/250?cb=20200313172631"
+        "img": "https://i.imgur.com/MW8ZnOo.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
@@ -540,7 +540,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Ishiyama Sakura",
-        "img": "https://i.imgur.com/7oOYhEw.jpg"
+        "img": "https://i.imgur.com/yJsJCB1.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
@@ -1225,7 +1225,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Yoshida Hinoha",
-        "img": "https://i.imgur.com/Fba0Uf6.jpg?1"
+        "img": "https://i.imgur.com/7NceHZ6.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
@@ -1233,7 +1233,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Kawashima Mifu",
-        "img": "https://i.imgur.com/tVkVdt6.jpg?1"
+        "img": "https://i.imgur.com/UbhCeID.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
