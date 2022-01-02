@@ -1267,7 +1267,7 @@ dataSet[dataSetVersion].options = [
         tooltip: 'Check this to restrict to certain group',
         checked: true,
         sub: [
-            { name: "Morning Musume '21", key: 'mm' },
+            { name: "Morning Musume '22", key: 'mm' },
             { name: 'Juice=Juice', key: 'jj' },
             { name: 'Angerme', key: 'angerme' },
             { name: 'Tsubaki Factory', key: 'tf' },
