@@ -562,8 +562,8 @@ dataSet[dataSetVersion].characterData = [
 
     ,
     {
-        "name": "Morning Musume '21",
-        "img": "https://i.imgur.com/ZQv7xmq.jpg"
+        "name": "Morning Musume '22",
+        "img": "https://i.imgur.com/JLbIz4H.jpg"
         , opts: {
             subkeyaki: ["cgropus"]
         }
@@ -572,7 +572,7 @@ dataSet[dataSetVersion].characterData = [
     ,
     {
         "name": "ANGERME",
-        "img": "https://i.imgur.com/p1bbhpX.jpg"
+        "img": "https://i.imgur.com/fwpy11U.jpg"
         , opts: {
             subkeyaki: ["cgropus"]
         }
@@ -581,7 +581,7 @@ dataSet[dataSetVersion].characterData = [
     ,
     {
         "name": "Juice=Juice",
-        "img": "https://i.imgur.com/ps44yZi.jpg"
+        "img": "https://i.imgur.com/iwpRMXk.jpg"
         , opts: {
             subkeyaki: ["cgropus"]
         }
@@ -590,7 +590,7 @@ dataSet[dataSetVersion].characterData = [
     ,
     {
         "name": "Tsubaki Factory",
-        "img": "https://i.imgur.com/n9Sobrx.jpg"
+        "img": "https://i.imgur.com/Bko2Ihk.jpg"
         , opts: {
             subkeyaki: ["cgropus"]
         }
@@ -599,7 +599,7 @@ dataSet[dataSetVersion].characterData = [
     ,
     {
         "name": "BEYOOOOONDS",
-        "img": "https://i.imgur.com/28OvqQY.jpg"
+        "img": "https://i.imgur.com/fAZGIV7.jpg"
         , opts: {
             subkeyaki: ["cgropus"]
         }
@@ -1341,8 +1341,16 @@ dataSet[dataSetVersion].characterData = [
             "img": "https://i.imgur.com/qX2a69p.jpg",
             "opts": {
                 "subkeyaki": ["aSideList"]
-            }
+         }
      },
+     {
+        "name": "OCHA NORMA",
+        "img": "https://i.imgur.com/eJnlwtr.jpg"
+        , opts: {
+            subkeyaki: ["cgropus"]
+        }
+
+    },
 ];
 
 
