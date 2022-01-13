@@ -341,84 +341,84 @@ dataSet[dataSetVersion].characterData = [
 
     {
         "name": "Ichioka Reina",
-        "img": "https://i.imgur.com/iHcVfgI.jpg"
+        "img": "https://i.imgur.com/sQxLaeC.jpg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "Shimakura Rika",
-        "img": "https://i.imgur.com/s6AYNZZ.jpg"
+        "img": "https://i.imgur.com/zebsSe9.jpg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "Nishida Shiori",
-        "img": "https://i.imgur.com/CqkEbGb.jpg"
+        "img": "https://i.imgur.com/MMSrYjR.jpg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "Eguchi Saya",
-        "img": "https://i.imgur.com/cYDVoFh.jpg"
+        "img": "https://i.imgur.com/67pfcek.jpg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "Takase Kurumi",
-        "img": "https://i.imgur.com/y88c4n4.jpg"
+        "img": "https://i.imgur.com/wF3IK0e.jpg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "Maeda Kokoro",
-        "img": "https://i.imgur.com/xHcaSY1.jpg"
+        "img": "https://i.imgur.com/kyAvicT.jpg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "Yamazaki Yuhane",
-        "img": "https://i.imgur.com/lp41tBv.jpg"
+        "img": "https://i.imgur.com/fTXwDMl.jpg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "Okamura Minami",
-        "img": "https://i.imgur.com/z6WNyWY.jpg"
+        "img": "https://i.imgur.com/H6lbqAE.jpg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "Kiyono Momohime",
-        "img": "https://i.imgur.com/hG3V7WS.jpg"
+        "img": "https://i.imgur.com/S9oaVrL.jpg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "Hirai Miyo",
-        "img": "https://i.imgur.com/ZwoGWAw.jpg"
+        "img": "https://i.imgur.com/hVt6J0x.jpg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "Kobayashi Honoka",
-        "img": "https://i.imgur.com/68jZ9Ca.jpg"
+        "img": "https://i.imgur.com/STlXW8U.jpg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "Satoyoshi Utano",
-        "img": "https://i.imgur.com/hVCKABQ.jpg"
+        "img": "https://i.imgur.com/sKloSgy.jpg"
         , opts: {
             subkeyaki: ["by"]
         }
