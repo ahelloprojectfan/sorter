@@ -1256,8 +1256,6 @@ dataSet[dataSetVersion].characterData = [
     
     
     
-  
-    
 ];
 
 dataSet[dataSetVersion].options = [
