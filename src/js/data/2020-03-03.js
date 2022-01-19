@@ -572,7 +572,7 @@ dataSet[dataSetVersion].characterData = [
     ,
     {
         "name": "ANGERME",
-        "img": "https://i.imgur.com/fwpy11U.jpg"
+        "img": "https://i.imgur.com/U6BscRI.jpg"
         , opts: {
             subkeyaki: ["cgropus"]
         }
