@@ -1247,7 +1247,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        "name": "Tsutsui Roco",
+        "name": "Tsutsui Roko",
         "img": "https://i.imgur.com/ZwILf6E.jpg"
         , opts: {
             subkeyaki: ["kunit"]
