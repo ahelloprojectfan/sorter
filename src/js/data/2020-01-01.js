@@ -1253,9 +1253,25 @@ dataSet[dataSetVersion].characterData = [
         , opts: {
             subkeyaki: ["kunit"]
         }
+    },
+          {
+        "name": "後藤花",
+        "img": "https://i.imgur.com/qGct9bq.jpg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+
+    },
+            {
+        "name": "前島花凛",
+        "img": "https://i.imgur.com/llZQXYQ.jpg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+
     }
+
     
-  
     
 ];
 
