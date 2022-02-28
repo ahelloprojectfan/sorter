@@ -1252,6 +1252,20 @@ dataSet[dataSetVersion].characterData = [
         , opts: {
             subkeyaki: ["kunit"]
         }
+    },
+    {
+        "name": "Goto Hana",
+        "img": "https://i.imgur.com/qGct9bq.jpg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+    {
+        "name": "Maeshima Karin",
+        "img": "https://i.imgur.com/llZQXYQ.jpg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
     }
     
     
