@@ -281,7 +281,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Ogata Risa",
-        "img": "https://i.imgur.com/KF1Ri4i.jpg"
+        "img": "https://i.imgur.com/QhpSX5G.jpg"
         , opts: {
             subkeyaki: ["extf"]
         }
