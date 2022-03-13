@@ -1289,6 +1289,7 @@ dataSet[dataSetVersion].options = [
             { name: 'Ex-Juice=Juice', key: 'ex-jj' },
             { name: 'Ex-Kobushi Factory', key: 'kf' },
             { name: 'Ex-Country Girls', key: 'cg' },
+            { name: 'Ex-Tsubaki Factory', key: 'extf' },
             { name: 'Ex-℃-ute', key: 'cute' },
             { name: 'Ex-Berryz Koubou', key: 'berryz' },
             { name: 'Ex-Buono!', key: 'buono' },

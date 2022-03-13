@@ -1289,6 +1289,7 @@ dataSet[dataSetVersion].options = [
             { name: 'ハロプロ研修生', key: 'kss' },
             { name: 'Juice=Juice OG', key: 'ex-jj' },
             { name: 'こぶしファクトリー', key: 'kf' },
+            { name: 'つばきファクトリー OG', key: 'extf' },
             { name: 'カントリー・ガールズ', key: 'cg' },
             { name: '℃-ute', key: 'cute' },
             { name: 'Berryz工房', key: 'berryz' },
