@@ -581,7 +581,7 @@ dataSet[dataSetVersion].characterData = [
     ,
     {
         "name": "Juice=Juice",
-        "img": "https://i.imgur.com/iwpRMXk.jpg"
+        "img": "https://i.imgur.com/iErQIrO.jpg"
         , opts: {
             subkeyaki: ["cgropus"]
         }
