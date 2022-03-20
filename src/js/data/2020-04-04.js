@@ -227,42 +227,42 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Uemura Akari",
-        "img": "https://i.imgur.com/MuS4Cky.jpg"
+        "img": "https://i.imgur.com/qb1XK89.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "Inaba Manaka",
-        "img": "https://i.imgur.com/0Rul7Qm.jpg"
+        "img": "https://i.imgur.com/GwhDFVO.jpg"
         , opts: {
             subkeyaki: ["jj", "cg"]
         }
     },
     {
         "name": "Inoue Rei",
-        "img": "https://i.imgur.com/CpDz3ko.jpg"
+        "img": "https://i.imgur.com/ybQPx3g.jpg"
         , opts: {
             subkeyaki: ["jj", "kf"]
         }
     },
     {
         "name": "Dambara Ruru",
-        "img": "https://i.imgur.com/bTUd8pN.jpg"
+        "img": "https://i.imgur.com/kX4ABNh.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "Kudo Yume",
-        "img": "https://i.imgur.com/c2st6uG.jpg"
+        "img": "https://i.imgur.com/Yn60Dho.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "Matsunaga Riai",
-        "img": "https://i.imgur.com/A3RtBe5.jpg"
+        "img": "https://i.imgur.com/lyTSH0Z.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
@@ -505,7 +505,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Ebata Kisaki",
-        "img": "https://i.imgur.com/BjfXkuf.jpg"
+        "img": "https://i.imgur.com/IQQMokX.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
@@ -533,7 +533,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Arisawa Ichika",
-        "img": "https://i.imgur.com/ZpePXJq.jpg"
+        "img": "https://i.imgur.com/vWLnVU8.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
@@ -1193,7 +1193,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Irie Risa",
-        "img": "https://i.imgur.com/fr2eGMY.jpg"
+        "img": "https://i.imgur.com/6KPPmpa.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
