@@ -6,21 +6,21 @@ dataSet[dataSetVersion].characterData = [
 
     {
         "name": "Fukumura Mizuki",
-        "img": "https://i.imgur.com/fPAkWqy.jpg"
+        "img": "https://i.imgur.com/NVqGZlV.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
     {
         "name": "Ikuta Erina",
-        "img": "https://i.imgur.com/lgH8LKQ.jpg"
+        "img": "https://i.imgur.com/JjOlScv.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
     {
         "name": "Ishida Ayumi",
-        "img": "https://i.imgur.com/kGJFsvN.jpg"
+        "img": "https://i.imgur.com/4ijRJpo.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
@@ -34,70 +34,70 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Oda Sakura",
-        "img": "https://i.imgur.com/TAhSYag.jpg"
+        "img": "https://i.imgur.com/StD5KBy.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
     {
         "name": "Nonaka Miki",
-        "img": "https://i.imgur.com/OGcx4vS.jpg"
+        "img": "https://i.imgur.com/E9r87j8.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
     {
         "name": "Makino Maria",
-        "img": "https://i.imgur.com/isE6AwY.jpg"
+        "img": "https://i.imgur.com/AlbyEfs.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
     {
         "name": "Haga Akane",
-        "img": "https://i.imgur.com/HKiHR1t.jpg"
+        "img": "https://i.imgur.com/x4dFtf3.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
     {
         "name": "Kaga Kaede",
-        "img": "https://i.imgur.com/CUhDi09.jpg"
+        "img": "https://i.imgur.com/wd0Wnhm.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
     {
         "name": "Yokoyama Reina",
-        "img": "https://i.imgur.com/YNX09mh.jpg"
+        "img": "https://i.imgur.com/Vw2upYZ.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
     {
         "name": "Morito Chisaki",
-        "img": "https://i.imgur.com/aUMrcPV.jpg"
+        "img": "https://i.imgur.com/BVNo0CT.jpg"
         , opts: {
             subkeyaki: ["mm", "cg"]
         }
     },
     {
         "name": "Kitagawa Rio",
-        "img": "https://i.imgur.com/UcnjqMg.jpg"
+        "img": "https://i.imgur.com/He77kHT.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
     {
         "name": "Okamura Homare",
-        "img": "https://i.imgur.com/KYbAnRO.jpg"
+        "img": "https://i.imgur.com/agmDdtj.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
     {
         "name": "Yamazaki Mei",
-        "img": "https://i.imgur.com/A6SlwUr.jpg"
+        "img": "https://i.imgur.com/hwfb6cl.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
