@@ -6,21 +6,21 @@ dataSet[dataSetVersion].characterData = [
 
     {
         "name": "譜久村聖",
-        "img": "https://i.imgur.com/fPAkWqy.jpg"
+        "img": "https://i.imgur.com/NVqGZlV.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
     {
         "name": "生田衣梨奈",
-        "img": "https://i.imgur.com/lgH8LKQ.jpg"
+        "img": "https://i.imgur.com/JjOlScv.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
     {
         "name": "石田亜佑美",
-        "img": "https://i.imgur.com/kGJFsvN.jpg"
+        "img": "https://i.imgur.com/4ijRJpo.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
@@ -34,70 +34,70 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "小田さくら",
-        "img": "https://i.imgur.com/TAhSYag.jpg"
+        "img": "https://i.imgur.com/StD5KBy.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
     {
         "name": "野中美希",
-        "img": "https://i.imgur.com/OGcx4vS.jpg"
+        "img": "https://i.imgur.com/E9r87j8.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
     {
         "name": "牧野真莉愛",
-        "img": "https://i.imgur.com/isE6AwY.jpg"
+        "img": "https://i.imgur.com/AlbyEfs.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
     {
         "name": "羽賀朱音",
-        "img": "https://i.imgur.com/HKiHR1t.jpg"
+        "img": "https://i.imgur.com/x4dFtf3.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
     {
         "name": "加賀楓",
-        "img": "https://i.imgur.com/CUhDi09.jpg"
+        "img": "https://i.imgur.com/wd0Wnhm.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
     {
         "name": "横山玲奈",
-        "img": "https://i.imgur.com/YNX09mh.jpg"
+        "img": "https://i.imgur.com/Vw2upYZ.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
     {
         "name": "森戸知沙希",
-        "img": "https://i.imgur.com/aUMrcPV.jpg"
+        "img": "https://i.imgur.com/BVNo0CT.jpg"
         , opts: {
             subkeyaki: ["mm", "cg"]
         }
     },
     {
         "name": "北川莉央",
-        "img": "https://i.imgur.com/UcnjqMg.jpg"
+        "img": "https://i.imgur.com/He77kHT.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
     {
         "name": "岡村ほまれ",
-        "img": "https://i.imgur.com/KYbAnRO.jpg"
+        "img": "https://i.imgur.com/agmDdtj.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
     {
         "name": "山﨑愛生",
-        "img": "https://i.imgur.com/A6SlwUr.jpg"
+        "img": "https://i.imgur.com/hwfb6cl.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
