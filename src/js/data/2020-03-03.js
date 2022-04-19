@@ -1349,8 +1349,547 @@ dataSet[dataSetVersion].characterData = [
         , opts: {
             subkeyaki: ["cgropus"]
         }
-
     },
+	{
+        "name": "aMa no Jaku",
+        "img": "https://i.imgur.com/hvuKxxw.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+	{
+        "name": "Asu wa Date na no ni, Imasugu Koe ga Kikitai",
+        "img": "https://i.imgur.com/4016Pyn.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+	{
+        "name": "Suki-chan",
+        "img": "https://i.imgur.com/miLlJJg.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+		{
+        "name": "Otona ni Narutte Muzukashii!!!",
+        "img": "https://i.imgur.com/prKD8ke.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+		{
+        "name": "Yumemiru Fifteen",
+        "img": "https://i.imgur.com/T5QMsTi.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+		{
+        "name": "○○ Ganbaranakutemo Eenende!!",
+        "img": "https://i.imgur.com/yS5OMSL.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+	{
+        "name": "Onaji Jikyuu de Hataraku Tomodachi no Bijin Mama",
+        "img": "https://i.imgur.com/foVrfrC.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+		{
+        "name": "Short Cut",
+        "img": "https://i.imgur.com/ATVENmM.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },	
+	{
+        "name": "Koi ni Booing Buu!",
+        "img": "https://i.imgur.com/9qL4OCt.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+		{
+        "name": "Uchouten LOVE",
+        "img": "https://i.imgur.com/sA6Cfut.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+		{
+        "name": "Tachiagirl",
+        "img": "https://i.imgur.com/k6y2N8r.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+		{
+        "name": "Please Miniskirt Postwoman!",
+        "img": "https://i.imgur.com/Nf5Bj10.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+		{
+        "name": "Choto Mate Kudasai!",
+        "img": "https://i.imgur.com/3w9hU7U.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+	{
+        "name": "Dot Bikini",
+        "img": "https://i.imgur.com/kxOsPBa.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+	{
+        "name": "Suki yo, Junjou Hankouki.",
+        "img": "https://i.imgur.com/c1YnKV1.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+	{
+        "name": "Samui ne.",
+        "img": "https://i.imgur.com/xW2MzRX.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+	{
+        "name": "Tabidachi no Haru ga Kita",
+        "img": "https://i.imgur.com/LVqUlyD.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+	{
+        "name": "Atarashii Watashi ni Nare! ",
+        "img": "https://i.imgur.com/HBQQBy9.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+	{
+        "name": "Yattaruchan",
+        "img": "https://i.imgur.com/nisH7JS.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+	{
+        "name": "Ee ka!?",
+        "img": "https://i.imgur.com/P2fhu8q.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+	{
+        "name": "Ii Yatsu",
+        "img": "https://i.imgur.com/EG8sUcX.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+	{
+        "name": "Mystery Night!",
+        "img": "https://i.imgur.com/OFSC1Qa.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+	{
+        "name": "Eighteen Emotion",
+        "img": "https://i.imgur.com/KJYHbQq.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+	{
+        "name": "Aa Susukino",
+        "img": "https://i.imgur.com/4pIp711.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+	{
+        "name": "Chikyuu wa Kyou mo Ai wo Hagukumu",
+        "img": "https://i.imgur.com/tXMCGeu.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+	{
+        "name": "Taiki Bansei",
+        "img": "https://i.imgur.com/glpIZH1.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+	{
+        "name": "Otome no Gyakushuu",
+        "img": "https://i.imgur.com/LmtBEbO.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+	{
+        "name": "Nana Korobi Ya Oki",
+        "img": "https://i.imgur.com/VwZ9q1U.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+	{
+        "name": "Gashin Shoutan",
+        "img": "https://i.imgur.com/HFZQ5Gq.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+	{
+        "name": "Mahou Tsukai Sally",
+        "img": "https://i.imgur.com/GLXjjBJ.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+	{
+        "name": "Desugita Kui wa Utarenai",
+        "img": "https://i.imgur.com/QSMyAQi.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+	{
+        "name": "Dondengaeshi",
+        "img": "https://i.imgur.com/br7IQq7.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },	
+	{
+        "name": "Watashi",
+        "img": "https://i.imgur.com/wUsKG2n.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+	{
+        "name": "Tsugitsugi Zokuzoku",
+        "img": "https://i.imgur.com/cuvKELv.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+	{
+        "name": "Itoshima Distance",
+        "img": "https://i.imgur.com/3g3bgY7.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+	{
+        "name": "Koi Nara Tokku ni Hajimatteru",
+        "img": "https://i.imgur.com/r0R8y7B.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+	{
+        "name": "Umaku Ienai",
+        "img": "https://i.imgur.com/Al2dkdP.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+	{
+        "name": "Ai no Tame Kyou Made Shinka Shite Kita Ningen Ai no Tame Subete Taika Shite Kita Ningen",
+        "img": "https://i.imgur.com/ZChgazM.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+	{
+        "name": "Wasurete Ageru",
+        "img": "https://i.imgur.com/NFl1yMC.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+	{
+        "name": "Ai Sae Areba Nanni mo Iranai",
+        "img": "https://i.imgur.com/ZAD4SVo.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+	{
+        "name": "Namida Iro no Ketsui",
+        "img": "https://i.imgur.com/QPSos7u.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+	{
+        "name": "Majokko Megu-chan",
+        "img": "https://i.imgur.com/sK8UpcD.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+	{
+        "name": "Nakenai ze・・・Kyoukan Sagi",
+        "img": "https://i.imgur.com/zjRgclk.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+	{
+        "name": "Uraha=Lover",
+        "img": "https://i.imgur.com/agkVgfv.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+	{
+        "name": "Kimi Dake ja nai sa...friends (2018 Acoustic Ver.)",
+        "img": "https://i.imgur.com/7S88tKv.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+	{
+        "name": "Tade Kuu Mushi mo Like it!",
+        "img": "https://i.imgur.com/2wjJjx5.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+	{
+        "name": "46okunen LOVE",
+        "img": "https://i.imgur.com/1D6Jw0m.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+	{
+        "name": "Koi wa Accha Accha",
+        "img": "https://i.imgur.com/GIiVONy.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+	{
+        "name": "Yumemita Fifteen",
+        "img": "https://i.imgur.com/NhfwMs6.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+	{
+        "name": "Watashi wo Tsukuru no wa Watashi",
+        "img": "https://i.imgur.com/ClDLQiu.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+	{
+        "name": "Zenzen Okiagarenai SUNDAY",
+        "img": "https://i.imgur.com/2fCbpS6.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+	{
+        "name": "Kagiriaru Moment",
+        "img": "https://i.imgur.com/1TmPHVH.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+	{
+        "name": "Mirror Mirror",
+        "img": "https://i.imgur.com/O2UcR7q.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+	{
+        "name": "Hakkiri Shiyou ze",
+        "img": "https://i.imgur.com/XraXyY3.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+	{
+        "name": "Oyogenai Mermaid",
+        "img": "https://i.imgur.com/4a1XCf9.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+	{
+        "name": "Aisare Route A or B?",
+        "img": "https://i.imgur.com/rsoMJwr.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+	{
+        "name": "Ai・Mashou",
+        "img": "https://i.imgur.com/iDXwUKR.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+	{
+        "name": "Hade ni Yacchai na!",
+        "img": "https://i.imgur.com/WcK3HVV.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+	{
+        "name": "Aisubeki Beki Human Life",
+        "img": "https://i.imgur.com/lCtT7tG.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+		{
+        "name": "The Best! ~Updated Morning Musume~",
+        "img": "https://i.imgur.com/dv2O9jh.jpg"
+        , opts: {
+            subkeyaki: ["mmalbum"]
+        }
+    },
+	{
+        "name": "First Time",
+        "img": "https://i.imgur.com/O2kVV9n.jpg"
+        , opts: {
+            subkeyaki: ["mmalbum"]
+        }
+    },
+	{
+        "name": "Second Morning",
+        "img": "https://i.imgur.com/4sWdsIJ.jpg"
+        , opts: {
+            subkeyaki: ["mmalbum"]
+        }
+    },
+	{
+        "name": "3rd -LOVE Paradise-",
+        "img": "https://i.imgur.com/83FADtF.jpg"
+        , opts: {
+            subkeyaki: ["mmalbum"]
+        }
+    },
+	{
+        "name": "4th Ikimasshoi!",
+        "img": "https://i.imgur.com/cFGbfQS.jpg"
+        , opts: {
+            subkeyaki: ["mmalbum"]
+        }
+    },
+	{
+        "name": "No.5",
+        "img": "https://i.imgur.com/E7OXVfd.jpg"
+        , opts: {
+            subkeyaki: ["mmalbum"]
+        }
+    },
+	{
+        "name": "Ai no Dai 6kan",
+        "img": "https://i.imgur.com/FUXR7IR.jpg"
+        , opts: {
+            subkeyaki: ["mmalbum"]
+        }
+    },
+	{
+        "name": "Rainbow 7",
+        "img": "https://i.imgur.com/FzHNUD5.jpg"
+        , opts: {
+            subkeyaki: ["mmalbum"]
+        }
+    },
+	{
+        "name": "7.5 Fuyu Fuyu Morning Musume Mini!",
+        "img": "https://i.imgur.com/BHPHnQL.jpg"
+        , opts: {
+            subkeyaki: ["mmalbum"]
+        }
+    },
+	{
+        "name": "SEXY 8 BEAT",
+        "img": "https://i.imgur.com/OkkmTBD.jpg"
+        , opts: {
+            subkeyaki: ["mmalbum"]
+        }
+    },
+	{
+        "name": "Platinum 9 DISC",
+        "img": "https://i.imgur.com/Hw1XpbK.jpg"
+        , opts: {
+            subkeyaki: ["mmalbum"]
+        }
+    },
+	{
+        "name": "⑩ MY ME",
+        "img": "https://i.imgur.com/61tGSE7.jpg"
+        , opts: {
+            subkeyaki: ["mmalbum"]
+        }
+    },
+	{
+        "name": "Fantasy! Juuichi",
+        "img": "https://i.imgur.com/6YeoecN.jpg"
+        , opts: {
+            subkeyaki: ["mmalbum"]
+        }
+    },
+	{
+        "name": "12, Smart",
+        "img": "https://i.imgur.com/mYeGAmm.jpg"
+        , opts: {
+            subkeyaki: ["mmalbum"]
+        }
+    },
+	{
+        "name": "⑬ Colorful Character",
+        "img": "https://i.imgur.com/hBjdGkk.jpg"
+        , opts: {
+            subkeyaki: ["mmalbum"]
+        }
+    },
+	{
+        "name": "14shou ~The message~",
+        "img": "https://i.imgur.com/b2ddKPJ.jpg"
+        , opts: {
+            subkeyaki: ["mmalbum"]
+        }
+    },
+	{
+        "name": "⑮ Thank you, too",
+        "img": "https://i.imgur.com/aMFOZgN.jpg"
+        , opts: {
+            subkeyaki: ["mmalbum"]
+        }
+    },
+	{
+        "name": "16th ~That's J-POP~",
+        "img": "https://i.imgur.com/69rbfCu.jpg"
+        , opts: {
+            subkeyaki: ["mmalbum"]
+        }
+    }
+	
 ];
 
 
@@ -1365,6 +1904,8 @@ dataSet[dataSetVersion].options = [
             { name: 'Morning Musume Eras', key: 'mmeras' },
             { name: 'Morning Musume Singles', key: 'mmsingle' },
             { name: 'Morning Musume A Side List', key: 'aSideList' },
+			{ name: 'Morning Musume Albums ', key: 'mmalbum' },
+			{ name: 'S/Mileage & ANGERME A Side List', key: 'anjuAside' },
         ]
     }
 
