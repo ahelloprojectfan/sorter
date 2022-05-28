@@ -826,7 +826,7 @@ dataSet[dataSetVersion].characterData = [
     ,
     {
         "name": "Nakazawa Yuko",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/1/16/NakazawaYuko-Autumn2019.jpg/revision/latest/scale-to-width-down/270?cb=20191208225018"
+        "img": "https://i.imgur.com/oYmEKJX.jpg"
         , opts: {
             subkeyaki: ["mmog"]
         }
