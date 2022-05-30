@@ -27,7 +27,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "佐藤優樹",
-        "img": "https://i.imgur.com/CTeTH09.jpg"
+        "img": "https://i.imgur.com/PXAxzgy.jpg"
         , opts: {
             subkeyaki: ["mmog"]
         }
@@ -135,7 +135,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "船木結",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/2/2a/FunakiMusubu-Anju28thSingle.jpg/revision/latest/scale-to-width-down/270?cb=20200612123146"
+        "img": "https://i.imgur.com/rmB6KJX.jpg?1"
         , opts: {
             subkeyaki: ["SnAog", "cg"]
         }
@@ -192,7 +192,7 @@ dataSet[dataSetVersion].characterData = [
     //Juice=Juice
     {
         "name": "金澤朋子",
-        "img": "https://i.imgur.com/BnA1nYE.jpg"
+        "img": "https://i.imgur.com/EAFHdhc.jpg"
         , opts: {
             subkeyaki: ["ex-jj"]
         }
@@ -206,14 +206,14 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "宮本佳林",
-        "img": "https://i.imgur.com/zL5jdaY.jpg"
+        "img": "https://i.imgur.com/Gzvoyy8.jpg"
         , opts: {
             subkeyaki: ["ex-jj"]
         }
     },
     {
         "name": "宮崎由加",
-        "img": "https://i.imgur.com/YHJtoUw.jpg"
+        "img": "https://i.imgur.com/hLskgMh.jpg"
         , opts: {
             subkeyaki: ["ex-jj"]
         }
@@ -236,7 +236,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "稲場愛香",
         "img": "https://i.imgur.com/GwhDFVO.jpg"
         , opts: {
-            subkeyaki: ["jj", "cg"]
+            subkeyaki: ["ex-jj", "cg"]
         }
     },
     {
@@ -281,7 +281,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "小片リサ",
-        "img": "https://i.imgur.com/QhpSX5G.jpg"
+        "img": "https://i.imgur.com/kIEvPdP.jpg"
         , opts: {
             subkeyaki: ["extf"]
         }
@@ -558,7 +558,7 @@ dataSet[dataSetVersion].characterData = [
     // Kobushi Factory
     {
         "name": "広瀬彩海",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/f/fa/HiroseAyaka-January2020.jpg/revision/latest/scale-to-width-down/300?cb=20200127191142"
+        "img": "https://i.imgur.com/Pi1FBqd.jpg?1"
         , opts: {
             subkeyaki: ["kf"]
         }
@@ -574,7 +574,7 @@ dataSet[dataSetVersion].characterData = [
     ,
     {
         "name": "浜浦彩乃",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/9/9b/HamauraAyano-January2020.jpg/revision/latest/scale-to-width-down/300?cb=20200127191653"
+        "img": "https://i.imgur.com/JcqyEwt.jpg?1"
         , opts: {
             subkeyaki: ["kf"]
         }
@@ -621,7 +621,7 @@ dataSet[dataSetVersion].characterData = [
     ,
     {
         "name": "小関舞",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/8/89/OzekiMai-CountryGirlsDaizenshuu1.jpeg/revision/latest/scale-to-width-down/290?cb=20191105035146"
+        "img": "https://i.imgur.com/tEpGALa.jpg"
         , opts: {
             subkeyaki: ["cg"]
         }
@@ -642,7 +642,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "島村嬉唄",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/a/a5/Shimamura201502.jpg/revision/latest/scale-to-width-down/270?cb=20150227160727"
+        "img": "https://i.imgur.com/bYysW96.jpg?1"
         , opts: {
             subkeyaki: ["cg"]
         }
@@ -651,21 +651,21 @@ dataSet[dataSetVersion].characterData = [
     //C-ute
     {
         "name": "矢島舞美",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/7/74/YajimalastAlbum.jpg/revision/latest/scale-to-width-down/290?cb=20170407112319"
+        "img": "https://i.imgur.com/E99x9ke.jpg"
         , opts: {
             subkeyaki: ["cute"]
         }
     },
     {
         "name": "中島早貴",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/9/92/NakajimalastAlbum.jpg/revision/latest/scale-to-width-down/300?cb=20170407113135"
+        "img": "https://i.imgur.com/VnTd3h8.jpg"
         , opts: {
             subkeyaki: ["cute"]
         }
     },
     {
         "name": "鈴木愛理",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/a/a0/SuzukiairilastAlbum.jpg/revision/latest/scale-to-width-down/325?cb=20170407114121"
+        "img": "https://i.imgur.com/BNg0j1n.jpg"
         , opts: {
             subkeyaki: ["cute", "buono"]
         }
@@ -727,7 +727,7 @@ dataSet[dataSetVersion].characterData = [
     ,
     {
         "name": "須藤茉麻",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/9/92/D34a65b652b4c014e047085e03a282a6e4e82b7e.jpg/revision/latest/scale-to-width-down/160?cb=20141226130214"
+        "img": "https://i.imgur.com/PpAa1Fz.jpg"
         , opts: {
             subkeyaki: ["berryz"]
         }
@@ -735,7 +735,7 @@ dataSet[dataSetVersion].characterData = [
     ,
     {
         "name": "夏焼雅",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/3/3a/4b251d2ee134e926049e5890d0868826b58c0659.jpg/revision/latest/scale-to-width-down/210?cb=20141226125047"
+        "img": "https://i.imgur.com/pIK7BtP.jpg"
         , opts: {
             subkeyaki: ["berryz", "buono"]
         }
@@ -743,7 +743,7 @@ dataSet[dataSetVersion].characterData = [
     ,
     {
         "name": "熊井友理奈",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/1/10/D7931be569946a39ea8ef01d01feae91d33ff09e.jpg/revision/latest/scale-to-width-down/150?cb=20141226130345"
+        "img": "https://i.imgur.com/ueoiCpm.jpg"
         , opts: {
             subkeyaki: ["berryz"]
         }
@@ -803,14 +803,14 @@ dataSet[dataSetVersion].characterData = [
 
     {
         "name": "石川梨華",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/7/7b/IshikawaRika-May2017.jpg/revision/latest/scale-to-width-down/180?cb=20170523050915"
+        "img": "https://i.imgur.com/QVEdQvK.jpg"
         , opts: {
             subkeyaki: ["vuden", "mmog"]
         }
     },
     {
         "name": "三好絵梨香",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/b/bd/MiyoshiErika-Sept2019.jpg/revision/latest/scale-to-width-down/240?cb=20191011092144"
+        "img": "https://i.imgur.com/10Ubwog.jpg"
         , opts: {
             subkeyaki: ["vuden"]
         }
@@ -833,98 +833,98 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "石黒彩",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/0/06/IshiguroAya2019.jpg/revision/latest/scale-to-width-down/270?cb=20191214131552"
+        "img": "https://i.imgur.com/kfVuYJH.jpg"
         , opts: {
             subkeyaki: ["mmog"]
         }
     },
     {
         "name": "飯田圭織",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/b/b6/IidaKaori-July2016.jpg/revision/latest/scale-to-width-down/270?cb=20160715030756"
+        "img": "https://i.imgur.com/991qyUg.jpg"
         , opts: {
             subkeyaki: ["mmog"]
         }
     },
     {
         "name": "安倍なつみ",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/3/33/AbeNDreamspromo.jpg/revision/latest/scale-to-width-down/270?cb=20150522172551"
+        "img": "https://i.imgur.com/VzyBGM3.jpg"
         , opts: {
             subkeyaki: ["mmog"]
         }
     },
     {
         "name": "福田明日香",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/2/29/FukudaAsuka-NeverForget.jpg/revision/latest/scale-to-width-down/270?cb=20180206210719"
+        "img": "https://i.imgur.com/NZiIVTa.jpg?1"
         , opts: {
             subkeyaki: ["mmog"]
         }
     },
     {
         "name": "保田圭",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/1/1e/YasudaKei-Apr2019.jpg/revision/latest/scale-to-width-down/270?cb=20190428231705"
+        "img": "https://i.imgur.com/x8UU2HG.jpg"
         , opts: {
             subkeyaki: ["mmog"]
         }
     },
     {
         "name": "矢口真里",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/a/a4/YaguchiMari-May2018.jpg/revision/latest/scale-to-width-down/270?cb=20180522182201"
+        "img": "https://i.imgur.com/Kd3xZm8.jpg"
         , opts: {
             subkeyaki: ["mmog"]
         }
     },
     {
         "name": "市井紗耶香",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/1/10/IchiiSayaka-Sept2017.jpg/revision/latest/scale-to-width-down/270?cb=20171103055400"
+        "img": "https://i.imgur.com/O3ETGWK.jpg"
         , opts: {
             subkeyaki: ["mmog"]
         }
     },
     {
         "name": "後藤真希",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/3/3a/GotoMaki-May2018.jpg/revision/latest/scale-to-width-down/270?cb=20180622223205"
+        "img": "https://i.imgur.com/WEEw7Nw.jpg?1"
         , opts: {
             subkeyaki: ["mmog"]
         }
     },
     {
         "name": "吉澤ひとみ;",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/9/9f/02769fcca6b116ac7b1b4f091e2a747f5a4aa817.jpg/revision/latest/scale-to-width-down/270?cb=20180518105133"
+        "img": "https://i.imgur.com/sKpXOqR.jpg"
         , opts: {
             subkeyaki: ["mmog"]
         }
     },
     {
         "name": "辻希美",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/8/89/TsujiNozomi-Oct2019.jpg/revision/latest/scale-to-width-down/270?cb=20191010030325"
+        "img": "https://i.imgur.com/daH84IE.jpg"
         , opts: {
             subkeyaki: ["mmog"]
         }
     },
     {
         "name": "加護亜依",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/e/e6/KagoAi-Apr2016.jpg/revision/latest/scale-to-width-down/270?cb=20170903064454"
+        "img": "https://i.imgur.com/4paY0el.jpg?1"
         , opts: {
             subkeyaki: ["mmog"]
         }
     },
     {
         "name": "高橋愛",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/d/d4/TakahashiAi-Sept2019.jpg/revision/latest/scale-to-width-down/270?cb=20190912044510"
+        "img": "https://i.imgur.com/MkqXmwW.jpg"
         , opts: {
             subkeyaki: ["mmog"]
         }
     },
     {
         "name": "紺野あさ美",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/f/f1/KonnoAsami2019.jpg/revision/latest?cb=20200129015225"
+        "img": "https://i.imgur.com/uRHdE2K.jpg"
         , opts: {
             subkeyaki: ["mmog"]
         }
     },
     {
         "name": "小川麻琴",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/1/19/CygyajWH4sceMgN9D94f8Ve-bjY.jpg/revision/latest/scale-to-width-down/270?cb=20140911165052"
+        "img": "https://i.imgur.com/cyVIr1N.jpg?1"
         , opts: {
             subkeyaki: ["mmog"]
         }
@@ -938,91 +938,91 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "藤本美貴",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/9/9f/Fujimoto2015.jpg/revision/latest/scale-to-width-down/270?cb=20190302061051"
+        "img": "https://i.imgur.com/p1Z9Q69.jpg"
         , opts: {
             subkeyaki: ["mmog"]
         }
     },
     {
         "name": "亀井絵里",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/b/bb/KameiEri-Fantasy-front.jpeg/revision/latest/scale-to-width-down/270?cb=20191209023130"
+        "img": "https://i.imgur.com/YLxFh5Z.jpg?1"
         , opts: {
             subkeyaki: ["mmog"]
         }
     },
     {
         "name": "道重さゆみ",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/2/2e/MichishigeSayumi-August2019.jpg/revision/latest/scale-to-width-down/270?cb=20200112211216"
+        "img": "https://i.imgur.com/UUKxxOL.jpg"
         , opts: {
             subkeyaki: ["mmog"]
         }
     },
     {
         "name": "田中れいな",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/1/19/TanakaReina-Aug2018.jpg/revision/latest/scale-to-width-down/270?cb=20180831133135"
+        "img": "https://i.imgur.com/UdWp6Gt.jpg"
         , opts: {
             subkeyaki: ["mmog", "lovendor"]
         }
     },
     {
         "name": "久住小春",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/c/c3/KusumiKoharu-OscarPromotion-Apr2017.jpg/revision/latest/scale-to-width-down/270?cb=20170407233910"
+        "img": "https://i.imgur.com/hMrxapF.jpg"
         , opts: {
             subkeyaki: ["mmog"]
         }
     },
     {
         "name": "光井愛佳",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/a/a5/Aika14png.jpg/revision/latest/scale-to-width-down/270?cb=20141201092552"
+        "img": "https://i.imgur.com/m4v6gxL.jpg?1"
         , opts: {
             subkeyaki: ["mmog"]
         }
     },
     {
         "name": "ジュンジュン",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/9/97/LiQinYao-January2018.jpeg/revision/latest/scale-to-width-down/270?cb=20191209013032"
+        "img": "https://i.imgur.com/lGd3UxC.jpg?1"
         , opts: {
             subkeyaki: ["mmog"]
         }
     },
     {
         "name": "リンリン",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/3/39/Linlin-January2016.jpg/revision/latest?cb=20160124054527"
+        "img": "https://i.imgur.com/KpwYXeN.jpg?1"
         , opts: {
             subkeyaki: ["mmog"]
         }
     },
     {
         "name": "鞘師里保",
-        "img": "https://i.imgur.com/WyjyaDg.jpg"
+        "img": "https://i.imgur.com/6bMAkwn.jpg?1"
         , opts: {
             subkeyaki: ["mmog"]
         }
     },
     {
         "name": "鈴木香音",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/7/79/UtakataSuzuki.jpg/revision/latest/scale-to-width-down/250?cb=20160422141208"
+        "img": "https://i.imgur.com/gABLnpP.jpg?1"
         , opts: {
             subkeyaki: ["mmog"]
         }
     },
     {
         "name": "飯窪春菜",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/d/d4/IikuboHaruna-NinaProducer-Dec2018.jpg/revision/latest/scale-to-width-down/270?cb=20181217024204"
+        "img": "https://i.imgur.com/3X8Ncz5.jpg"
         , opts: {
             subkeyaki: ["mmog"]
         }
     },
     {
         "name": "工藤遥",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/9/91/KudoHaruka-Oct2019.jpg/revision/latest/scale-to-width-down/270?cb=20191027064431"
+        "img": "https://i.imgur.com/BNkPxpt.jpg"
         , opts: {
             subkeyaki: ["mmog"]
         }
     },
     {
         "name": "尾形春水",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/c/cd/Ogataharuna2019.jpg/revision/latest/scale-to-width-down/270?cb=20190619153504"
+        "img": "https://i.imgur.com/AI40dno.jpg"
         , opts: {
             subkeyaki: ["mmog"]
         }
@@ -1034,7 +1034,7 @@ dataSet[dataSetVersion].characterData = [
 
     {
         "name": "和田彩花",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/b/b9/WadaAyaka-RinnetenshouANGERMEPastPresentFuture.jpg/revision/latest?cb=20190501053031"
+        "img": "https://i.imgur.com/MZ8IOc7.jpg"
         , opts: {
             subkeyaki: ["SnAog"]
         }
@@ -1069,7 +1069,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "勝田里奈",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/b/b1/KatsutaRina-Oct2019.jpg/revision/latest/scale-to-width-down/270?cb=20191001061145"
+        "img": "https://i.imgur.com/Wk0GFuW.jpg"
         , opts: {
             subkeyaki: ["SnAog"]
         }
