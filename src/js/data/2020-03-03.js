@@ -1888,7 +1888,21 @@ dataSet[dataSetVersion].characterData = [
         , opts: {
             subkeyaki: ["mmalbum"]
         }
-    }
+    },
+	 {
+        "name": "Chu Chu Chu Bokura no Mirai (2022)",
+        "img": "https://i.imgur.com/skgQEtB.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+        }
+    },
+	 {
+        "name": "Dai・Jinsei Never Been Better! (2022)",
+        "img": "https://i.imgur.com/LsNIlDX.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+	}
+}
 	
 ];
 
@@ -1902,7 +1916,7 @@ dataSet[dataSetVersion].options = [
         sub: [
             { name: 'Current Groups Sorter ', key: 'cgropus' },
             { name: 'Morning Musume Eras', key: 'mmeras' },
-            { name: 'Morning Musume Singles', key: 'mmsingle' },
+            { name: 'Morning Musume Singles (Up to 2020)', key: 'mmsingle' },
             { name: 'Morning Musume A Side List', key: 'aSideList' },
 			{ name: 'Morning Musume Albums ', key: 'mmalbum' },
 			{ name: 'S/Mileage & ANGERME A Side List', key: 'anjuAside' },
