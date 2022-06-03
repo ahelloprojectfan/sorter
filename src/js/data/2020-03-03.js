@@ -1345,7 +1345,7 @@ dataSet[dataSetVersion].characterData = [
      },
      {
         "name": "OCHA NORMA",
-        "img": "https://i.imgur.com/eJnlwtr.jpg"
+        "img": "https://i.imgur.com/QT91PVI.jpg"
         , opts: {
             subkeyaki: ["cgropus"]
         }
