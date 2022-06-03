@@ -428,21 +428,21 @@ dataSet[dataSetVersion].characterData = [
 
     {
         "name": "米村姫良々",
-        "img": "https://i.imgur.com/BD1ip6r.jpg"
+        "img": "https://i.imgur.com/q9AqmjL.jpg"
         , opts: {
             subkeyaki: ["kunit"]
         }
     },
     {
         "name": "中山夏月姫",
-        "img": "https://i.imgur.com/9F3zHCG.jpg"
+        "img": "https://i.imgur.com/SIIvVt2.jpg"
         , opts: {
             subkeyaki: ["kunit"]
         }
     },
     {
         "name": "窪田七海",
-        "img": "https://i.imgur.com/BkqQ8F9.jpg"
+        "img": "https://i.imgur.com/RkQJUhR.jpg"
         , opts: {
             subkeyaki: ["kunit"]
         }
@@ -456,7 +456,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "斉藤円香",
-        "img": "https://i.imgur.com/TpFypHQ.jpg"
+        "img": "https://i.imgur.com/ycAT5ZS.jpg"
         , opts: {
             subkeyaki: ["kunit"]
         }
@@ -470,7 +470,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "広本瑠璃",
-        "img": "https://i.imgur.com/NbHyx2R.jpg"
+        "img": "https://i.imgur.com/uF5WgYs.jpg"
         , opts: {
             subkeyaki: ["kunit"]
         }
@@ -484,7 +484,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "西﨑美空",
-        "img": "https://i.imgur.com/OZwZ4Sn.jpg"
+        "img": "https://i.imgur.com/EC9tlh2.jpg"
         , opts: {
             subkeyaki: ["kunit"]
         }
@@ -498,7 +498,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "北原もも",
-        "img": "https://i.imgur.com/z3mDD8r.jpg"
+        "img": "https://i.imgur.com/ubhmB3W.jpg"
         , opts: {
             subkeyaki: ["kunit"]
         }
@@ -548,7 +548,7 @@ dataSet[dataSetVersion].characterData = [
     ,
     {
         "name": "石栗奏美",
-        "img": "https://i.imgur.com/mXygDy8.jpg"
+        "img": "https://i.imgur.com/w2t0NGN.jpg"
         , opts: {
             subkeyaki: ["kunit"]
         }
@@ -1242,14 +1242,14 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "田代すみれ",
-        "img": "https://i.imgur.com/ZXvlpVj.jpg"
+        "img": "https://i.imgur.com/ril3WVg.jpg"
         , opts: {
             subkeyaki: ["kunit"]
         }
     },
     {
         "name": "筒井澪心",
-        "img": "https://i.imgur.com/ZwILf6E.jpg"
+        "img": "https://i.imgur.com/vDSmRDQ.jpg"
         , opts: {
             subkeyaki: ["kunit"]
         }
@@ -1260,15 +1260,8 @@ dataSet[dataSetVersion].characterData = [
         , opts: {
             subkeyaki: ["kss"]
         }
-    },
-    {
-        "name": "前島花凛",
-        "img": "https://i.imgur.com/nwe7t5X.jpg"
-        , opts: {
-            subkeyaki: ["kss"]
-        }
     }
-
+   
     
     
 ];
