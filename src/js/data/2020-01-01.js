@@ -234,7 +234,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "稲場愛香",
-        "img": "https://i.imgur.com/GwhDFVO.jpg"
+        "img": "https://i.imgur.com/W6FVWO2.jpg"
         , opts: {
             subkeyaki: ["ex-jj", "cg"]
         }
@@ -540,9 +540,9 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "石山咲良",
-        "img": "https://i.imgur.com/657w1oh.jpg"
+        "img": "https://i.imgur.com/J8byDtO.jpg"
         , opts: {
-            subkeyaki: ["kss"]
+            subkeyaki: ["jj"]
         }
     },
     ,
@@ -751,7 +751,7 @@ dataSet[dataSetVersion].characterData = [
     ,
     {
         "name": "菅谷梨沙子",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/1/12/46b3c7d0fed117595e2914f58fbf0913ed92e1c9.jpg/revision/latest/scale-to-width-down/180?cb=20141226125528"
+        "img": "https://i.imgur.com/Uf5TqtK.jpg"
         , opts: {
             subkeyaki: ["berryz"]
         }
@@ -1260,6 +1260,20 @@ dataSet[dataSetVersion].characterData = [
         , opts: {
             subkeyaki: ["kss"]
         }
+    },
+    {
+        "name": "櫻井梨央",
+        "img": "https://i.imgur.com/Wdjos6g.jpg"
+        , opts: {
+            subkeyaki: ["mm"]
+        }
+    },
+    {
+        "name": "遠藤彩加里",
+        "img": "https://i.imgur.com/AN3jkHB.jpg"
+        , opts: {
+            subkeyaki: ["jj"]
+    }
     }
    
     
