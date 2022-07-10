@@ -540,7 +540,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Ishiyama Sakura",
-        "img": "https://i.imgur.com/J8byDtO.jpg"
+        "img": "https://i.imgur.com/rVHiLuf.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
@@ -1261,14 +1261,14 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Sakurai Rio",
-        "img": "https://i.imgur.com/Wdjos6g.jpg"
+        "img": "https://i.imgur.com/zhhpb15.jpg"
         , opts: {
             subkeyaki: ["mm"]
     }
     },
         {
         "name": "Endo Akari",
-        "img": "https://i.imgur.com/AN3jkHB.jpg"
+        "img": "https://i.imgur.com/kdhoqav.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
