@@ -112,7 +112,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "Sankaku no Glass (Sato) (2018)",
         "img": "https://i.imgur.com/CN6S4hZ.jpg"
         , opts:{
-            subkeyaki: ["vpbs","mmpb"]
+            subkeyaki: ["vpbs","mmgen9t12"]
         }
     },
     {
@@ -275,28 +275,28 @@ dataSet[dataSetVersion].characterData = [
         "name": "Momona (Kasahara) (2019)",
         "img": "https://i.imgur.com/DoMBeS3.jpg"
         , opts:{
-            subkeyaki: ["vpbs","angermepb"]
+            subkeyaki: ["vpbs","exangerme"]
         }
     },
     {
         "name": "MUSUBU (Funaki) (2017)",
         "img": "https://i.imgur.com/IjCdkNW.jpg"
         , opts:{
-            subkeyaki: ["pbs","angermepb","excg"]
+            subkeyaki: ["pbs","exangerme","excg"]
         }
     },
     {
         "name": "MUSUBU16 (Funaki) (2018)",
         "img": "https://i.imgur.com/8fSqDzh.jpg"
         , opts:{
-            subkeyaki: ["pbs","angermepb","excg"]
+            subkeyaki: ["pbs","exangerme","excg"]
         }
     },
     {
         "name": "KESSYO (Funaki) (2020)",
         "img": "https://i.imgur.com/aInOojf.jpg"
         , opts:{
-            subkeyaki: ["pbs","angermepb","excg","2020"]
+            subkeyaki: ["pbs","exangerme","excg","2020"]
         }
     },
     {
@@ -2196,7 +2196,7 @@ dataSet[dataSetVersion].characterData = [
    ,
     {
         "name": "Rio・17th summer (Kitagawa) (2021)",
-        "img": "https://i.imgur.com/uL2Mtmt.jpg"
+        "img": "https://i.imgur.com/WOF42U7.jpg"
         , opts:{
             subkeyaki: ["pbs","mmpb"]
         }
@@ -2210,10 +2210,201 @@ dataSet[dataSetVersion].characterData = [
         }
     }
     ,
+	{
+        "name": "Iroha Kaede (Kaga) (2020)",
+        "img": "https://i.imgur.com/1OCIT9o.jpg"
+        , opts:{
+            subkeyaki: ["pbs","mmpb", "2020"]
+        }
+    }
+	,
+	{
+        "name": "Loveliness... (Inaba) (2020)",
+        "img": "https://i.imgur.com/peBpuQ3.jpg"
+        , opts:{
+            subkeyaki: ["pbs","juicepb", "excg", "2020"]
+        }
+    }
+	,
+	{
+        "name": "Utano Biyori (Satoyoshi) (2021)",
+        "img": "https://i.imgur.com/FIqrfzv.jpg"
+        , opts:{
+            subkeyaki: ["pbs","bypb"]
+        }
+    }
+	,
+{
+        "name": "To be myself (Nonaka) (2021)",
+        "img": "https://i.imgur.com/WxjPNUp.jpg"
+        , opts:{
+            subkeyaki: ["pbs","mmpb"]
+        }
+    }
+	,
+{
+        "name": "Maria Hatachi (Makino) (2021)",
+        "img": "https://i.imgur.com/mNaS8sr.jpg"
+        , opts:{
+            subkeyaki: ["pbs","mmpb"]
+        }
+    }
+	,
+{
+        "name": "Kurumi Iro (Takase) (2021)",
+        "img": "https://i.imgur.com/Ue8003I.jpg"
+        , opts:{
+            subkeyaki: ["pbs","bypb"]
+        }
+    }
+	,
+{
+        "name": "Umi no Mieru Machi (Asakura) (2021)",
+        "img": "https://i.imgur.com/PFaBZdF.jpg"
+        , opts:{
+            subkeyaki: ["pbs","tsubakipb"]
+        }
+    }
+	,
+{
+        "name": "BEYOOOOONDS② (Group) (2021)",
+        "img": "https://i.imgur.com/05pJHcL.jpg"
+        , opts:{
+            subkeyaki: ["pbs","bypb"]
+        }
+    }
+	,
+{
+        "name": "with thanks (Morito) (2021)",
+        "img": "https://i.imgur.com/KuMtbOM.jpg"
+        , opts:{
+            subkeyaki: ["pbs","mmpb", "excg"]
+        }
+    }
+	,
+	{
+        "name": "CHILL#RAIL (Ichioka) (2021)",
+        "img": "https://i.imgur.com/mGcrCgu.jpg"
+        , opts:{
+            subkeyaki: ["pbs","bypb"]
+        }
+    }
+	,
+{
+        "name": "Dear Sister (Kasahara) (2021)",
+        "img": "https://i.imgur.com/3sbyFDc.jpg"
+        , opts:{
+            subkeyaki: ["vpbs","exangerme"]
+        }
+    }
+	,
+	{
+        "name": "Maplesugar (Kaga) (2021)",
+        "img": "https://i.imgur.com/NLm7tby.jpg"
+        , opts:{
+            subkeyaki: ["pbs","mmpb"]
+        }
+    }
+	,
+	{
+        "name": "Saori (Onoda) (2021)",
+        "img": "https://i.imgur.com/wySDezY.jpg"
+        , opts:{
+            subkeyaki: ["pbs","tsubakipb"]
+        }
+    }
+	,
+	{
+        "name": "glance (Fukumura) (2022)",
+        "img": "https://i.imgur.com/cKZI2SC.jpg"
+        , opts:{
+            subkeyaki: ["pbs","mmpb"]
+        }
+    }
+	,
+	{
+        "name": "Layla (Ise) (2022)",
+        "img": "https://i.imgur.com/lta4O6V.jpg"
+        , opts:{
+            subkeyaki: ["pbs","angermepb"]
+        }
+    }
+	,
+	{
+        "name": "belles feuilles (Hirai) (2022)",
+        "img": "https://i.imgur.com/CqbTeaW.jpg"
+        , opts:{
+            subkeyaki: ["pbs","bypb"]
+        }
+    }
+	,
+	{
+        "name": "M.21 (Makino) (2022)",
+        "img": "https://i.imgur.com/BlzjWN1.jpg"
+        , opts:{
+            subkeyaki: ["pbs","mmpb"]
+        }
+    }
+	,
+	{
+        "name": "Ailand (Inaba) (2022)",
+        "img": "https://i.imgur.com/7YHZv1Q.jpg"
+        , opts:{
+            subkeyaki: ["pbs","excg", "juicepb"]
+        }
+    }
+	,
+	{
+        "name": "prism (Sato) (2022)",
+        "img": "https://i.imgur.com/dwveGds.jpg"
+        , opts:{
+            subkeyaki: ["vpbs","mmgen9t12"]
+        }
+    }
+	,
+	{
+        "name": "HOMARE SEVENTEEN'S JOURNEY (Okamura) (2022)",
+        "img": "https://i.imgur.com/KxUE0uw.jpg"
+        , opts:{
+            subkeyaki: ["vpbs","mmpb"]
+        }
+    }
+	,
+	{
+        "name": "cheers (Morito) (2022)",
+        "img": "https://i.imgur.com/lAlrde7.jpg"
+        , opts:{
+            subkeyaki: ["pbs","excg","mmpb"]
+        }
+    }
+	,
+	    {
+        name: "Uka -growing wings- (Yamazaki) (2022)", 
+        img: "https://i.imgur.com/SAmx5OF.jpg"
+        , opts:{
+            subkeyaki: ["bypb", "pbs"]
+        }
 
+    }
+    ,
+    {
+        name: "Yumenoato (Kishimoto) (2022)", 
+        img: "https://i.imgur.com/A3IeUPC.jpg"
+        , opts:{
+            subkeyaki: ["tsubakipb", "pbs"]
+        }
 
+    }
+    ,
+    {
+        name: "Saya (Eguchi) (2022)", 
+        img: "https://i.imgur.com/JMi2MUt.jpg"
+        , opts:{
+            subkeyaki: ["bypb", "pbs"]
+        }
 
-
+    }
+    ,
 ];
 
 dataSet[dataSetVersion].options = [
@@ -2223,7 +2414,7 @@ dataSet[dataSetVersion].options = [
         tooltip: 'Check this to restrict to certain group',
         checked: true,
         sub: [
-            { name: "Morning Musume '20 and '21 Photobooks", key: 'mmpb' },
+            { name: "Morning Musume '22 Photobooks", key: 'mmpb' },
             { name: 'Juice=Juice Photobooks', key: 'juicepb' },
             { name: 'Angerme Photobooks', key: 'angermepb' },
             { name: 'Tsubaki Factory Photobooks', key: 'tsubakipb' },
@@ -2242,5 +2433,4 @@ dataSet[dataSetVersion].options = [
             { name: 'Ex-Angerme Photobooks', key: 'exangerme' }
         ]
     }
-
 ];
