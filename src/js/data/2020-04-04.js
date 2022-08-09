@@ -449,7 +449,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Matsubara Yulia",
-        "img": "https://i.imgur.com/TsVnwY5.jpg"
+        "img": "https://i.imgur.com/tUaWvGd.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
@@ -463,7 +463,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Onoda Karin",
-        "img": "https://i.imgur.com/QNiij0s.jpg"
+        "img": "https://i.imgur.com/uY78F5y.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
@@ -477,7 +477,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Hashida Honoka",
-        "img": "https://i.imgur.com/0pZOO3m.jpg"
+        "img": "https://i.imgur.com/G4qujut.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
@@ -519,14 +519,14 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Murakoshi Ayana",
-        "img": "https://i.imgur.com/EEkZEhe.jpg"
+        "img": "https://i.imgur.com/IgV0mJd.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
     {
         "name": "Uemura Hasumi",
-        "img": "https://i.imgur.com/yNgrcEY.jpg"
+        "img": "https://i.imgur.com/LUDfMvQ.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
@@ -1224,7 +1224,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Yoshida Hinoha",
-        "img": "https://i.imgur.com/Tr2J7mc.jpg"
+        "img": "https://i.imgur.com/el4J1Cf.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
@@ -1232,7 +1232,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Kawashima Mifu",
-        "img": "https://i.imgur.com/Fan8kmD.jpg"
+        "img": "https://i.imgur.com/uj5sGee.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
@@ -1254,7 +1254,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Goto Hana",
-        "img": "https://i.imgur.com/hPxYF2I.jpg"
+        "img": "https://i.imgur.com/Sz3xFKD.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
@@ -1271,6 +1271,20 @@ dataSet[dataSetVersion].characterData = [
         "img": "https://i.imgur.com/kdhoqav.jpg"
         , opts: {
             subkeyaki: ["jj"]
+        }
+    },
+        {
+        "name": "Shimoitani Yukiho",
+        "img": "https://i.imgur.com/70oBjhx.jpg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+        {
+        "name": "Kamimura Rena",
+        "img": "https://i.imgur.com/EsNFLqY.jpg"
+        , opts: {
+            subkeyaki: ["kss"]
         }
     }
    
