@@ -449,7 +449,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "松原ユリヤ",
-        "img": "https://i.imgur.com/TsVnwY5.jpg"
+        "img": "https://i.imgur.com/tUaWvGd.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
@@ -463,7 +463,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "小野田華凜",
-        "img": "https://i.imgur.com/QNiij0s.jpg"
+        "img": "https://i.imgur.com/uY78F5y.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
@@ -477,7 +477,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "橋田歩果",
-        "img": "https://i.imgur.com/0pZOO3m.jpg"
+        "img": "https://i.imgur.com/G4qujut.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
@@ -519,14 +519,14 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "村越彩菜",
-        "img": "https://i.imgur.com/EEkZEhe.jpg"
+        "img": "https://i.imgur.com/IgV0mJd.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
     {
         "name": "植村葉純",
-        "img": "https://i.imgur.com/yNgrcEY.jpg"
+        "img": "https://i.imgur.com/LUDfMvQ.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
@@ -1226,7 +1226,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "吉田姫杷",
-        "img": "https://i.imgur.com/Tr2J7mc.jpg"
+        "img": "https://i.imgur.com/el4J1Cf.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
@@ -1234,7 +1234,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "川嶋美楓",
-        "img": "https://i.imgur.com/Fan8kmD.jpg"
+        "img": "https://i.imgur.com/uj5sGee.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
@@ -1256,7 +1256,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "後藤花",
-        "img": "https://i.imgur.com/hPxYF2I.jpg"
+        "img": "https://i.imgur.com/Sz3xFKD.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
@@ -1274,6 +1274,20 @@ dataSet[dataSetVersion].characterData = [
         , opts: {
             subkeyaki: ["jj"]
     }
+    },
+          {
+        "name": "下井谷幸穂",
+        "img": "https://i.imgur.com/70oBjhx.jpg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+        {
+        "name": "上村麗菜",
+        "img": "https://i.imgur.com/EsNFLqY.jpg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
     }
    
     
