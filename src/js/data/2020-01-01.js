@@ -107,21 +107,21 @@ dataSet[dataSetVersion].characterData = [
 
     {
         "name": "竹内朱莉",
-        "img": "https://i.imgur.com/m1FdzNW.jpg"
+        "img": "https://i.imgur.com/44R5WwK.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "佐々木莉佳子",
-        "img": "https://i.imgur.com/wbGA0xf.jpg"
+        "img": "https://i.imgur.com/OdlbiAw.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "上國料萌衣",
-        "img": "https://i.imgur.com/KUPwEIM.jpg"
+        "img": "https://i.imgur.com/TQI2gqF.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
@@ -142,7 +142,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "川村文乃",
-        "img": "https://i.imgur.com/AzeOrNW.jpg"
+        "img": "https://i.imgur.com/Mk5DhMA.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
@@ -156,35 +156,35 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "伊勢鈴蘭",
-        "img": "https://i.imgur.com/Yt6kMJC.jpg"
+        "img": "https://i.imgur.com/7bpdFjx.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "橋迫鈴",
-        "img": "https://i.imgur.com/PwRUzUF.jpg"
+        "img": "https://i.imgur.com/VtQZYjc.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "為永幸音",
-        "img": "https://i.imgur.com/MhEb92T.jpg"
+        "img": "https://i.imgur.com/aaLkamE.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "川名凜",
-        "img": "https://i.imgur.com/Ft955wW.jpg"
+        "img": "https://i.imgur.com/sWkpVrh.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "松本わかな",
-        "img": "https://i.imgur.com/JugaXyR.jpg"
+        "img": "https://i.imgur.com/rirRI6l.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
@@ -491,7 +491,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "平山遊季",
-        "img": "https://i.imgur.com/MFJYY8W.jpg"
+        "img": "https://i.imgur.com/h0ArKmK.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
