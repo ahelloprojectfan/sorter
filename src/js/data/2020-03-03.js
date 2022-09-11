@@ -563,7 +563,7 @@ dataSet[dataSetVersion].characterData = [
     ,
     {
         "name": "Morning Musume '22",
-        "img": "https://i.imgur.com/IHCuiSm.jpg"
+        "img": "https://i.imgur.com/GXfmaIy.jpg"
         , opts: {
             subkeyaki: ["cgropus"]
         }
@@ -572,7 +572,7 @@ dataSet[dataSetVersion].characterData = [
     ,
     {
         "name": "ANGERME",
-        "img": "https://i.imgur.com/DsK4l3q.jpg"
+        "img": "https://i.imgur.com/tP260IV.jpg"
         , opts: {
             subkeyaki: ["cgropus"]
         }
@@ -581,7 +581,7 @@ dataSet[dataSetVersion].characterData = [
     ,
     {
         "name": "Juice=Juice",
-        "img": "https://i.imgur.com/rjKqk7X.jpg"
+        "img": "https://i.imgur.com/bJbs3QG.jpg"
         , opts: {
             subkeyaki: ["cgropus"]
         }
@@ -599,7 +599,7 @@ dataSet[dataSetVersion].characterData = [
     ,
     {
         "name": "BEYOOOOONDS",
-        "img": "https://i.imgur.com/fAZGIV7.jpg"
+        "img": "https://i.imgur.com/7hxddPA.jpg"
         , opts: {
             subkeyaki: ["cgropus"]
         }
