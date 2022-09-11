@@ -107,21 +107,21 @@ dataSet[dataSetVersion].characterData = [
 
     {
         "name": "Takeuchi Akari",
-        "img": "https://i.imgur.com/m1FdzNW.jpg"
+        "img": "https://i.imgur.com/44R5WwK.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "Sasaki Rikako",
-        "img": "https://i.imgur.com/wbGA0xf.jpg"
+        "img": "https://i.imgur.com/OdlbiAw.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "Kamikokuryo Moe",
-        "img": "https://i.imgur.com/KUPwEIM.jpg"
+        "img": "https://i.imgur.com/TQI2gqF.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
@@ -142,7 +142,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Kawamura Ayano",
-        "img": "https://i.imgur.com/AzeOrNW.jpg"
+        "img": "https://i.imgur.com/Mk5DhMA.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
@@ -156,35 +156,35 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Ise Layla",
-        "img": "https://i.imgur.com/Yt6kMJC.jpg"
+        "img": "https://i.imgur.com/7bpdFjx.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "Hashisako Rin",
-        "img": "https://i.imgur.com/PwRUzUF.jpg"
+        "img": "https://i.imgur.com/VtQZYjc.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "Tamenaga Shion",
-        "img": "https://i.imgur.com/MhEb92T.jpg"
+        "img": "https://i.imgur.com/aaLkamE.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "Kawana Rin",
-        "img": "https://i.imgur.com/Ft955wW.jpg"
+        "img": "https://i.imgur.com/sWkpVrh.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "Matsumoto Wakana",
-        "img": "https://i.imgur.com/JugaXyR.jpg"
+        "img": "https://i.imgur.com/rirRI6l.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
@@ -491,7 +491,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Hirayama Yuki",
-        "img": "https://i.imgur.com/MFJYY8W.jpg"
+        "img": "https://i.imgur.com/h0ArKmK.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
