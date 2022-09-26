@@ -26,13 +26,6 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        "name": "佐藤優樹",
-        "img": "https://i.imgur.com/PXAxzgy.jpg"
-        , opts: {
-            subkeyaki: ["mmog"]
-        }
-    },
-    {
         "name": "小田さくら",
         "img": "https://i.imgur.com/StD5KBy.jpg"
         , opts: {
@@ -75,13 +68,6 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        "name": "森戸知沙希",
-        "img": "https://i.imgur.com/BVNo0CT.jpg"
-        , opts: {
-            subkeyaki: ["mmog", "cg"]
-        }
-    },
-    {
         "name": "北川莉央",
         "img": "https://i.imgur.com/He77kHT.jpg"
         , opts: {
@@ -102,6 +88,14 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["mm"]
         }
     },
+	{
+        "name": "櫻井梨央",
+        "img": "https://i.imgur.com/zhhpb15.jpg"
+        , opts: {
+            subkeyaki: ["mm"]
+        }
+    },
+    
 
     // Angerme
 
@@ -127,31 +121,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        "name": "笠原桃奈",
-        "img": "https://i.imgur.com/kyqxxLw.jpg"
-        , opts: {
-            subkeyaki: ["SnAog"]
-        }
-    },
-    {
-        "name": "船木結",
-        "img": "https://i.imgur.com/rmB6KJX.jpg?1"
-        , opts: {
-            subkeyaki: ["SnAog", "cg"]
-        }
-    },
-    {
         "name": "川村文乃",
         "img": "https://i.imgur.com/Mk5DhMA.jpg"
         , opts: {
             subkeyaki: ["angerme"]
-        }
-    },
-    {
-        "name": "太田遥香",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/3/35/OotaHaruka-Anju27thSingle.jpg/revision/latest/scale-to-width-down/300?cb=20191018142515"
-        , opts: {
-            subkeyaki: ["SnAog"]
         }
     },
     {
@@ -185,6 +158,13 @@ dataSet[dataSetVersion].characterData = [
     {
         "name": "松本わかな",
         "img": "https://i.imgur.com/rirRI6l.jpg"
+        , opts: {
+            subkeyaki: ["angerme"]
+        }
+    },
+	{
+        "name": "平山遊季",
+        "img": "https://i.imgur.com/h0ArKmK.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
@@ -267,8 +247,41 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["jj"]
         }
     },
-
-
+	    {
+        "name": "有澤一華",
+        "img": "https://i.imgur.com/vWLnVU8.jpg"
+        , opts: {
+            subkeyaki: ["jj"]
+        }
+    },
+    {
+        "name": "入江里咲",
+        "img": "https://i.imgur.com/6KPPmpa.jpg"
+        , opts: {
+            subkeyaki: ["jj"]
+        }
+    },
+    {
+        "name": "江端妃咲",
+        "img": "https://i.imgur.com/IQQMokX.jpg"
+        , opts: {
+            subkeyaki: ["jj"]
+        }
+    },
+    {
+        "name": "石山咲良",
+        "img": "https://i.imgur.com/rVHiLuf.jpg"
+        , opts: {
+            subkeyaki: ["jj"]
+        }
+    },
+	    {
+        "name": "遠藤彩加里",
+        "img": "https://i.imgur.com/kdhoqav.jpg"
+        , opts: {
+            subkeyaki: ["jj"]
+    }
+    },
 
     //Tsubaki Factory
 
@@ -331,6 +344,37 @@ dataSet[dataSetVersion].characterData = [
     {
         "name": "秋山眞緒",
         "img": "https://i.imgur.com/k1fENCn.jpg"
+        , opts: {
+            subkeyaki: ["tf"]
+        }
+    },
+	    {
+        "name": "河西結心",
+        "img": "https://i.imgur.com/gPayF5K.jpg"
+        , opts: {
+            subkeyaki: ["tf"]
+        }
+
+    },
+    {
+        "name": "八木栞",
+        "img": "https://i.imgur.com/wh8tWcF.jpg"
+        , opts: {
+            subkeyaki: ["tf"]
+        }
+
+    },
+    {
+        "name": "福田真琳",
+        "img": "https://i.imgur.com/J3PwN9O.jpg"
+        , opts: {
+            subkeyaki: ["tf"]
+        }
+
+    },
+	    {
+        "name": "豫風瑠乃",
+        "img": "https://i.imgur.com/nxtItWL.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
@@ -423,42 +467,90 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["by"]
         }
     },
-    //Hello Pro Kenshuusei
-
-
-    {
+	
+	//OCHA NORMA
+	
+	 {
         "name": "米村姫良々",
         "img": "https://i.imgur.com/q9AqmjL.jpg"
         , opts: {
-            subkeyaki: ["kunit"]
+            subkeyaki: ["ocha"]
         }
     },
     {
         "name": "中山夏月姫",
         "img": "https://i.imgur.com/SIIvVt2.jpg"
         , opts: {
-            subkeyaki: ["kunit"]
+            subkeyaki: ["ocha"]
         }
     },
     {
         "name": "窪田七海",
         "img": "https://i.imgur.com/RkQJUhR.jpg"
         , opts: {
-            subkeyaki: ["kunit"]
-        }
-    },
-    {
-        "name": "松原ユリヤ",
-        "img": "https://i.imgur.com/tUaWvGd.jpg"
-        , opts: {
-            subkeyaki: ["kss"]
+            subkeyaki: ["ocha"]
         }
     },
     {
         "name": "斉藤円香",
         "img": "https://i.imgur.com/ycAT5ZS.jpg"
         , opts: {
-            subkeyaki: ["kunit"]
+            subkeyaki: ["ocha"]
+        }
+    },
+{
+        "name": "広本瑠璃",
+        "img": "https://i.imgur.com/uF5WgYs.jpg"
+        , opts: {
+            subkeyaki: ["ocha"]
+        }
+    },
+	    {
+        "name": "西﨑美空",
+        "img": "https://i.imgur.com/EC9tlh2.jpg"
+        , opts: {
+            subkeyaki: ["ocha"]
+        }
+    },
+    {
+        "name": "北原もも",
+        "img": "https://i.imgur.com/ubhmB3W.jpg"
+        , opts: {
+            subkeyaki: ["ocha"]
+        }
+    },
+	    {
+        "name": "石栗奏美",
+        "img": "https://i.imgur.com/w2t0NGN.jpg"
+        , opts: {
+            subkeyaki: ["ocha"]
+        }
+    },
+	    {
+        "name": "田代すみれ",
+        "img": "https://i.imgur.com/ril3WVg.jpg"
+        , opts: {
+            subkeyaki: ["ocha"]
+        }
+    },
+    {
+        "name": "筒井澪心",
+        "img": "https://i.imgur.com/vDSmRDQ.jpg"
+        , opts: {
+            subkeyaki: ["ocha"]
+        }
+    },
+	
+
+    //Hello Pro Kenshuusei
+
+
+   
+    {
+        "name": "松原ユリヤ",
+        "img": "https://i.imgur.com/tUaWvGd.jpg"
+        , opts: {
+            subkeyaki: ["kss"]
         }
     },
     {
@@ -469,52 +561,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        "name": "広本瑠璃",
-        "img": "https://i.imgur.com/uF5WgYs.jpg"
-        , opts: {
-            subkeyaki: ["kunit"]
-        }
-    },
-    {
         "name": "橋田歩果",
         "img": "https://i.imgur.com/G4qujut.jpg"
         , opts: {
             subkeyaki: ["kss"]
-        }
-    },
-    {
-        "name": "西﨑美空",
-        "img": "https://i.imgur.com/EC9tlh2.jpg"
-        , opts: {
-            subkeyaki: ["kunit"]
-        }
-    },
-    {
-        "name": "平山遊季",
-        "img": "https://i.imgur.com/h0ArKmK.jpg"
-        , opts: {
-            subkeyaki: ["angerme"]
-        }
-    },
-    {
-        "name": "北原もも",
-        "img": "https://i.imgur.com/ubhmB3W.jpg"
-        , opts: {
-            subkeyaki: ["kunit"]
-        }
-    },
-    {
-        "name": "江端妃咲",
-        "img": "https://i.imgur.com/IQQMokX.jpg"
-        , opts: {
-            subkeyaki: ["jj"]
-        }
-    },
-    {
-        "name": "豫風瑠乃",
-        "img": "https://i.imgur.com/nxtItWL.jpg"
-        , opts: {
-            subkeyaki: ["tf"]
         }
     },
     {
@@ -531,29 +581,41 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["kss"]
         }
     },
-    {
-        "name": "有澤一華",
-        "img": "https://i.imgur.com/vWLnVU8.jpg"
+     {
+        "name": "吉田姫杷",
+        "img": "https://i.imgur.com/el4J1Cf.jpg"
         , opts: {
-            subkeyaki: ["jj"]
+            subkeyaki: ["kss"]
         }
     },
     {
-        "name": "石山咲良",
-        "img": "https://i.imgur.com/rVHiLuf.jpg"
+        "name": "川嶋美楓",
+        "img": "https://i.imgur.com/uj5sGee.jpg"
         , opts: {
-            subkeyaki: ["jj"]
+            subkeyaki: ["kss"]
         }
     },
-    ,
     {
-        "name": "石栗奏美",
-        "img": "https://i.imgur.com/w2t0NGN.jpg"
+        "name": "後藤花",
+        "img": "https://i.imgur.com/Sz3xFKD.jpg"
         , opts: {
-            subkeyaki: ["kunit"]
+            subkeyaki: ["kss"]
         }
     },
-
+      {
+        "name": "下井谷幸穂",
+        "img": "https://i.imgur.com/70oBjhx.jpg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+        {
+        "name": "上村麗菜",
+        "img": "https://i.imgur.com/EsNFLqY.jpg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
 
     // Kobushi Factory
     {
@@ -1013,6 +1075,13 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["mmog"]
         }
     },
+	{
+        "name": "佐藤優樹",
+        "img": "https://i.imgur.com/PXAxzgy.jpg"
+        , opts: {
+            subkeyaki: ["mmog"]
+        }
+    },
     {
         "name": "工藤遥",
         "img": "https://i.imgur.com/BNkPxpt.jpg"
@@ -1027,7 +1096,13 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["mmog"]
         }
     },
-
+{
+        "name": "森戸知沙希",
+        "img": "https://i.imgur.com/BVNo0CT.jpg"
+        , opts: {
+            subkeyaki: ["mmog", "cg"]
+        }
+    },
 
     //Ex Smileage and ANGERME
 
@@ -1102,6 +1177,28 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["SnAog"]
         }
     },
+	    {
+        "name": "笠原桃奈",
+        "img": "https://i.imgur.com/kyqxxLw.jpg"
+        , opts: {
+            subkeyaki: ["SnAog"]
+        }
+    },
+    {
+        "name": "船木結",
+        "img": "https://i.imgur.com/rmB6KJX.jpg?1"
+        , opts: {
+            subkeyaki: ["SnAog", "cg"]
+        }
+    },
+	   {
+        "name": "太田遥香",
+        "img": "https://i.imgur.com/U22rqze.jpg?1"
+        , opts: {
+            subkeyaki: ["SnAog"]
+        }
+    },
+	
     //lovendor
 
     {
@@ -1191,106 +1288,9 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["uup2"]
         }
 
-    },
-    {
-        "name": "入江里咲",
-        "img": "https://i.imgur.com/6KPPmpa.jpg"
-        , opts: {
-            subkeyaki: ["jj"]
-        }
-
-    },
-    {
-        "name": "河西結心",
-        "img": "https://i.imgur.com/gPayF5K.jpg"
-        , opts: {
-            subkeyaki: ["tf"]
-        }
-
-    },
-    {
-        "name": "八木栞",
-        "img": "https://i.imgur.com/wh8tWcF.jpg"
-        , opts: {
-            subkeyaki: ["tf"]
-        }
-
-    },
-    {
-        "name": "福田真琳",
-        "img": "https://i.imgur.com/J3PwN9O.jpg"
-        , opts: {
-            subkeyaki: ["tf"]
-        }
-
-    },
-    {
-        "name": "吉田姫杷",
-        "img": "https://i.imgur.com/el4J1Cf.jpg"
-        , opts: {
-            subkeyaki: ["kss"]
-        }
-
-    },
-    {
-        "name": "川嶋美楓",
-        "img": "https://i.imgur.com/uj5sGee.jpg"
-        , opts: {
-            subkeyaki: ["kss"]
-        }
-
-    },
-    {
-        "name": "田代すみれ",
-        "img": "https://i.imgur.com/ril3WVg.jpg"
-        , opts: {
-            subkeyaki: ["kunit"]
-        }
-    },
-    {
-        "name": "筒井澪心",
-        "img": "https://i.imgur.com/vDSmRDQ.jpg"
-        , opts: {
-            subkeyaki: ["kunit"]
-        }
-    },
-    {
-        "name": "後藤花",
-        "img": "https://i.imgur.com/Sz3xFKD.jpg"
-        , opts: {
-            subkeyaki: ["kss"]
-        }
-    },
-    {
-        "name": "櫻井梨央",
-        "img": "https://i.imgur.com/zhhpb15.jpg"
-        , opts: {
-            subkeyaki: ["mm"]
-        }
-    },
-    {
-        "name": "遠藤彩加里",
-        "img": "https://i.imgur.com/kdhoqav.jpg"
-        , opts: {
-            subkeyaki: ["jj"]
-    }
-    },
-          {
-        "name": "下井谷幸穂",
-        "img": "https://i.imgur.com/70oBjhx.jpg"
-        , opts: {
-            subkeyaki: ["kss"]
-        }
-    },
-        {
-        "name": "上村麗菜",
-        "img": "https://i.imgur.com/EsNFLqY.jpg"
-        , opts: {
-            subkeyaki: ["kss"]
-        }
     }
    
-    
+  
     
 ];
 
@@ -1306,7 +1306,7 @@ dataSet[dataSetVersion].options = [
             { name: 'アンジュルム', key: 'angerme' },
             { name: 'つばきファクトリー', key: 'tf' },
             { name: 'BEYOOOOONDS', key: 'by' },
-            { name: 'OCHA NORMA', key: 'kunit' },
+            { name: 'OCHA NORMA', key: 'ocha' },
             { name: 'ハロプロ研修生', key: 'kss' },
             { name: 'Juice=Juice OG', key: 'ex-jj' },
             { name: 'こぶしファクトリー', key: 'kf' },
