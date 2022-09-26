@@ -26,13 +26,6 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        "name": "Sato Masaki",
-        "img": "https://i.imgur.com/PXAxzgy.jpg"
-        , opts: {
-            subkeyaki: ["mmog"]
-        }
-    },
-    {
         "name": "Oda Sakura",
         "img": "https://i.imgur.com/StD5KBy.jpg"
         , opts: {
@@ -75,13 +68,6 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        "name": "Morito Chisaki",
-        "img": "https://i.imgur.com/BVNo0CT.jpg"
-        , opts: {
-            subkeyaki: ["mmog", "cg"]
-        }
-    },
-    {
         "name": "Kitagawa Rio",
         "img": "https://i.imgur.com/He77kHT.jpg"
         , opts: {
@@ -102,7 +88,15 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["mm"]
         }
     },
-
+    {
+        "name": "Sakurai Rio",
+        "img": "https://i.imgur.com/zhhpb15.jpg"
+        , opts: {
+            subkeyaki: ["mm"]
+        }
+    },
+	
+	
     // Angerme
 
     {
@@ -127,31 +121,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        "name": "Kasahara Momona",
-        "img": "https://i.imgur.com/kyqxxLw.jpg"
-        , opts: {
-            subkeyaki: ["SnAog"]
-        }
-    },
-    {
-        "name": "Funaki Musubu",
-        "img": "https://i.imgur.com/rmB6KJX.jpg?1"
-        , opts: {
-            subkeyaki: ["SnAog", "cg"]
-        }
-    },
-    {
         "name": "Kawamura Ayano",
         "img": "https://i.imgur.com/Mk5DhMA.jpg"
         , opts: {
             subkeyaki: ["angerme"]
-        }
-    },
-    {
-        "name": "Oota Haruka",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/3/35/OotaHaruka-Anju27thSingle.jpg/revision/latest/scale-to-width-down/300?cb=20191018142515"
-        , opts: {
-            subkeyaki: ["SnAog"]
         }
     },
     {
@@ -185,6 +158,13 @@ dataSet[dataSetVersion].characterData = [
     {
         "name": "Matsumoto Wakana",
         "img": "https://i.imgur.com/rirRI6l.jpg"
+        , opts: {
+            subkeyaki: ["angerme"]
+        }
+    },
+	{
+        "name": "Hirayama Yuki",
+        "img": "https://i.imgur.com/h0ArKmK.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
@@ -266,10 +246,43 @@ dataSet[dataSetVersion].characterData = [
         , opts: {
             subkeyaki: ["jj"]
         }
+    },	    
+	    {
+        "name": "Arisawa Ichika",
+        "img": "https://i.imgur.com/vWLnVU8.jpg"
+        , opts: {
+            subkeyaki: ["jj"]
+        }
     },
-
-
-
+	{
+        "name": "Irie Risa",
+        "img": "https://i.imgur.com/6KPPmpa.jpg"
+        , opts: {
+            subkeyaki: ["jj"]
+        }
+    },
+	{
+        "name": "Ebata Kisaki",
+        "img": "https://i.imgur.com/IQQMokX.jpg"
+        , opts: {
+            subkeyaki: ["jj"]
+        }
+    },
+	{
+        "name": "Ishiyama Sakura",
+        "img": "https://i.imgur.com/rVHiLuf.jpg"
+        , opts: {
+            subkeyaki: ["jj"]
+        }
+    },
+        {
+        "name": "Endo Akari",
+        "img": "https://i.imgur.com/kdhoqav.jpg"
+        , opts: {
+            subkeyaki: ["jj"]
+    }
+    },
+	
     //Tsubaki Factory
 
     {
@@ -331,6 +344,37 @@ dataSet[dataSetVersion].characterData = [
     {
         "name": "Akiyama Mao",
         "img": "https://i.imgur.com/k1fENCn.jpg"
+        , opts: {
+            subkeyaki: ["tf"]
+        }
+    },
+{
+        "name": "Kasai Yuumi",
+        "img": "https://i.imgur.com/gPayF5K.jpg"
+        , opts: {
+            subkeyaki: ["tf"]
+        }
+
+    },
+    {
+        "name": "Yagi Shiori",
+        "img": "https://i.imgur.com/wh8tWcF.jpg"
+        , opts: {
+            subkeyaki: ["tf"]
+        }
+
+    },
+    {
+        "name": "Fukuda Marine",
+        "img": "https://i.imgur.com/J3PwN9O.jpg"
+        , opts: {
+            subkeyaki: ["tf"]
+        }
+		
+    },
+	    {
+        "name": "Yofuu Runo",
+        "img": "https://i.imgur.com/nxtItWL.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
@@ -423,42 +467,90 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["by"]
         }
     },
-    //Hello Pro Kenshuusei
-
-
-    {
+	
+	//OCHA NORMA
+	
+	 {
         "name": "Yonemura Kirara",
         "img": "https://i.imgur.com/q9AqmjL.jpg"
         , opts: {
-            subkeyaki: ["kunit"]
+            subkeyaki: ["ocha"]
         }
     },
     {
         "name": "Nakayama Natsume",
         "img": "https://i.imgur.com/SIIvVt2.jpg"
         , opts: {
-            subkeyaki: ["kunit"]
+            subkeyaki: ["ocha"]
         }
     },
     {
         "name": "Kubota Nanami",
         "img": "https://i.imgur.com/RkQJUhR.jpg"
         , opts: {
-            subkeyaki: ["kunit"]
+            subkeyaki: ["ocha"]
         }
     },
+	{
+        "name": "Saito Madoka",
+        "img": "https://i.imgur.com/ycAT5ZS.jpg"
+        , opts: {
+            subkeyaki: ["ocha"]
+        }
+    },
+{
+        "name": "Hiromoto Ruli",
+        "img": "https://i.imgur.com/uF5WgYs.jpg"
+        , opts: {
+            subkeyaki: ["ocha"]
+        }
+    },
+	    {
+        "name": "Nishizaki Miku",
+        "img": "https://i.imgur.com/EC9tlh2.jpg"
+        , opts: {
+            subkeyaki: ["ocha"]
+        }
+    },
+	{
+        "name": "Kitahara Momo",
+        "img": "https://i.imgur.com/ubhmB3W.jpg"
+        , opts: {
+            subkeyaki: ["ocha"]
+        }
+    },
+	    {
+        "name": "Ishiguri Kanami",
+        "img": "https://i.imgur.com/w2t0NGN.jpg"
+        , opts: {
+            subkeyaki: ["ocha"]
+        }
+    },
+	    {
+        "name": "Tashiro Sumire",
+        "img": "https://i.imgur.com/ril3WVg.jpg"
+        , opts: {
+            subkeyaki: ["ocha"]
+        }
+    },
+    {
+        "name": "Tsutsui Roko",
+        "img": "https://i.imgur.com/vDSmRDQ.jpg"
+        , opts: {
+            subkeyaki: ["ocha"]
+        }
+    },
+	
+	
+    //Hello Pro Kenshuusei
+
+
+
     {
         "name": "Matsubara Yulia",
         "img": "https://i.imgur.com/tUaWvGd.jpg"
         , opts: {
             subkeyaki: ["kss"]
-        }
-    },
-    {
-        "name": "Saito Madoka",
-        "img": "https://i.imgur.com/ycAT5ZS.jpg"
-        , opts: {
-            subkeyaki: ["kunit"]
         }
     },
     {
@@ -469,52 +561,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        "name": "Hiromoto Ruli",
-        "img": "https://i.imgur.com/uF5WgYs.jpg"
-        , opts: {
-            subkeyaki: ["kunit"]
-        }
-    },
-    {
         "name": "Hashida Honoka",
         "img": "https://i.imgur.com/G4qujut.jpg"
         , opts: {
             subkeyaki: ["kss"]
-        }
-    },
-    {
-        "name": "Nishizaki Miku",
-        "img": "https://i.imgur.com/EC9tlh2.jpg"
-        , opts: {
-            subkeyaki: ["kunit"]
-        }
-    },
-    {
-        "name": "Hirayama Yuki",
-        "img": "https://i.imgur.com/h0ArKmK.jpg"
-        , opts: {
-            subkeyaki: ["angerme"]
-        }
-    },
-    {
-        "name": "Kitahara Momo",
-        "img": "https://i.imgur.com/ubhmB3W.jpg"
-        , opts: {
-            subkeyaki: ["kunit"]
-        }
-    },
-    {
-        "name": "Ebata Kisaki",
-        "img": "https://i.imgur.com/IQQMokX.jpg"
-        , opts: {
-            subkeyaki: ["jj"]
-        }
-    },
-    {
-        "name": "Yofuu Runo",
-        "img": "https://i.imgur.com/nxtItWL.jpg"
-        , opts: {
-            subkeyaki: ["tf"]
         }
     },
     {
@@ -531,29 +581,42 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["kss"]
         }
     },
-    {
-        "name": "Arisawa Ichika",
-        "img": "https://i.imgur.com/vWLnVU8.jpg"
+     {
+        "name": "Yoshida Hinoha",
+        "img": "https://i.imgur.com/el4J1Cf.jpg"
         , opts: {
-            subkeyaki: ["jj"]
+            subkeyaki: ["kss"]
         }
     },
     {
-        "name": "Ishiyama Sakura",
-        "img": "https://i.imgur.com/rVHiLuf.jpg"
+        "name": "Kawashima Mifu",
+        "img": "https://i.imgur.com/uj5sGee.jpg"
         , opts: {
-            subkeyaki: ["jj"]
+            subkeyaki: ["kss"]
         }
     },
-    ,
     {
-        "name": "Ishiguri Kanami",
-        "img": "https://i.imgur.com/w2t0NGN.jpg"
+        "name": "Goto Hana",
+        "img": "https://i.imgur.com/Sz3xFKD.jpg"
         , opts: {
-            subkeyaki: ["kunit"]
+            subkeyaki: ["kss"]
         }
     },
-
+      {
+        "name": "Shimoitani Yukiho",
+        "img": "https://i.imgur.com/70oBjhx.jpg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+        {
+        "name": "Kamimura Rena",
+        "img": "https://i.imgur.com/EsNFLqY.jpg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+    
     // Kobushi Factory
     {
         "name": "Hirose Ayaka",
@@ -1012,6 +1075,13 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["mmog"]
         }
     },
+	{
+        "name": "Sato Masaki",
+        "img": "https://i.imgur.com/PXAxzgy.jpg"
+        , opts: {
+            subkeyaki: ["mmog"]
+        }
+    },
     {
         "name": "Kudo Haruka",
         "img": "https://i.imgur.com/BNkPxpt.jpg"
@@ -1026,7 +1096,13 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["mmog"]
         }
     },
-
+{
+        "name": "Morito Chisaki",
+        "img": "https://i.imgur.com/BVNo0CT.jpg"
+        , opts: {
+            subkeyaki: ["mmog", "cg"]
+        }
+    },
 
     //Ex Smileage and ANGERME
 
@@ -1101,7 +1177,30 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["SnAog"]
         }
     },
-
+	    {
+        "name": "Kasahara Momona",
+        "img": "https://i.imgur.com/kyqxxLw.jpg"
+        , opts: {
+            subkeyaki: ["SnAog"]
+        }
+    },
+    {
+        "name": "Funaki Musubu",
+        "img": "https://i.imgur.com/rmB6KJX.jpg?1"
+        , opts: {
+            subkeyaki: ["SnAog", "cg"]
+        }
+    },
+       {
+        "name": "Oota Haruka",
+        "img": "https://i.imgur.com/U22rqze.jpg?1"
+        , opts: {
+            subkeyaki: ["SnAog"]
+        }
+    },
+	
+	//lovendor
+	
     {
         "name": "Miyazawa Marin",
         "img": "https://vignette.wikia.nocookie.net/up-front/images/6/6d/MiyazawaMarin-ReStart.jpg/revision/latest/scale-to-width-down/270?cb=20170805074444"
@@ -1189,104 +1288,9 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["uup2"]
         }
 
-    },
-    {
-        "name": "Irie Risa",
-        "img": "https://i.imgur.com/6KPPmpa.jpg"
-        , opts: {
-            subkeyaki: ["jj"]
-        }
-
-    },
-    {
-        "name": "Kasai Yuumi",
-        "img": "https://i.imgur.com/gPayF5K.jpg"
-        , opts: {
-            subkeyaki: ["tf"]
-        }
-
-    },
-    {
-        "name": "Yagi Shiori",
-        "img": "https://i.imgur.com/wh8tWcF.jpg"
-        , opts: {
-            subkeyaki: ["tf"]
-        }
-
-    },
-    {
-        "name": "Fukuda Marine",
-        "img": "https://i.imgur.com/J3PwN9O.jpg"
-        , opts: {
-            subkeyaki: ["tf"]
-        }
-
-    },
-    {
-        "name": "Yoshida Hinoha",
-        "img": "https://i.imgur.com/el4J1Cf.jpg"
-        , opts: {
-            subkeyaki: ["kss"]
-        }
-
-    },
-    {
-        "name": "Kawashima Mifu",
-        "img": "https://i.imgur.com/uj5sGee.jpg"
-        , opts: {
-            subkeyaki: ["kss"]
-        }
-
-    },
-    {
-        "name": "Tashiro Sumire",
-        "img": "https://i.imgur.com/ril3WVg.jpg"
-        , opts: {
-            subkeyaki: ["kunit"]
-        }
-    },
-    {
-        "name": "Tsutsui Roko",
-        "img": "https://i.imgur.com/vDSmRDQ.jpg"
-        , opts: {
-            subkeyaki: ["kunit"]
-        }
-    },
-    {
-        "name": "Goto Hana",
-        "img": "https://i.imgur.com/Sz3xFKD.jpg"
-        , opts: {
-            subkeyaki: ["kss"]
-        }
-    },
-    {
-        "name": "Sakurai Rio",
-        "img": "https://i.imgur.com/zhhpb15.jpg"
-        , opts: {
-            subkeyaki: ["mm"]
     }
-    },
-        {
-        "name": "Endo Akari",
-        "img": "https://i.imgur.com/kdhoqav.jpg"
-        , opts: {
-            subkeyaki: ["jj"]
-        }
-    },
-        {
-        "name": "Shimoitani Yukiho",
-        "img": "https://i.imgur.com/70oBjhx.jpg"
-        , opts: {
-            subkeyaki: ["kss"]
-        }
-    },
-        {
-        "name": "Kamimura Rena",
-        "img": "https://i.imgur.com/EsNFLqY.jpg"
-        , opts: {
-            subkeyaki: ["kss"]
-        }
-    }
+    
+    
    
     
 ];
@@ -1303,7 +1307,7 @@ dataSet[dataSetVersion].options = [
             { name: 'Angerme', key: 'angerme' },
             { name: 'Tsubaki Factory', key: 'tf' },
             { name: 'BEYOOOOONDS', key: 'by' },
-            { name: 'OCHA NORMA', key: 'kunit' },
+            { name: 'OCHA NORMA', key: 'ocha' },
             { name: 'Hello Pro Kenshuusei', key: 'kss' },
             { name: 'Ex-Juice=Juice', key: 'ex-jj' },
             { name: 'Ex-Kobushi Factory', key: 'kf' },
