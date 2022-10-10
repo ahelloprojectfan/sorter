@@ -207,7 +207,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Uemura Akari",
-        "img": "https://i.imgur.com/qb1XK89.jpg"
+        "img": "https://i.imgur.com/m13okdD.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
@@ -221,63 +221,63 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Inoue Rei",
-        "img": "https://i.imgur.com/ybQPx3g.jpg"
+        "img": "https://i.imgur.com/nzkAlcR.jpg"
         , opts: {
             subkeyaki: ["jj", "kf"]
         }
     },
     {
         "name": "Dambara Ruru",
-        "img": "https://i.imgur.com/kX4ABNh.jpg"
+        "img": "https://i.imgur.com/LH4ZYY8.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "Kudo Yume",
-        "img": "https://i.imgur.com/Yn60Dho.jpg"
+        "img": "https://i.imgur.com/E0OabRz.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "Matsunaga Riai",
-        "img": "https://i.imgur.com/lyTSH0Z.jpg"
+        "img": "https://i.imgur.com/yOcCCOf.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },	    
 	    {
         "name": "Arisawa Ichika",
-        "img": "https://i.imgur.com/vWLnVU8.jpg"
+        "img": "https://i.imgur.com/b9ryNGy.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
 	{
         "name": "Irie Risa",
-        "img": "https://i.imgur.com/6KPPmpa.jpg"
+        "img": "https://i.imgur.com/aPOlj4U.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
 	{
         "name": "Ebata Kisaki",
-        "img": "https://i.imgur.com/IQQMokX.jpg"
+        "img": "https://i.imgur.com/u9Orbh3.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
 	{
         "name": "Ishiyama Sakura",
-        "img": "https://i.imgur.com/rVHiLuf.jpg"
+        "img": "https://i.imgur.com/QtFapAu.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
         {
         "name": "Endo Akari",
-        "img": "https://i.imgur.com/kdhoqav.jpg"
+        "img": "https://i.imgur.com/FWmswYn.jpg"
         , opts: {
             subkeyaki: ["jj"]
     }
