@@ -6,56 +6,56 @@ dataSet[dataSetVersion].characterData = [
 
     {
         "name": "Fukumura Mizuki",
-        "img": "https://i.imgur.com/NVqGZlV.jpg"
+        "img": "https://i.imgur.com/SrI9Qbu.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
     {
         "name": "Ikuta Erina",
-        "img": "https://i.imgur.com/JjOlScv.jpg"
+        "img": "https://i.imgur.com/LVbvzWd.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
     {
         "name": "Ishida Ayumi",
-        "img": "https://i.imgur.com/4ijRJpo.jpg"
+        "img": "https://i.imgur.com/H26o4PF.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
     {
         "name": "Oda Sakura",
-        "img": "https://i.imgur.com/StD5KBy.jpg"
+        "img": "https://i.imgur.com/xfQlY9h.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
     {
         "name": "Nonaka Miki",
-        "img": "https://i.imgur.com/E9r87j8.jpg"
+        "img": "https://i.imgur.com/uvuXPJg.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
     {
         "name": "Makino Maria",
-        "img": "https://i.imgur.com/AlbyEfs.jpg"
+        "img": "https://i.imgur.com/jysPKH0.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
     {
         "name": "Haga Akane",
-        "img": "https://i.imgur.com/x4dFtf3.jpg"
+        "img": "https://i.imgur.com/vY99TQ7.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
     {
         "name": "Kaga Kaede",
-        "img": "https://i.imgur.com/wd0Wnhm.jpg"
+        "img": "https://i.imgur.com/yRPUXwZ.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
@@ -69,28 +69,28 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Kitagawa Rio",
-        "img": "https://i.imgur.com/He77kHT.jpg"
+        "img": "https://i.imgur.com/QUPoLTw.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
     {
         "name": "Okamura Homare",
-        "img": "https://i.imgur.com/agmDdtj.jpg"
+        "img": "https://i.imgur.com/Fvu75Lf.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
     {
         "name": "Yamazaki Mei",
-        "img": "https://i.imgur.com/hwfb6cl.jpg"
+        "img": "https://i.imgur.com/ON9d4bf.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
     {
         "name": "Sakurai Rio",
-        "img": "https://i.imgur.com/zhhpb15.jpg"
+        "img": "https://i.imgur.com/VgbRPKS.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
