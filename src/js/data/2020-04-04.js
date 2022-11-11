@@ -62,7 +62,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Yokoyama Reina",
-        "img": "https://i.imgur.com/Vw2upYZ.jpg"
+        "img": "https://i.imgur.com/lUQk1Sq.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
