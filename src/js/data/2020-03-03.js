@@ -802,6 +802,20 @@ dataSet[dataSetVersion].characterData = [
             "subkeyaki": ["aSideList"]
 	}
 },
+	 {
+        "name": "Swing Swing Paradise (2022)",
+        "img": "https://i.imgur.com/gokh1KS.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+	}
+},
+	 {
+        "name": "Happy Birthday to Me! (2022)",
+        "img": "https://i.imgur.com/sJFfEiZ.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+	}
+},
 	{
         "name": "aMa no Jaku",
         "img": "https://i.imgur.com/hvuKxxw.jpg"
