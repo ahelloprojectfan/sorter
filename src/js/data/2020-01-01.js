@@ -54,13 +54,6 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        "name": "加賀楓",
-        "img": "https://i.imgur.com/yRPUXwZ.jpg"
-        , opts: {
-            subkeyaki: ["mm"]
-        }
-    },
-    {
         "name": "横山玲奈",
         "img": "https://i.imgur.com/lUQk1Sq.jpg"
         , opts: {
@@ -1092,6 +1085,13 @@ dataSet[dataSetVersion].characterData = [
     {
         "name": "尾形春水",
         "img": "https://i.imgur.com/AI40dno.jpg"
+        , opts: {
+            subkeyaki: ["mmog"]
+        }
+    },
+	{
+        "name": "加賀楓",
+        "img": "https://i.imgur.com/yRPUXwZ.jpg"
         , opts: {
             subkeyaki: ["mmog"]
         }
