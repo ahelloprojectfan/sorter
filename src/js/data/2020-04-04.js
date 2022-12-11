@@ -54,13 +54,6 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        "name": "Kaga Kaede",
-        "img": "https://i.imgur.com/yRPUXwZ.jpg"
-        , opts: {
-            subkeyaki: ["mm"]
-        }
-    },
-    {
         "name": "Yokoyama Reina",
         "img": "https://i.imgur.com/lUQk1Sq.jpg"
         , opts: {
@@ -1092,6 +1085,13 @@ dataSet[dataSetVersion].characterData = [
     {
         "name": "Ogata Haruna",
         "img": "https://i.imgur.com/AI40dno.jpg"
+        , opts: {
+            subkeyaki: ["mmog"]
+        }
+    },
+	{
+        "name": "Kaga Kaede",
+        "img": "https://i.imgur.com/yRPUXwZ.jpg"
         , opts: {
             subkeyaki: ["mmog"]
         }
