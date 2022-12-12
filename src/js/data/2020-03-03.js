@@ -10,7 +10,7 @@ dataSet[dataSetVersion].characterData = [
  
     {
         "name": "Morning Musume '22",
-        "img": "https://i.imgur.com/GXfmaIy.jpg"
+        "img": "https://i.imgur.com/NEEsXAV.jpg"
         , opts: {
             subkeyaki: ["cgropus"]
         }
