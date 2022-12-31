@@ -9,7 +9,7 @@ dataSet[dataSetVersion].characterData = [
     //singles 
  
     {
-        "name": "Morning Musume '22",
+        "name": "Morning Musume '23",
         "img": "https://i.imgur.com/NEEsXAV.jpg"
         , opts: {
             subkeyaki: ["cgropus"]
@@ -34,7 +34,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Tsubaki Factory",
-        "img": "https://i.imgur.com/wWXZsY2.jpg"
+        "img": "https://i.imgur.com/C9D8bI3.jpg"
         , opts: {
             subkeyaki: ["cgropus"]
         }
