@@ -172,7 +172,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Takagi Sayuki",
-        "img": "https://i.imgur.com/ivqyL53.jpg"
+        "img": "https://i.imgur.com/9JqX7sa.jpg"
         , opts: {
             subkeyaki: ["ex-jj"]
         }
@@ -621,7 +621,7 @@ dataSet[dataSetVersion].characterData = [
     ,
     {
         "name": "Nomura Minami",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/0/0b/NomuraMinami-January2020.jpg/revision/latest/scale-to-width-down/300?cb=20200127191405"
+        "img": "https://i.imgur.com/bUIavDa.jpg"
         , opts: {
             subkeyaki: ["kf"]
         }
@@ -637,7 +637,7 @@ dataSet[dataSetVersion].characterData = [
     ,
     {
         "name": "Wada Sakurako",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/0/06/WadaSakurako-January2020.jpg/revision/latest/scale-to-width-down/300?cb=20200127191904"
+        "img": "https://i.imgur.com/H9zcYYD.jpg"
         , opts: {
             subkeyaki: ["kf"]
         }
@@ -645,21 +645,21 @@ dataSet[dataSetVersion].characterData = [
     ,
     {
         "name": "Fujii Rio",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/1/17/Fujiirio2017may.jpg/revision/latest/scale-to-width-down/270?cb=20170523151205"
+        "img": "https://i.imgur.com/8Ol9oOo.jpg"
         , opts: {
             subkeyaki: ["kf"]
         }
     },
     {
         "name": "Ogawa Rena",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/1/18/Ogawarena2017may.jpg/revision/latest/scale-to-width-down/270?cb=20170523151342"
+        "img": "https://i.imgur.com/QkcLXt0.jpg"
         , opts: {
             subkeyaki: ["kf"]
         }
     },
     {
         "name": "Taguchi Natsumi",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/4/4e/Taguchinatsumi2017may.jpg/revision/latest/scale-to-width-down/270?cb=20170523152158"
+        "img": "https://i.imgur.com/9Rf74LT.jpg"
         , opts: {
             subkeyaki: ["kf"]
         }
@@ -668,7 +668,7 @@ dataSet[dataSetVersion].characterData = [
     //Country Girls
     {
         "name": "Yamaki Risa",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/6/63/YamakiRisa-CountryGirlsDaizenshuu1.jpeg/revision/latest/scale-to-width-down/280?cb=20191105034249"
+        "img": "https://i.imgur.com/EbJ77ZP.jpg"
         , opts: {
             subkeyaki: ["cg"]
         }
@@ -683,14 +683,14 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Yanagawa Nanami",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/1/13/8f1c814b7e9790219bd2851614be03e8d76b7586.jpg/revision/latest/scale-to-width-down/270?cb=20181231154740"
+        "img": "https://i.imgur.com/OlMAq2i.jpg"
         , opts: {
             subkeyaki: ["cg", "ex-jj"]
         }
     },
     {
         "name": "Tsugunaga Momoko",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/4/43/Tsugunagamomoko2017Goodboybadgirl.jpg/revision/latest/scale-to-width-down/250?cb=20170102180727"
+        "img": "https://i.imgur.com/8jiX8f5.jpg"
         , opts: {
             subkeyaki: ["cg", "berryz", "buono"]
         }
@@ -727,14 +727,14 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Okai Chisato",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/7/72/OkailastAlbum.jpg/revision/latest/scale-to-width-down/300?cb=20170407114819"
+        "img": "https://i.imgur.com/fuy3yOW.jpg"
         , opts: {
             subkeyaki: ["cute"]
         }
     },
     {
         "name": "Hagiwara Mai",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/7/7f/HagiwaralastAlbum.jpg/revision/latest/scale-to-width-down/290?cb=20170407115510"
+        "img": "https://i.imgur.com/dAa9fJQ.jpg"
         , opts: {
             subkeyaki: ["cute"]
         }
@@ -765,7 +765,7 @@ dataSet[dataSetVersion].characterData = [
 
     {
         "name": "Shimizu Saki",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/7/7b/B56867d56ead2bcd78e03eef9b410c17d250ae45.jpg/revision/latest/scale-to-width-down/160?cb=20141226125810"
+        "img": "https://i.imgur.com/UXJ0934.jpg"
         , opts: {
             subkeyaki: ["berryz"]
         }
@@ -774,7 +774,7 @@ dataSet[dataSetVersion].characterData = [
 
     {
         "name": "Tokunaga Chinami",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/2/27/2e942155ccc55bf43e825bc47b78613e4eb3eb10.jpg/revision/latest/scale-to-width-down/200?cb=20141226125032"
+        "img": "https://i.imgur.com/2hkEh81.jpg"
         , opts: {
             subkeyaki: ["berryz"]
         }
@@ -1137,7 +1137,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Nakanishi Kana",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/a/a6/NakanishiKana-Anju27thSingle.jpg/revision/latest/scale-to-width-down/270?cb=20191018142615"
+        "img": "https://i.imgur.com/eAH5jbN.jpg"
         , opts: {
             subkeyaki: ["SnAog"]
         }
@@ -1165,21 +1165,21 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Murota Mizuki",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/d/d8/MurotaMizuki-Anju27thSingle.jpg/revision/latest/scale-to-width-down/270?cb=20191018142709"
+        "img": "https://i.imgur.com/TrXoNRt.jpg"
         , opts: {
             subkeyaki: ["SnAog"]
         }
     },
     {
         "name": "Aikawa Maho ",
-        "img": "https://vignette.wikia.nocookie.net/helloproject/images/6/67/Aikawa-UmakuIenai-Front.jpg/revision/latest/scale-to-width-down/250?cb=20160928171230"
+        "img": "https://i.imgur.com/IaFYqrY.jpg"
         , opts: {
             subkeyaki: ["SnAog"]
         }
     },
 	    {
         "name": "Kasahara Momona",
-        "img": "https://i.imgur.com/kyqxxLw.jpg"
+        "img": "https://i.imgur.com/60O9oY4.jpg"
         , opts: {
             subkeyaki: ["SnAog"]
         }
@@ -1227,67 +1227,52 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Takahagi Chinatsu",
-        "img": "https://i.imgur.com/gWU9gmX.jpg"
+        "img": "https://i.imgur.com/VJUASsJ.jpg"
         , opts: {
             subkeyaki: ["uup2"]
         }
-
-    },
-    {
-        "name": "Yoshikawa Mayu",
-        "img": "https://i.imgur.com/EmUuxvB.jpg"
-        , opts: {
-            subkeyaki: ["uup2"]
-        }
-
     },
     {
         "name": "Kajishima Aya",
-        "img": "https://i.imgur.com/fxT0m5g.jpg"
+        "img": "https://i.imgur.com/VLSe420.jpg"
         , opts: {
             subkeyaki: ["uup2"]
         }
-
     },
     {
         "name": "Nakagawa Chihiro",
-        "img": "https://i.imgur.com/kVndJJB.jpg"
+        "img": "https://i.imgur.com/Ia3pfYx.jpg"
         , opts: {
             subkeyaki: ["uup2"]
         }
-
     },
     {
         "name": "Sasaki Honoka ",
-        "img": "https://i.imgur.com/lYXKqOo.jpg"
+        "img": "https://i.imgur.com/FnCXQwe.jpg"
         , opts: {
             subkeyaki: ["uup2"]
         }
-
     },
     {
         "name": "Morinaga Niina",
-        "img": "https://i.imgur.com/b5O5x8d.jpg"
+        "img": "https://i.imgur.com/iZlLU68.jpg"
         , opts: {
             subkeyaki: ["uup2"]
         }
-
     },
     {
         "name": "Shimazaki Yuria",
-        "img": "https://i.imgur.com/rcOhNR1.jpg"
+        "img": "https://i.imgur.com/zfSXkgY.jpg"
         , opts: {
             subkeyaki: ["uup2"]
         }
-
     },
     {
         "name": "Niikura Ami",
-        "img": "https://i.imgur.com/Gd4o9bx.jpg"
+        "img": "https://i.imgur.com/EPHCB0H.jpg"
         , opts: {
             subkeyaki: ["uup2"]
         }
-
     }
     
     
@@ -1303,8 +1288,8 @@ dataSet[dataSetVersion].options = [
         checked: true,
         sub: [
             { name: "Morning Musume '23", key: 'mm' },
+			{ name: 'Angerme', key: 'angerme' },
             { name: 'Juice=Juice', key: 'jj' },
-            { name: 'Angerme', key: 'angerme' },
             { name: 'Tsubaki Factory', key: 'tf' },
             { name: 'BEYOOOOONDS', key: 'by' },
             { name: 'OCHA NORMA', key: 'ocha' },
