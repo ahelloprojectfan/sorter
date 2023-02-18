@@ -94,70 +94,70 @@ dataSet[dataSetVersion].characterData = [
 
     {
         "name": "Takeuchi Akari",
-        "img": "https://i.imgur.com/44R5WwK.jpg"
+        "img": "https://i.imgur.com/5PSmGIs.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "Sasaki Rikako",
-        "img": "https://i.imgur.com/OdlbiAw.jpg"
+        "img": "https://i.imgur.com/Ay8oUuP.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "Kamikokuryo Moe",
-        "img": "https://i.imgur.com/TQI2gqF.jpg"
+        "img": "https://i.imgur.com/hWMeHmS.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "Kawamura Ayano",
-        "img": "https://i.imgur.com/Mk5DhMA.jpg"
+        "img": "https://i.imgur.com/rJx0aIi.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "Ise Layla",
-        "img": "https://i.imgur.com/7bpdFjx.jpg"
+        "img": "https://i.imgur.com/PVgtgFH.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "Hashisako Rin",
-        "img": "https://i.imgur.com/VtQZYjc.jpg"
+        "img": "https://i.imgur.com/vF4kvNa.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "Tamenaga Shion",
-        "img": "https://i.imgur.com/aaLkamE.jpg"
+        "img": "https://i.imgur.com/JkclVtG.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "Kawana Rin",
-        "img": "https://i.imgur.com/sWkpVrh.jpg"
+        "img": "https://i.imgur.com/9tHw9fg.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "Matsumoto Wakana",
-        "img": "https://i.imgur.com/rirRI6l.jpg"
+        "img": "https://i.imgur.com/grw1IJn.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
 	{
         "name": "Hirayama Yuki",
-        "img": "https://i.imgur.com/h0ArKmK.jpg"
+        "img": "https://i.imgur.com/uALeQxH.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
