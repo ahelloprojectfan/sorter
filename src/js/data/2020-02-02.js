@@ -1820,7 +1820,7 @@ dataSet[dataSetVersion].characterData = [
     },
 {
         "name": "Miimi (Okamura) (2022)",
-        "img": "hhttps://i.imgur.com/gs7CxhE.jpg"
+        "img": "https://i.imgur.com/gs7CxhE.jpg"
         , opts:{
             subkeyaki: ["pbs","bypb"]
         }
