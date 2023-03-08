@@ -18,7 +18,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "ANGERME",
-        "img": "https://i.imgur.com/tP260IV.jpg"
+        "img": "https://i.imgur.com/kuZ5QjI.jpg"
         , opts: {
             subkeyaki: ["cgropus"]
         }
@@ -26,7 +26,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Juice=Juice",
-        "img": "https://i.imgur.com/bJbs3QG.jpg"
+        "img": "https://i.imgur.com/z996MG7.jpg"
         , opts: {
             subkeyaki: ["cgropus"]
         }
@@ -42,7 +42,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "BEYOOOOONDS",
-        "img": "https://i.imgur.com/7hxddPA.jpg"
+        "img": "https://i.imgur.com/Lk0OZ24.jpg"
         , opts: {
             subkeyaki: ["cgropus"]
         }
@@ -50,7 +50,7 @@ dataSet[dataSetVersion].characterData = [
     },
 	{
         "name": "OCHA NORMA",
-        "img": "https://i.imgur.com/QT91PVI.jpg"
+        "img": "https://i.imgur.com/TjMpdsp.jpg"
         , opts: {
             subkeyaki: ["cgropus"]
         }
