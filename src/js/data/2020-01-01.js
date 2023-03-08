@@ -378,84 +378,84 @@ dataSet[dataSetVersion].characterData = [
 
     {
         "name": "一岡伶奈",
-        "img": "https://i.imgur.com/tIpfRtY.jpg"
+        "img": "https://i.imgur.com/dUPlJKr.jpg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "島倉りか",
-        "img": "https://i.imgur.com/8gl3y1G.jpg"
+        "img": "https://i.imgur.com/gYzYOFF.jpg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "西田汐里",
-        "img": "https://i.imgur.com/qYQeMcT.jpg"
+        "img": "https://i.imgur.com/nf3zhsZ.jpg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "江口紗耶",
-        "img": "https://i.imgur.com/4FXlbdX.jpg"
+        "img": "https://i.imgur.com/anrPYzZ.jpg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "高瀬くるみ",
-        "img": "https://i.imgur.com/FXDXtpm.jpg"
+        "img": "https://i.imgur.com/d1jB1CN.jpg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "前田こころ",
-        "img": "https://i.imgur.com/p66od7x.jpg"
+        "img": "https://i.imgur.com/U34skHH.jpg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "山﨑夢羽",
-        "img": "https://i.imgur.com/AVh6P7V.jpg"
+        "img": "https://i.imgur.com/xbFINcf.jpg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "岡村美波",
-        "img": "https://i.imgur.com/S4TBWCK.jpg"
+        "img": "https://i.imgur.com/eFjedsU.jpg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "清野桃々姫",
-        "img": "https://i.imgur.com/HiqSB5D.jpg"
+        "img": "https://i.imgur.com/yZ6IGTf.jpg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "平井美葉",
-        "img": "https://i.imgur.com/GAAoIt8.jpg"
+        "img": "https://i.imgur.com/RCQwLWA.jpg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "小林萌花",
-        "img": "https://i.imgur.com/jEnY5BZ.jpg"
+        "img": "https://i.imgur.com/CDunM8b.jpg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "里吉うたの",
-        "img": "https://i.imgur.com/XTJdLeP.jpg"
+        "img": "https://i.imgur.com/mfSuoGC.jpg"
         , opts: {
             subkeyaki: ["by"]
         }
