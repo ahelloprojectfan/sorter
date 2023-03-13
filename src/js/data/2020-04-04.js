@@ -541,70 +541,70 @@ dataSet[dataSetVersion].characterData = [
 
     {
         "name": "Matsubara Yulia",
-        "img": "https://i.imgur.com/tUaWvGd.jpg"
+        "img": "https://i.imgur.com/lXmsBm4.jpgg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
     {
         "name": "Onoda Karin",
-        "img": "https://i.imgur.com/uY78F5y.jpg"
+        "img": "https://i.imgur.com/wRWPwFG.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
     {
         "name": "Hashida Honoka",
-        "img": "https://i.imgur.com/G4qujut.jpg"
+        "img": "https://i.imgur.com/IJf1l4w.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
     {
         "name": "Murakoshi Ayana",
-        "img": "https://i.imgur.com/IgV0mJd.jpg"
+        "img": "https://i.imgur.com/pDoL30P.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
     {
         "name": "Uemura Hasumi",
-        "img": "https://i.imgur.com/LUDfMvQ.jpg"
+        "img": "https://i.imgur.com/hO6zWeb.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
      {
         "name": "Yoshida Hinoha",
-        "img": "https://i.imgur.com/el4J1Cf.jpg"
+        "img": "https://i.imgur.com/ysZJmba.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
     {
         "name": "Kawashima Mifu",
-        "img": "https://i.imgur.com/uj5sGee.jpg"
+        "img": "https://i.imgur.com/m5hG0xH.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
     {
         "name": "Goto Hana",
-        "img": "https://i.imgur.com/Sz3xFKD.jpg"
+        "img": "https://i.imgur.com/9z8Ls3o.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
       {
         "name": "Shimoitani Yukiho",
-        "img": "https://i.imgur.com/70oBjhx.jpg"
+        "img": "https://i.imgur.com/bbierTx.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
         {
         "name": "Kamimura Rena",
-        "img": "https://i.imgur.com/EsNFLqY.jpg"
+        "img": "https://i.imgur.com/ogrhFhJ.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
