@@ -317,7 +317,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "Asakura Kiki",
         "img": "https://i.imgur.com/JpsgWEC.jpg"
         , opts: {
-            subkeyaki: ["tf"]
+            subkeyaki: ["extf"]
         }
     },
     {
@@ -609,7 +609,28 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["kss"]
         }
     },
-    
+            {
+        "name": "Kawano Soara",
+        "img": "https://i.imgur.com/hfwDcqR.jpg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+	        {
+        "name": "Makino Toa",
+        "img": "https://i.imgur.com/eAfIiVf.jpg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+	        {
+        "name": "Hayashi Niina",
+        "img": "https://i.imgur.com/cnisnYR.jpg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+	
     // Kobushi Factory
     {
         "name": "Hirose Ayaka",
