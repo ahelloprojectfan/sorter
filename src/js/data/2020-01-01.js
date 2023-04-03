@@ -317,7 +317,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "浅倉樹々",
         "img": "https://i.imgur.com/JpsgWEC.jpg"
         , opts: {
-            subkeyaki: ["tf"]
+            subkeyaki: ["extf"]
         }
     },
     {
@@ -609,7 +609,28 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["kss"]
         }
     },
-
+            {
+        "name": "河野空愛",
+        "img": "https://i.imgur.com/hfwDcqR.jpg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+	        {
+        "name": "牧野永愛",
+        "img": "https://i.imgur.com/eAfIiVf.jpg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+	        {
+        "name": "林仁愛",
+        "img": "https://i.imgur.com/cnisnYR.jpg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+	
     // Kobushi Factory
     {
         "name": "広瀬彩海",
