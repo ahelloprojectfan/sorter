@@ -1112,14 +1112,14 @@ dataSet[dataSetVersion].characterData = [
     },
 	{
         "name": "Kaga Kaede",
-        "img": "https://i.imgur.com/yRPUXwZ.jpg"
+        "img": "https://i.imgur.com/OSy12XI.jpg"
         , opts: {
             subkeyaki: ["mmog"]
         }
     },
 {
         "name": "Morito Chisaki",
-        "img": "https://i.imgur.com/BVNo0CT.jpg"
+        "img": "https://i.imgur.com/AqRTseD.jpg"
         , opts: {
             subkeyaki: ["mmog", "cg"]
         }
