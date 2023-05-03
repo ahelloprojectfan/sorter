@@ -1112,14 +1112,14 @@ dataSet[dataSetVersion].characterData = [
     },
 	{
         "name": "加賀楓",
-        "img": "https://i.imgur.com/yRPUXwZ.jpg"
+        "img": "https://i.imgur.com/OSy12XI.jpg"
         , opts: {
             subkeyaki: ["mmog"]
         }
     },
 {
         "name": "森戸知沙希",
-        "img": "https://i.imgur.com/BVNo0CT.jpg"
+        "img": "https://i.imgur.com/AqRTseD.jpg"
         , opts: {
             subkeyaki: ["mmog", "cg"]
         }
