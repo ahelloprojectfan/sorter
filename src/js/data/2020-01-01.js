@@ -94,70 +94,70 @@ dataSet[dataSetVersion].characterData = [
 
     {
         "name": "竹内朱莉",
-        "img": "https://i.imgur.com/5PSmGIs.jpg"
+        "img": "https://i.imgur.com/lo0Ybj3.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "佐々木莉佳子",
-        "img": "https://i.imgur.com/Ay8oUuP.jpg"
+        "img": "https://i.imgur.com/b2zRtit.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "上國料萌衣",
-        "img": "https://i.imgur.com/hWMeHmS.jpg"
+        "img": "https://i.imgur.com/Ih4uQ6c.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "川村文乃",
-        "img": "https://i.imgur.com/rJx0aIi.jpg"
+        "img": "https://i.imgur.com/2zzEADN.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "伊勢鈴蘭",
-        "img": "https://i.imgur.com/PVgtgFH.jpg"
+        "img": "https://i.imgur.com/LkwKHKX.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "橋迫鈴",
-        "img": "https://i.imgur.com/vF4kvNa.jpg"
+        "img": "https://i.imgur.com/lKZtc2w.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "為永幸音",
-        "img": "https://i.imgur.com/JkclVtG.jpg"
+        "img": "https://i.imgur.com/b0WIhxT.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "川名凜",
-        "img": "https://i.imgur.com/9tHw9fg.jpg"
+        "img": "https://i.imgur.com/Z4lgEhv.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "松本わかな",
-        "img": "https://i.imgur.com/grw1IJn.jpg"
+        "img": "https://i.imgur.com/jzjdIPV.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
 	{
         "name": "平山遊季",
-        "img": "https://i.imgur.com/uALeQxH.jpg"
+        "img": "https://i.imgur.com/vEHGGtP.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
