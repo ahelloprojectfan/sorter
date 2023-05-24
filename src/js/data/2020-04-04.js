@@ -88,7 +88,20 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["mm"]
         }
     },
-	
+	    {
+        "name": "Inoue Haruka",
+        "img": "https://i.imgur.com/QhuNzCh.png"
+        , opts: {
+            subkeyaki: ["mm"]
+        }
+    },
+	    {
+        "name": "Yumigeta Ako",
+        "img": "https://i.imgur.com/VdQ0dvM.png"
+        , opts: {
+            subkeyaki: ["mm"]
+        }
+    },
 	
     // Angerme
 
@@ -158,6 +171,20 @@ dataSet[dataSetVersion].characterData = [
 	{
         "name": "Hirayama Yuki",
         "img": "https://i.imgur.com/vEHGGtP.jpg"
+        , opts: {
+            subkeyaki: ["angerme"]
+        }
+    },
+	    {
+        "name": "Goto Hana",
+        "img": "https://i.imgur.com/9z8Ls3o.jpg"
+        , opts: {
+            subkeyaki: ["angerme"]
+        }
+    },
+      {
+        "name": "Shimoitani Yukiho",
+        "img": "https://i.imgur.com/bbierTx.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
@@ -274,6 +301,13 @@ dataSet[dataSetVersion].characterData = [
         , opts: {
             subkeyaki: ["jj"]
     }
+    },
+	    {
+        "name": "Kawashima Mifu",
+        "img": "https://i.imgur.com/m5hG0xH.jpg"
+        , opts: {
+            subkeyaki: ["jj"]
+        }
     },
 	
     //Tsubaki Factory
@@ -543,70 +577,49 @@ dataSet[dataSetVersion].characterData = [
         "name": "Matsubara Yulia",
         "img": "https://i.imgur.com/lXmsBm4.jpgg"
         , opts: {
-            subkeyaki: ["kss"]
+            subkeyaki: ["kssu"]
         }
     },
     {
         "name": "Onoda Karin",
         "img": "https://i.imgur.com/wRWPwFG.jpg"
         , opts: {
-            subkeyaki: ["kss"]
+            subkeyaki: ["kssu"]
         }
     },
     {
         "name": "Hashida Honoka",
         "img": "https://i.imgur.com/IJf1l4w.jpg"
         , opts: {
-            subkeyaki: ["kss"]
+            subkeyaki: ["kssu"]
         }
     },
     {
         "name": "Murakoshi Ayana",
         "img": "https://i.imgur.com/pDoL30P.jpg"
         , opts: {
-            subkeyaki: ["kss"]
+            subkeyaki: ["kssu"]
         }
     },
     {
         "name": "Uemura Hasumi",
         "img": "https://i.imgur.com/hO6zWeb.jpg"
         , opts: {
-            subkeyaki: ["kss"]
+            subkeyaki: ["kssu"]
         }
     },
      {
         "name": "Yoshida Hinoha",
         "img": "https://i.imgur.com/ysZJmba.jpg"
         , opts: {
-            subkeyaki: ["kss"]
-        }
-    },
-    {
-        "name": "Kawashima Mifu",
-        "img": "https://i.imgur.com/m5hG0xH.jpg"
-        , opts: {
-            subkeyaki: ["kss"]
-        }
-    },
-    {
-        "name": "Goto Hana",
-        "img": "https://i.imgur.com/9z8Ls3o.jpg"
-        , opts: {
-            subkeyaki: ["kss"]
-        }
-    },
-      {
-        "name": "Shimoitani Yukiho",
-        "img": "https://i.imgur.com/bbierTx.jpg"
-        , opts: {
-            subkeyaki: ["kss"]
+            subkeyaki: ["kssu"]
         }
     },
         {
         "name": "Kamimura Rena",
         "img": "https://i.imgur.com/ogrhFhJ.jpg"
         , opts: {
-            subkeyaki: ["kss"]
+            subkeyaki: ["kssu"]
         }
     },
             {
@@ -1314,6 +1327,7 @@ dataSet[dataSetVersion].options = [
             { name: 'Tsubaki Factory', key: 'tf' },
             { name: 'BEYOOOOONDS', key: 'by' },
             { name: 'OCHA NORMA', key: 'ocha' },
+	    { name: "Hello Pro Kenshuusei Unit '23", key: 'kssu' },
             { name: 'Hello Pro Kenshuusei', key: 'kss' },
             { name: 'Ex-Juice=Juice', key: 'ex-jj' },
             { name: 'Ex-Kobushi Factory', key: 'kf' },
