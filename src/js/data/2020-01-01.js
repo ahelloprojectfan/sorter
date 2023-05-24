@@ -88,7 +88,20 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["mm"]
         }
     },
-    
+    	    {
+        "name": "井上春華",
+        "img": "https://i.imgur.com/QhuNzCh.png"
+        , opts: {
+            subkeyaki: ["mm"]
+        }
+    },
+	    {
+        "name": "弓桁朱琴",
+        "img": "https://i.imgur.com/VdQ0dvM.png"
+        , opts: {
+            subkeyaki: ["mm"]
+        }
+    },
 
     // Angerme
 
@@ -158,6 +171,20 @@ dataSet[dataSetVersion].characterData = [
 	{
         "name": "平山遊季",
         "img": "https://i.imgur.com/vEHGGtP.jpg"
+        , opts: {
+            subkeyaki: ["angerme"]
+        }
+    },
+	    {
+        "name": "後藤花",
+        "img": "https://i.imgur.com/9z8Ls3o.jpg"
+        , opts: {
+            subkeyaki: ["angerme"]
+        }
+    },
+      {
+        "name": "下井谷幸穂",
+        "img": "https://i.imgur.com/bbierTx.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
@@ -274,6 +301,13 @@ dataSet[dataSetVersion].characterData = [
         , opts: {
             subkeyaki: ["jj"]
     }
+    },
+	    {
+        "name": "川嶋美楓",
+        "img": "https://i.imgur.com/m5hG0xH.jpg"
+        , opts: {
+            subkeyaki: ["jj"]
+        }
     },
 
     //Tsubaki Factory
@@ -543,70 +577,49 @@ dataSet[dataSetVersion].characterData = [
         "name": "松原ユリヤ",
         "img": "https://i.imgur.com/lXmsBm4.jpg"
         , opts: {
-            subkeyaki: ["kss"]
+            subkeyaki: ["kssu"]
         }
     },
     {
         "name": "小野田華凜",
         "img": "https://i.imgur.com/wRWPwFG.jpg"
         , opts: {
-            subkeyaki: ["kss"]
+            subkeyaki: ["kssu"]
         }
     },
     {
         "name": "橋田歩果",
         "img": "https://i.imgur.com/IJf1l4w.jpg"
         , opts: {
-            subkeyaki: ["kss"]
+            subkeyaki: ["kssu"]
         }
     },
     {
         "name": "村越彩菜",
         "img": "https://i.imgur.com/pDoL30P.jpg"
         , opts: {
-            subkeyaki: ["kss"]
+            subkeyaki: ["kssu"]
         }
     },
     {
         "name": "植村葉純",
         "img": "https://i.imgur.com/hO6zWeb.jpg"
         , opts: {
-            subkeyaki: ["kss"]
+            subkeyaki: ["kssu"]
         }
     },
      {
         "name": "吉田姫杷",
         "img": "https://i.imgur.com/ysZJmba.jpg"
         , opts: {
-            subkeyaki: ["kss"]
-        }
-    },
-    {
-        "name": "川嶋美楓",
-        "img": "https://i.imgur.com/m5hG0xH.jpg"
-        , opts: {
-            subkeyaki: ["kss"]
-        }
-    },
-    {
-        "name": "後藤花",
-        "img": "https://i.imgur.com/9z8Ls3o.jpg"
-        , opts: {
-            subkeyaki: ["kss"]
-        }
-    },
-      {
-        "name": "下井谷幸穂",
-        "img": "https://i.imgur.com/bbierTx.jpg"
-        , opts: {
-            subkeyaki: ["kss"]
+            subkeyaki: ["kssu"]
         }
     },
         {
         "name": "上村麗菜",
         "img": "https://i.imgur.com/ogrhFhJ.jpg"
         , opts: {
-            subkeyaki: ["kss"]
+            subkeyaki: ["kssu"]
         }
     },
             {
@@ -1313,6 +1326,7 @@ dataSet[dataSetVersion].options = [
             { name: 'つばきファクトリー', key: 'tf' },
             { name: 'BEYOOOOONDS', key: 'by' },
             { name: 'OCHA NORMA', key: 'ocha' },
+	    { name: "ハロプロ研修生ユニット '23", key: 'kssu' },
             { name: 'ハロプロ研修生', key: 'kss' },
             { name: 'Juice=Juice OG', key: 'ex-jj' },
             { name: 'こぶしファクトリー', key: 'kf' },
