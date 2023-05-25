@@ -90,14 +90,14 @@ dataSet[dataSetVersion].characterData = [
     },
 	    {
         "name": "Inoue Haruka",
-        "img": "https://i.imgur.com/QhuNzCh.png"
+        "img": "https://i.imgur.com/LMbSoX8.png"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
 	    {
         "name": "Yumigeta Ako",
-        "img": "https://i.imgur.com/VdQ0dvM.png"
+        "img": "https://i.imgur.com/MSm429p.png"
         , opts: {
             subkeyaki: ["mm"]
         }
