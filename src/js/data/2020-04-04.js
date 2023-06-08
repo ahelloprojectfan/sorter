@@ -227,7 +227,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Uemura Akari",
-        "img": "https://i.imgur.com/m13okdD.jpg"
+        "img": "https://i.imgur.com/DfbBwth.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
@@ -241,70 +241,70 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Inoue Rei",
-        "img": "https://i.imgur.com/nzkAlcR.jpg"
+        "img": "https://i.imgur.com/7Xphczk.jpg"
         , opts: {
             subkeyaki: ["jj", "kf"]
         }
     },
     {
         "name": "Dambara Ruru",
-        "img": "https://i.imgur.com/LH4ZYY8.jpg"
+        "img": "https://i.imgur.com/u0vZrnE.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "Kudo Yume",
-        "img": "https://i.imgur.com/E0OabRz.jpg"
+        "img": "https://i.imgur.com/TcwoTUf.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "Matsunaga Riai",
-        "img": "https://i.imgur.com/yOcCCOf.jpg"
+        "img": "https://i.imgur.com/88K5yZ0.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },	    
 	    {
         "name": "Arisawa Ichika",
-        "img": "https://i.imgur.com/b9ryNGy.jpg"
+        "img": "https://i.imgur.com/0MX9AJ2.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
 	{
         "name": "Irie Risa",
-        "img": "https://i.imgur.com/aPOlj4U.jpg"
+        "img": "https://i.imgur.com/w7DaoT2.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
 	{
         "name": "Ebata Kisaki",
-        "img": "https://i.imgur.com/u9Orbh3.jpg"
+        "img": "https://i.imgur.com/eJRy5ff.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
 	{
         "name": "Ishiyama Sakura",
-        "img": "https://i.imgur.com/QtFapAu.jpg"
+        "img": "https://i.imgur.com/zrDMe8M.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
         {
         "name": "Endo Akari",
-        "img": "https://i.imgur.com/FWmswYn.jpg"
+        "img": "https://i.imgur.com/CU8ycpx.jpg"
         , opts: {
             subkeyaki: ["jj"]
     }
     },
 	    {
         "name": "Kawashima Mifu",
-        "img": "https://i.imgur.com/m5hG0xH.jpg"
+        "img": "https://i.imgur.com/fhtaGca.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
