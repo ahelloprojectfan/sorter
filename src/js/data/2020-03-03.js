@@ -10,7 +10,7 @@ dataSet[dataSetVersion].characterData = [
  
     {
         "name": "Morning Musume '23",
-        "img": "https://i.imgur.com/NEEsXAV.jpg"
+        "img": "https://i.imgur.com/adiQlNp.png"
         , opts: {
             subkeyaki: ["cgropus"]
         }
@@ -1239,6 +1239,20 @@ dataSet[dataSetVersion].characterData = [
 	{
         "name": "Piece of Peace ~Shiawase no Puzzle~",
         "img": "https://i.imgur.com/b9SoWys.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+		{
+        "name": "Ai no Kedamono",
+        "img": "https://i.imgur.com/y37r2oX.png"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+		{
+        "name": "Dousousei",
+        "img": "https://i.imgur.com/KlmGjNE.png"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
