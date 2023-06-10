@@ -257,6 +257,13 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["pbs","mmpb","mmgen9t12"]
         }
     },
+	    {
+        "name": "SAKURA Biyori (Sakura) (2023)",
+        "img": "https://i.imgur.com/KWfGvlm.png"
+        , opts:{
+            subkeyaki: ["pbs","mmpb","mmgen9t12"]
+        }
+    },
 	{
         "name": "To be myself (Nonaka) (2021)",
         "img": "https://i.imgur.com/WxjPNUp.jpg"
@@ -323,6 +330,13 @@ dataSet[dataSetVersion].characterData = [
 		{
         "name": "Makino Maria Zenshuu 2018-2022 (Makino) (2022)",
         "img": "https://i.imgur.com/DcLQ7Y7.jpg"
+        , opts:{
+            subkeyaki: ["pbs","mmpb","mmgen9t12"]
+        }
+    },
+			{
+        "name": "Dear MARIA (Makino) (2023)",
+        "img": "https://i.imgur.com/a4ppQFa.png"
         , opts:{
             subkeyaki: ["pbs","mmpb","mmgen9t12"]
         }
@@ -453,7 +467,13 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["pbs","mmpb","mmgen13t16"]
         }
     },
-	
+		 {
+        "name": "Rio 17sai (Sakurai) (2023)",
+        "img": "https://i.imgur.com/RKnw0kl.png"
+        , opts:{
+            subkeyaki: ["pbs","mmpb","mmgen13t16"]
+        }
+    },
 
 	{ 
         name: "Nacchi (Abe) (1999)", 
@@ -1431,6 +1451,13 @@ dataSet[dataSetVersion].characterData = [
 
     }
     ,
+	    {
+        "name": "roundabout (Takeuchi) (2023)",
+        "img": "https://i.imgur.com/Fk28Oij.png"
+        , opts:{
+            subkeyaki: ["vpbs","angermepb"]
+        }
+    },
     {
         name: "MURO (Murota) (2017)", 
         img: "https://i.imgur.com/EVg7iix.jpg"
@@ -1728,6 +1755,13 @@ dataSet[dataSetVersion].characterData = [
         }
 
     },
+	    {
+        "name": "cherie (Asakura) (2023)",
+        "img": "https://i.imgur.com/4nmBFlH.png"
+        , opts:{
+            subkeyaki: ["pbs","tsubakipb"]
+        }
+    },
 	
 	{
         name: "Yuhane (Yamazaki) (2020)", 
@@ -1833,7 +1867,13 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["pbs","onpb"]
         }
     },	
-
+	{
+        "name": "sonare (Ishiguri) (2023)",
+        "img": "https://i.imgur.com/cJ6D8ne.png"
+        , opts:{
+            subkeyaki: ["pbs","onpb"]
+        }
+    },	
  
     {
         "name": "sketch me (Yamaki) (2018)",
