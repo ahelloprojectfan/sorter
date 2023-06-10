@@ -499,70 +499,70 @@ dataSet[dataSetVersion].characterData = [
 	
 	 {
         "name": "Yonemura Kirara",
-        "img": "https://i.imgur.com/389tMRy.jpg"
+        "img": "https://i.imgur.com/ZsXmyxR.jpg"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
     {
         "name": "Nakayama Natsume",
-        "img": "https://i.imgur.com/hGEHDi2.jpg"
+        "img": "https://i.imgur.com/sKHBzMF.jpg"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
     {
         "name": "Kubota Nanami",
-        "img": "https://i.imgur.com/X2QQ7eU.jpg"
+        "img": "https://i.imgur.com/RzoM68y.jpg"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
     {
         "name": "Saito Madoka",
-        "img": "https://i.imgur.com/leJYALw.jpg"
+        "img": "https://i.imgur.com/fIcPwjd.jpg"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
 {
         "name": "Hiromoto Ruli",
-        "img": "https://i.imgur.com/d02ESCA.jpg"
+        "img": "https://i.imgur.com/m5v8pJG.jpg"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
 	    {
         "name": "Nishizaki Miku",
-        "img": "https://i.imgur.com/DCyczGL.jpg"
+        "img": "https://i.imgur.com/zizDkgU.jpg"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
     {
         "name": "Kitahara Momo",
-        "img": "https://i.imgur.com/G0tF82c.jpg"
+        "img": "https://i.imgur.com/tJfNBbJ.jpg"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
 	    {
         "name": "Ishiguri Kanami",
-        "img": "https://i.imgur.com/XxvWYgy.jpg"
+        "img": "https://i.imgur.com/CnMm6e0.jpg"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
 	    {
         "name": "Tashiro Sumire",
-        "img": "https://i.imgur.com/pmA9ItQ.jpg"
+        "img": "https://i.imgur.com/DQ7qHo7.jpg"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
     {
         "name": "Tsutsui Roko",
-        "img": "https://i.imgur.com/TvlMkSc.jpg"
+        "img": "https://i.imgur.com/xIALNnY.jpg"
         , opts: {
             subkeyaki: ["ocha"]
         }
