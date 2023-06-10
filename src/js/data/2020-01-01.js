@@ -499,70 +499,70 @@ dataSet[dataSetVersion].characterData = [
 	
 	 {
         "name": "米村姫良々",
-        "img": "https://i.imgur.com/389tMRy.jpg"
+        "img": "https://i.imgur.com/ZsXmyxR.jpg"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
     {
         "name": "中山夏月姫",
-        "img": "https://i.imgur.com/hGEHDi2.jpg"
+        "img": "https://i.imgur.com/sKHBzMF.jpg"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
     {
         "name": "窪田七海",
-        "img": "https://i.imgur.com/X2QQ7eU.jpg"
+        "img": "https://i.imgur.com/RzoM68y.jpg"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
     {
         "name": "斉藤円香",
-        "img": "https://i.imgur.com/leJYALw.jpg"
+        "img": "https://i.imgur.com/fIcPwjd.jpg"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
 {
         "name": "広本瑠璃",
-        "img": "https://i.imgur.com/d02ESCA.jpg"
+        "img": "https://i.imgur.com/m5v8pJG.jpg"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
 	    {
         "name": "西﨑美空",
-        "img": "https://i.imgur.com/DCyczGL.jpg"
+        "img": "https://i.imgur.com/zizDkgU.jpg"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
     {
         "name": "北原もも",
-        "img": "https://i.imgur.com/G0tF82c.jpg"
+        "img": "https://i.imgur.com/tJfNBbJ.jpg"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
 	    {
         "name": "石栗奏美",
-        "img": "https://i.imgur.com/XxvWYgy.jpg"
+        "img": "https://i.imgur.com/CnMm6e0.jpg"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
 	    {
         "name": "田代すみれ",
-        "img": "https://i.imgur.com/pmA9ItQ.jpg"
+        "img": "https://i.imgur.com/DQ7qHo7.jpg"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
     {
         "name": "筒井澪心",
-        "img": "https://i.imgur.com/TvlMkSc.jpg"
+        "img": "https://i.imgur.com/xIALNnY.jpg"
         , opts: {
             subkeyaki: ["ocha"]
         }
