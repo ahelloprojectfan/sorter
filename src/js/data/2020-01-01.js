@@ -109,7 +109,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "竹内朱莉",
         "img": "https://i.imgur.com/lo0Ybj3.jpg"
         , opts: {
-            subkeyaki: ["angerme"]
+            subkeyaki: ["SnAog"]
         }
     },
     {
