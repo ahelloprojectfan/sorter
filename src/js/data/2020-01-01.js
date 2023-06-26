@@ -90,14 +90,14 @@ dataSet[dataSetVersion].characterData = [
     },
     	    {
         "name": "井上春華",
-        "img": "https://i.imgur.com/LMbSoX8.png"
+        "img": "https://i.imgur.com/yhGZzdh.png"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
 	    {
         "name": "弓桁朱琴",
-        "img": "https://i.imgur.com/MSm429p.png"
+        "img": "https://i.imgur.com/tSN8Xng.png"
         , opts: {
             subkeyaki: ["mm"]
         }
