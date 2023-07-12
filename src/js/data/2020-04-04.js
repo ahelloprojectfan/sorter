@@ -304,7 +304,7 @@ dataSet[dataSetVersion].characterData = [
     },
 	    {
         "name": "Kawashima Mifu",
-        "img": "https://i.imgur.com/fhtaGca.jpg"
+        "img": "https://i.imgur.com/IuFEU3o.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
