@@ -349,7 +349,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "浅倉樹々",
-        "img": "https://i.imgur.com/JpsgWEC.jpg"
+        "img": "https://i.imgur.com/npZo8hA.png"
         , opts: {
             subkeyaki: ["extf"]
         }
