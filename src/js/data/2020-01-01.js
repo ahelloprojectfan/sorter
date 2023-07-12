@@ -304,7 +304,7 @@ dataSet[dataSetVersion].characterData = [
     },
 	    {
         "name": "川嶋美楓",
-        "img": "https://i.imgur.com/fhtaGca.jpg"
+        "img": "https://i.imgur.com/IuFEU3o.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
