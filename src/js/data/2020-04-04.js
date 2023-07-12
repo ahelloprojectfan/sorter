@@ -349,7 +349,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Asakura Kiki",
-        "img": "https://i.imgur.com/JpsgWEC.jpg"
+        "img": "https://i.imgur.com/npZo8hA.png"
         , opts: {
             subkeyaki: ["extf"]
         }
