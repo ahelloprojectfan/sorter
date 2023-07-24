@@ -1,0 +1,132 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset='utf-8' lang='en' />
+    <title>Hello! Project Tier Maker</title>
+    <link rel='stylesheet' href='tiers.css' />
+    <script src='tiers.js' async></script>
+
+    <style>
+        html,
+        body {
+            font-family: 'Montserrat', Helvetica, sans-serif;
+            background: linear-gradient(#349dda, #024064);
+
+        }
+
+        footer {
+            color: #ddd;
+        }
+
+        a {
+            color :#93e7ff;
+            /* color: #0056b3; */
+            /* text-decoration: underline; */
+
+        }
+        a:hover{
+             color: #0056b3; 
+             text-decoration: underline;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class='title'>
+        <h4>Hello! Project Tier Maker</h2>
+            <label class='title-label' for='title-input'>My TierList</label>
+            <input type='text' id='title-input' />
+    </div>
+    <a href='https://ahelloprojectfan.github.io/sorter/index.html' class='gh-link'>Sorter</a>
+    <section class='main-content'>
+        <div class='tierlist'>
+        </div>
+        <div class='bottom-container'>
+            <div class='buttons-container'>
+                <div class='button'>
+                    <label for='load-img-input'>
+                        <img src='plus.png' title='Add images' />
+                    </label>
+                    <input id='load-img-input' type='file' accept='image/*' multiple />
+                </div>
+                <div class='button'>
+                    <label for='reset-list-input'>
+                        <img src='reset.png' title='Reset list'>
+                    </label>
+                    <input id='reset-list-input' type='button' />
+                </div>
+                <div class='button'>
+                    <label for='export-input'>
+                        <img src='export.png' title='Export'>
+                    </label>
+                    <input id='export-input' type='button' />
+                </div>
+                <div class='button'>
+                    <label for='import-input'>
+                        <img src='import.png' title='Import' />
+                    </label>
+                    <input id='import-input' type='file' accept='.json' multiple />
+                </div>
+            </div>
+            <section class='images'></section>
+        </div>
+    </section>
+
+
+
+    <img id='trash' src='trash_bin.png' title='Delete image (drag it over here)'></img>
+    <script>
+        var dataSet = {
+
+        };
+    </script>
+
+    <script src="https://ahelloprojectfan.github.io/sorter/src/js/data/2020-01-01.js"></script>
+
+    <script>
+
+        let arr = dataSet[dataSetVersion].characterData;
+        idols = [];
+
+        let res = [];
+        for (let ele of arr) {
+            if (!ele) {
+                continue;
+            }
+            if (ele.opts.subkeyaki.includes("mm") ||
+                ele.opts.subkeyaki.includes("jj") ||
+                ele.opts.subkeyaki.includes("angerme") ||
+                ele.opts.subkeyaki.includes("tf") ||
+                ele.opts.subkeyaki.includes("by") ||
+                ele.opts.subkeyaki.includes("ocha") ||
+                ele.opts.subkeyaki.includes("kunit")) {
+
+                idols.push(
+                    {
+                        "name": ele.name,
+                        "img": ele.img,
+                        "group": ele.opts.subkeyaki
+                    }
+                )
+
+            }
+        }
+        let images = document.querySelector('.images');
+        for (let idol of idols) {
+
+            let img = create_img_with_src(idol.img);
+            images.appendChild(img);
+        }
+
+
+    </script>
+    <footer>
+        <p>This tier maker was made using code from <a
+                href="https://github.com/silverweed/tiers">https://github.com/silverweed/tiers</a>
+    </footer>
+
+</body>
+
+</html>
