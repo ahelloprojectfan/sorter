@@ -6,7 +6,7 @@
  copies of this license document, and changing it is allowed as long
  as the name is changed.
 
-            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+			DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
    TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
   0. You just DO WHAT THE FUCK YOU WANT TO.
@@ -15,7 +15,7 @@
 'use strict';
 
 const MAX_NAME_LEN = 200;
-const DEFAULT_TIERS = ['S','A','B','C','D','E','F'];
+const DEFAULT_TIERS = ['S', 'A', 'B', 'C', 'D', 'E', 'F'];
 const TIER_COLORS = [
 	// from S to F
 	'#ff6666',
@@ -65,8 +65,8 @@ function soft_reset_list() {
 }
 
 window.addEventListener('load', () => {
-	untiered_images =  document.querySelector('.images');
-	tierlist_div =  document.querySelector('.tierlist');
+	untiered_images = document.querySelector('.images');
+	tierlist_div = document.querySelector('.tierlist');
 
 	for (let i = 0; i < DEFAULT_TIERS.length; ++i) {
 		add_row(i, DEFAULT_TIERS[i]);
@@ -251,7 +251,7 @@ function make_accept_drop(elem) {
 
 		let dragged_image_parent = dragged_image.parentNode;
 		if (dragged_image_parent.tagName.toUpperCase() === 'SPAN' &&
-				dragged_image_parent.classList.contains('item')) {
+			dragged_image_parent.classList.contains('item')) {
 			// We were already in a tier
 			let containing_tr = dragged_image_parent.parentNode;
 			containing_tr.removeChild(dragged_image_parent);
@@ -361,8 +361,7 @@ function add_row(index, name) {
 		let idx = rows.indexOf(parent_div);
 		console.assert(idx >= 0);
 		if (rows[idx].querySelectorAll('img').length === 0 ||
-			confirm(`Remove tier ${rows[idx].querySelector('.header label').innerText}? (This will move back all its content to the untiered pool)`))
-		{
+			confirm(`Remove tier ${rows[idx].querySelector('.header label').innerText}? (This will move back all its content to the untiered pool)`)) {
 			rm_row(idx);
 		}
 		recompute_header_colors();
@@ -431,8 +430,7 @@ function bind_trash_events() {
 		if (dragged_image) {
 			let dragged_image_parent = dragged_image.parentNode;
 			if (dragged_image_parent.tagName.toUpperCase() === 'SPAN' &&
-					dragged_image_parent.classList.contains('item'))
-			{
+				dragged_image_parent.classList.contains('item')) {
 				// We were already in a tier
 				let containing_tr = dragged_image_parent.parentNode;
 				containing_tr.removeChild(dragged_image_parent);
@@ -441,3 +439,39 @@ function bind_trash_events() {
 		}
 	});
 }
+
+
+
+let arr = dataSet[dataSetVersion].characterData;
+idols = [];
+
+let res = [];
+for (let ele of arr) {
+	if (!ele) {
+		continue;
+	}
+	if (ele.opts.subkeyaki.includes("mm") ||
+		ele.opts.subkeyaki.includes("jj") ||
+		ele.opts.subkeyaki.includes("angerme") ||
+		ele.opts.subkeyaki.includes("tf") ||
+		ele.opts.subkeyaki.includes("by") ||
+		ele.opts.subkeyaki.includes("ocha") ||
+		ele.opts.subkeyaki.includes("kunit")) {
+
+		idols.push(
+			{
+				"name": ele.name,
+				"img": ele.img,
+				"group": ele.opts.subkeyaki
+			}
+		)
+
+	}
+}
+let images = document.querySelector('.images');
+for (let idol of idols) {
+
+	let img = create_img_with_src(idol.img);
+	images.appendChild(img);
+}
+
