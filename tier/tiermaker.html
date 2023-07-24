@@ -21,14 +21,15 @@
         }
 
         a {
-            color :#93e7ff;
+            color: #93e7ff;
             /* color: #0056b3; */
             /* text-decoration: underline; */
 
         }
-        a:hover{
-             color: #0056b3; 
-             text-decoration: underline;
+
+        a:hover {
+            color: #0056b3;
+            text-decoration: underline;
         }
     </style>
 </head>
@@ -87,39 +88,45 @@
     <script src="https://ahelloprojectfan.github.io/sorter/src/js/data/2020-01-01.js"></script>
 
     <script>
+        document.addEventListener("DOMContentLoaded", function () {
+        
+            let arr = dataSet[dataSetVersion].characterData;
+            idols = [];
 
-        let arr = dataSet[dataSetVersion].characterData;
-        idols = [];
+            let res = [];
+            for (let ele of arr) {
+                if (!ele) {
+                    continue;
+                }
+                if (ele.opts.subkeyaki.includes("mm") ||
+                    ele.opts.subkeyaki.includes("jj") ||
+                    ele.opts.subkeyaki.includes("angerme") ||
+                    ele.opts.subkeyaki.includes("tf") ||
+                    ele.opts.subkeyaki.includes("by") ||
+                    ele.opts.subkeyaki.includes("ocha") ||
+                    ele.opts.subkeyaki.includes("kunit")) {
 
-        let res = [];
-        for (let ele of arr) {
-            if (!ele) {
-                continue;
+                    idols.push(
+                        {
+                            "name": ele.name,
+                            "img": ele.img,
+                            "group": ele.opts.subkeyaki
+                        }
+                    )
+
+                }
             }
-            if (ele.opts.subkeyaki.includes("mm") ||
-                ele.opts.subkeyaki.includes("jj") ||
-                ele.opts.subkeyaki.includes("angerme") ||
-                ele.opts.subkeyaki.includes("tf") ||
-                ele.opts.subkeyaki.includes("by") ||
-                ele.opts.subkeyaki.includes("ocha") ||
-                ele.opts.subkeyaki.includes("kunit")) {
+            let images = document.querySelector('.images');
+            for (let idol of idols) {
 
-                idols.push(
-                    {
-                        "name": ele.name,
-                        "img": ele.img,
-                        "group": ele.opts.subkeyaki
-                    }
-                )
-
+                let img = create_img_with_src(idol.img);
+                images.appendChild(img);
             }
-        }
-        let images = document.querySelector('.images');
-        for (let idol of idols) {
 
-            let img = create_img_with_src(idol.img);
-            images.appendChild(img);
-        }
+
+           
+        });
+
 
 
     </script>
