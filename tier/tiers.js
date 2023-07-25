@@ -135,6 +135,99 @@ window.addEventListener('load', () => {
 		(evt || window.event).returnValue = msg;
 		return msg;
 	});
+
+
+	//phone
+	function isTouchSupported() {
+		return 'ontouchstart' in window || navigator.maxTouchPoints > 0 || navigator.msMaxTouchPoints > 0;
+	}
+
+	if (isTouchSupported()) {
+		// Add touch event listeners for mobile devices
+		document.querySelectorAll('.draggable').forEach(img => {
+			img.addEventListener('touchstart', onTouchStart);
+			img.addEventListener('touchmove', onTouchMove);
+			img.addEventListener('touchend', onTouchEnd);
+		});
+
+		function onTouchStart(evt) {
+			// Store the current touch event target (selected image)
+			evt.preventDefault();
+
+			dragged_image = evt.target;
+			dragged_image.classList.add("dragged");
+			const parentItem = dragged_image.closest('.item');
+			if (parentItem) {
+				// Remove the parent "item" before starting the drag
+				parentItem.parentNode.removeChild(parentItem);
+			}
+		}
+
+		function onTouchMove(evt) {
+			evt.preventDefault();
+			// If an image is being dragged, move it with the touch event
+			if (dragged_image) {
+				dragged_image.style.left = evt.touches[0].clientX + 'px';
+				dragged_image.style.top = evt.touches[0].clientY + 'px';
+			}
+		}
+
+		function onTouchEnd(evt) {
+			// console.log(evt)
+			evt.preventDefault();
+			// If an image is being dragged, try to drop it onto the selected row
+
+
+			if (dragged_image) {
+				let row = document.elementFromPoint(evt.changedTouches[0].clientX, evt.changedTouches[0].clientY);
+				// console.log(row.parentNode.parentNode.parentNode.classList);
+				let items_container = row.querySelector('.items');
+
+				if (row && row.classList.contains('row')) {
+
+					const items_container = row.querySelector('.items');
+					if (items_container) {
+						let span = document.createElement("span");
+						span.classList.add("item");
+						span.appendChild(dragged_image);
+						// items_container.appendChild(span);
+
+						items_container.appendChild(span);
+						unsaved_changes = true;
+					}
+				} else if (row.parentNode.parentNode.parentNode.classList[0] === "row") {
+					row = row.parentNode.parentNode.parentNode;
+					items_container = row.querySelector('.items');
+					if (items_container) {
+						let span = document.createElement("span");
+						span.classList.add("item");
+						span.appendChild(dragged_image);
+						// items_container.appendChild(span);
+						items_container = row.querySelector('.items');
+						items_container.appendChild(span);
+						unsaved_changes = true;
+					}
+				}
+				else {
+					return;
+				}
+				// console.log(row.parentNode.parentNode.parentNode);
+				dragged_image.classList.remove("dragged");
+				dragged_image = null;
+
+			}
+		}
+
+
+	} else {
+		// Code to execute if touch is not supported
+		console.log('Touch input is not supported on this device');
+	}
+
+
+
+
+
 });
 
 function create_img_with_src(src) {
@@ -439,5 +532,3 @@ function bind_trash_events() {
 		}
 	});
 }
-
-
