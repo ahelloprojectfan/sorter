@@ -227,7 +227,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "植村あかり",
-        "img": "https://i.imgur.com/DfbBwth.jpg"
+        "img": "https://i.imgur.com/qJ7nc4o.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
@@ -241,70 +241,70 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "井上玲音",
-        "img": "https://i.imgur.com/7Xphczk.jpg"
+        "img": "https://i.imgur.com/neidOb8.jpg"
         , opts: {
             subkeyaki: ["jj", "kf"]
         }
     },
     {
         "name": "段原瑠々",
-        "img": "https://i.imgur.com/u0vZrnE.jpg"
+        "img": "https://i.imgur.com/5WZua6s.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "工藤由愛",
-        "img": "https://i.imgur.com/TcwoTUf.jpg"
+        "img": "https://i.imgur.com/x5oup7Y.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "松永里愛",
-        "img": "https://i.imgur.com/88K5yZ0.jpg"
+        "img": "https://i.imgur.com/W7UuxOl.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
 	    {
         "name": "有澤一華",
-        "img": "https://i.imgur.com/0MX9AJ2.jpg"
+        "img": "https://i.imgur.com/PqdQavX.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "入江里咲",
-        "img": "https://i.imgur.com/w7DaoT2.jpg"
+        "img": "https://i.imgur.com/Gy7KGw9.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "江端妃咲",
-        "img": "https://i.imgur.com/eJRy5ff.jpg"
+        "img": "https://i.imgur.com/tOvi83m.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "石山咲良",
-        "img": "https://i.imgur.com/zrDMe8M.jpg"
+        "img": "https://i.imgur.com/hRvfPjw.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
 	    {
         "name": "遠藤彩加里",
-        "img": "https://i.imgur.com/CU8ycpx.jpg"
+        "img": "https://i.imgur.com/4TO8lzS.jpg"
         , opts: {
             subkeyaki: ["jj"]
     }
     },
 	    {
         "name": "川嶋美楓",
-        "img": "https://i.imgur.com/IuFEU3o.jpg"
+        "img": "https://i.imgur.com/YenfrIi.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
