@@ -575,70 +575,70 @@ dataSet[dataSetVersion].characterData = [
    
     {
         "name": "松原ユリヤ",
-        "img": "https://i.imgur.com/lXmsBm4.jpg"
+        "img": "https://i.imgur.com/ntnv22F.jpg"
         , opts: {
-            subkeyaki: ["kssu"]
+            subkeyaki: ["kssu", "kss"]
         }
     },
     {
         "name": "小野田華凜",
-        "img": "https://i.imgur.com/wRWPwFG.jpg"
+        "img": "https://i.imgur.com/LBbq0zw.jpg"
         , opts: {
-            subkeyaki: ["kssu"]
+            subkeyaki: ["kssu", "kss"]
         }
     },
     {
         "name": "橋田歩果",
-        "img": "https://i.imgur.com/IJf1l4w.jpg"
+        "img": "https://i.imgur.com/WSZoYzM.jpg"
         , opts: {
-            subkeyaki: ["kssu"]
+            subkeyaki: ["kssu", "kss"]
         }
     },
     {
         "name": "村越彩菜",
-        "img": "https://i.imgur.com/pDoL30P.jpg"
+        "img": "https://i.imgur.com/OjnovYm.jpg"
         , opts: {
-            subkeyaki: ["kssu"]
+            subkeyaki: ["kssu", "kss"]
         }
     },
     {
         "name": "植村葉純",
-        "img": "https://i.imgur.com/hO6zWeb.jpg"
+        "img": "https://i.imgur.com/LR9froT.jpg"
         , opts: {
-            subkeyaki: ["kssu"]
+            subkeyaki: ["kssu", "kss"]
         }
     },
      {
         "name": "吉田姫杷",
-        "img": "https://i.imgur.com/ysZJmba.jpg"
+        "img": "https://i.imgur.com/39o8BNk.jpg"
         , opts: {
-            subkeyaki: ["kssu"]
+            subkeyaki: ["kssu", "kss"]
         }
     },
         {
         "name": "上村麗菜",
-        "img": "https://i.imgur.com/ogrhFhJ.jpg"
+        "img": "https://i.imgur.com/593D3wN.jpg"
         , opts: {
-            subkeyaki: ["kssu"]
+            subkeyaki: ["kssu", "kss"]
         }
     },
             {
         "name": "河野空愛",
-        "img": "https://i.imgur.com/hfwDcqR.jpg"
+        "img": "https://i.imgur.com/p9buRgy.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 	        {
         "name": "牧野永愛",
-        "img": "https://i.imgur.com/eAfIiVf.jpg"
+        "img": "https://i.imgur.com/06VmTOq.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 	        {
         "name": "林仁愛",
-        "img": "https://i.imgur.com/cnisnYR.jpg"
+        "img": "https://i.imgur.com/EhP2o0X.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
