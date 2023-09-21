@@ -575,70 +575,70 @@ dataSet[dataSetVersion].characterData = [
 
     {
         "name": "Matsubara Yulia",
-        "img": "https://i.imgur.com/lXmsBm4.jpgg"
+        "img": "https://i.imgur.com/ntnv22F.jpg"
         , opts: {
-            subkeyaki: ["kssu"]
+            subkeyaki: ["kssu", "kss"]
         }
     },
     {
         "name": "Onoda Karin",
-        "img": "https://i.imgur.com/wRWPwFG.jpg"
+        "img": "https://i.imgur.com/LBbq0zw.jpg"
         , opts: {
-            subkeyaki: ["kssu"]
+            subkeyaki: ["kssu", "kss"]
         }
     },
     {
         "name": "Hashida Honoka",
-        "img": "https://i.imgur.com/IJf1l4w.jpg"
+        "img": "https://i.imgur.com/WSZoYzM.jpg"
         , opts: {
-            subkeyaki: ["kssu"]
+            subkeyaki: ["kssu", "kss"]
         }
     },
     {
         "name": "Murakoshi Ayana",
-        "img": "https://i.imgur.com/pDoL30P.jpg"
+        "img": "https://i.imgur.com/OjnovYm.jpg"
         , opts: {
-            subkeyaki: ["kssu"]
+            subkeyaki: ["kssu", "kss"]
         }
     },
     {
         "name": "Uemura Hasumi",
-        "img": "https://i.imgur.com/hO6zWeb.jpg"
+        "img": "https://i.imgur.com/LR9froT.jpg"
         , opts: {
-            subkeyaki: ["kssu"]
+            subkeyaki: ["kssu", "kss"]
         }
     },
      {
         "name": "Yoshida Hinoha",
-        "img": "https://i.imgur.com/ysZJmba.jpg"
+        "img": "https://i.imgur.com/39o8BNk.jpg"
         , opts: {
-            subkeyaki: ["kssu"]
+            subkeyaki: ["kssu", "kss"]
         }
     },
         {
         "name": "Kamimura Rena",
-        "img": "https://i.imgur.com/ogrhFhJ.jpg"
+        "img": "https://i.imgur.com/593D3wN.jpg"
         , opts: {
-            subkeyaki: ["kssu"]
+            subkeyaki: ["kssu", "kss"]
         }
     },
             {
         "name": "Kawano Soara",
-        "img": "https://i.imgur.com/hfwDcqR.jpg"
+        "img": "https://i.imgur.com/p9buRgy.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 	        {
         "name": "Makino Toa",
-        "img": "https://i.imgur.com/eAfIiVf.jpg"
+        "img": "https://i.imgur.com/06VmTOq.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 	        {
         "name": "Hayashi Niina",
-        "img": "https://i.imgur.com/cnisnYR.jpg"
+        "img": "https://i.imgur.com/EhP2o0X.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
