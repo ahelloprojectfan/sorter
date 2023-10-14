@@ -114,77 +114,77 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "佐々木莉佳子",
-        "img": "https://i.imgur.com/b2zRtit.jpg"
+        "img": "https://i.imgur.com/jxe97Cy.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "上國料萌衣",
-        "img": "https://i.imgur.com/Ih4uQ6c.jpg"
+        "img": "https://i.imgur.com/qYVbhFr.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "川村文乃",
-        "img": "https://i.imgur.com/2zzEADN.jpg"
+        "img": "https://i.imgur.com/WXtgOCC.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "伊勢鈴蘭",
-        "img": "https://i.imgur.com/LkwKHKX.jpg"
+        "img": "https://i.imgur.com/ecD1Pn3.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "橋迫鈴",
-        "img": "https://i.imgur.com/lKZtc2w.jpg"
+        "img": "https://i.imgur.com/0aakCJ8.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "為永幸音",
-        "img": "https://i.imgur.com/b0WIhxT.jpg"
+        "img": "https://i.imgur.com/Yh8hpB2.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "川名凜",
-        "img": "https://i.imgur.com/Z4lgEhv.jpg"
+        "img": "https://i.imgur.com/u4wnKVC.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "松本わかな",
-        "img": "https://i.imgur.com/jzjdIPV.jpg"
+        "img": "https://i.imgur.com/ytN8jk3.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
 	{
         "name": "平山遊季",
-        "img": "https://i.imgur.com/vEHGGtP.jpg"
+        "img": "https://i.imgur.com/2O2LKHT.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
 	    {
         "name": "後藤花",
-        "img": "https://i.imgur.com/9z8Ls3o.jpg"
+        "img": "https://i.imgur.com/b6Rr9t9.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
       {
         "name": "下井谷幸穂",
-        "img": "https://i.imgur.com/bbierTx.jpg"
+        "img": "https://i.imgur.com/WLWF3f1.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
