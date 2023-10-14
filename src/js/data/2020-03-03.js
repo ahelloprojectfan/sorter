@@ -816,16 +816,12 @@ dataSet[dataSetVersion].characterData = [
             "subkeyaki": ["aSideList"]
 	}
 },
-		}
-},
 	 {
         "name": "Suggoi FEVER! (2023)",
         "img": "https://i.imgur.com/NY6KjjK.jpg",
         "opts": {
             "subkeyaki": ["aSideList"]
 	}
-},
-		}
 },
 	 {
         "name": "Wake-up Call ~Mezameru Toki~ (2023)",
