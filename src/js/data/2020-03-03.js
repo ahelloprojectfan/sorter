@@ -18,7 +18,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "ANGERME",
-        "img": "https://i.imgur.com/kuZ5QjI.jpg"
+        "img": "https://i.imgur.com/SyWmzQX.jpg"
         , opts: {
             subkeyaki: ["cgropus"]
         }
@@ -812,6 +812,31 @@ dataSet[dataSetVersion].characterData = [
 	 {
         "name": "Happy Birthday to Me! (2022)",
         "img": "https://i.imgur.com/sJFfEiZ.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+	}
+},
+		}
+},
+	 {
+        "name": "Suggoi FEVER! (2023)",
+        "img": "https://i.imgur.com/NY6KjjK.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+	}
+},
+		}
+},
+	 {
+        "name": "Wake-up Call ~Mezameru Toki~ (2023)",
+        "img": "https://i.imgur.com/mjd659G.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+	}
+},
+		 {
+        "name": "Neverending Shine (2023)",
+        "img": "https://i.imgur.com/n7ql07J.jpg",
         "opts": {
             "subkeyaki": ["aSideList"]
 	}
