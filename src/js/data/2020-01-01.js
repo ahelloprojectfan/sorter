@@ -314,35 +314,35 @@ dataSet[dataSetVersion].characterData = [
 
     {
         "name": "山岸理子",
-        "img": "https://i.imgur.com/OUCfcVk.jpg"
+        "img": "https://i.imgur.com/uvQXgWD.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
     {
         "name": "小片リサ",
-        "img": "https://i.imgur.com/kIEvPdP.jpg"
+        "img": "https://i.imgur.com/rBIV3S9.jpg"
         , opts: {
             subkeyaki: ["extf"]
         }
     },
     {
         "name": "新沼希空",
-        "img": "https://i.imgur.com/PSQ2s6M.jpg"
+        "img": "https://i.imgur.com/klI1BdD.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
     {
         "name": "谷本安美",
-        "img": "https://i.imgur.com/NMdPB5a.jpg"
+        "img": "https://i.imgur.com/flDqtiB.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
     {
         "name": "岸本ゆめの",
-        "img": "https://i.imgur.com/KgrmK3E.jpg"
+        "img": "https://i.imgur.com/0Rh8Mxg.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
@@ -356,28 +356,28 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "小野瑞歩",
-        "img": "https://i.imgur.com/vH3ghL8.jpg"
+        "img": "https://i.imgur.com/X5ugMkQ.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
     {
         "name": "小野田紗栞",
-        "img": "https://i.imgur.com/sKYUOE2.jpg"
+        "img": "https://i.imgur.com/WYUfK7M.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
     {
         "name": "秋山眞緒",
-        "img": "https://i.imgur.com/AtQfHH7.jpg"
+        "img": "https://i.imgur.com/tbiVEAO.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
 	    {
         "name": "河西結心",
-        "img": "https://i.imgur.com/OP9bKWa.jpg"
+        "img": "https://i.imgur.com/fY0oNA0.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
@@ -385,7 +385,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "八木栞",
-        "img": "https://i.imgur.com/RJCNhZH.jpg"
+        "img": "https://i.imgur.com/BjhT7xL.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
@@ -393,7 +393,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "福田真琳",
-        "img": "https://i.imgur.com/dcsDRDN.jpg"
+        "img": "https://i.imgur.com/HL6uCo5.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
@@ -401,7 +401,7 @@ dataSet[dataSetVersion].characterData = [
     },
 	    {
         "name": "豫風瑠乃",
-        "img": "https://i.imgur.com/ZFzLJBo.jpg"
+        "img": "https://i.imgur.com/SPtziFn.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
