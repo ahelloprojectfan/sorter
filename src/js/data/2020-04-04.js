@@ -314,35 +314,35 @@ dataSet[dataSetVersion].characterData = [
 
     {
         "name": "Yamagishi Riko",
-        "img": "https://i.imgur.com/OUCfcVk.jpg"
+        "img": "https://i.imgur.com/uvQXgWD.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
     {
         "name": "Ogata Risa",
-        "img": "https://i.imgur.com/kIEvPdP.jpg"
+        "img": "https://i.imgur.com/rBIV3S9.jpg"
         , opts: {
             subkeyaki: ["extf"]
         }
     },
     {
         "name": "Niinuma Kisora",
-        "img": "https://i.imgur.com/PSQ2s6M.jpg"
+        "img": "https://i.imgur.com/klI1BdD.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
     {
         "name": "Tanimoto Ami",
-        "img": "https://i.imgur.com/NMdPB5a.jpg"
+        "img": "https://i.imgur.com/flDqtiB.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
     {
         "name": "Kishimoto Yumeno",
-        "img": "https://i.imgur.com/KgrmK3E.jpg"
+        "img": "https://i.imgur.com/0Rh8Mxg.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
@@ -356,28 +356,28 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Ono Mizuho",
-        "img": "https://i.imgur.com/vH3ghL8.jpg"
+        "img": "https://i.imgur.com/X5ugMkQ.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
     {
         "name": "Onoda Saori",
-        "img": "https://i.imgur.com/sKYUOE2.jpg"
+        "img": "https://i.imgur.com/WYUfK7M.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
     {
         "name": "Akiyama Mao",
-        "img": "https://i.imgur.com/AtQfHH7.jpg"
+        "img": "https://i.imgur.com/tbiVEAO.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
 {
         "name": "Kasai Yuumi",
-        "img": "https://i.imgur.com/OP9bKWa.jpg"
+        "img": "https://i.imgur.com/fY0oNA0.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
@@ -385,7 +385,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Yagi Shiori",
-        "img": "https://i.imgur.com/RJCNhZH.jpg"
+        "img": "https://i.imgur.com/BjhT7xL.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
@@ -393,7 +393,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Fukuda Marine",
-        "img": "https://i.imgur.com/dcsDRDN.jpg"
+        "img": "https://i.imgur.com/HL6uCo5.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
@@ -401,7 +401,7 @@ dataSet[dataSetVersion].characterData = [
     },
 	    {
         "name": "Yofuu Runo",
-        "img": "https://i.imgur.com/ZFzLJBo.jpg"
+        "img": "https://i.imgur.com/SPtziFn.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
