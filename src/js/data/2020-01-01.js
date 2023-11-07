@@ -314,7 +314,7 @@ dataSet[dataSetVersion].characterData = [
 
     {
         "name": "山岸理子",
-        "img": "https://i.imgur.com/uvQXgWD.jpg"
+        "img": "https://i.imgur.com/nCSuOOs.jpg"
         , opts: {
             subkeyaki: ["extf"]
         }
