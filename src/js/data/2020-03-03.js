@@ -34,7 +34,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Tsubaki Factory",
-        "img": "https://i.imgur.com/hb56HaE.jpg"
+        "img": "https://i.imgur.com/po829kh.png"
         , opts: {
             subkeyaki: ["cgropus"]
         }
@@ -50,7 +50,7 @@ dataSet[dataSetVersion].characterData = [
     },
 	{
         "name": "OCHA NORMA",
-        "img": "https://i.imgur.com/TjMpdsp.jpg"
+        "img": "https://i.imgur.com/U2xYKG7.jpg"
         , opts: {
             subkeyaki: ["cgropus"]
         }
