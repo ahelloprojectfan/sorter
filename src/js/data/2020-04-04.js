@@ -314,7 +314,7 @@ dataSet[dataSetVersion].characterData = [
 
     {
         "name": "Yamagishi Riko",
-        "img": "https://i.imgur.com/uvQXgWD.jpg"
+        "img": "https://i.imgur.com/nCSuOOs.jpg"
         , opts: {
             subkeyaki: ["extf"]
         }
