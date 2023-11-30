@@ -4,16 +4,10 @@ dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].characterData = [
 
-    {
-        "name": "Fukumura Mizuki",
-        "img": "https://i.imgur.com/92Jw7ic.jpg"
-        , opts: {
-            subkeyaki: ["mm"]
-        }
-    },
+
     {
         "name": "Ikuta Erina",
-        "img": "https://i.imgur.com/u2GzSwF.jpg"
+        "img": "https://i.imgur.com/zEh3fOQ.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
@@ -27,7 +21,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Oda Sakura",
-        "img": "https://i.imgur.com/pgE1Bt0.jpg"
+        "img": "https://i.imgur.com/uPfpH85.jpg"
         , opts: {
             subkeyaki: ["mm"]
         }
@@ -1077,6 +1071,13 @@ dataSet[dataSetVersion].characterData = [
     {
         "name": "Linlin",
         "img": "https://i.imgur.com/KpwYXeN.jpg?1"
+        , opts: {
+            subkeyaki: ["mmog"]
+        }
+    },
+	    {
+        "name": "Fukumura Mizuki",
+        "img": "https://i.imgur.com/Gw9Iasu.jpg"
         , opts: {
             subkeyaki: ["mmog"]
         }
