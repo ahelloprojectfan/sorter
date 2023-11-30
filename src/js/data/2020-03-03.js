@@ -10,7 +10,7 @@ dataSet[dataSetVersion].characterData = [
  
     {
         "name": "Morning Musume '23",
-        "img": "https://i.imgur.com/17xbiEo.jpg"
+        "img": "https://i.imgur.com/KnmuisF.png"
         , opts: {
             subkeyaki: ["cgropus"]
         }
@@ -80,14 +80,21 @@ dataSet[dataSetVersion].characterData = [
 
     },
     {
-        "name": "Fukumura Mizuki Era (2015-present)",
-        "img": "https://i.imgur.com/PdYTHgg.jpg"
+        "name": "Mebuki Era (2014-2018)",
+        "img": "https://i.imgur.com/ezGHJEX.png"
         , opts: {
             subkeyaki: ["mmeras"]
         }
 
     },
+    {
+        "name": "Kagaya Era (2019-2023)",
+        "img": "https://i.imgur.com/lB0UgI1.png"
+        , opts: {
+            subkeyaki: ["mmeras"]
+        }
 
+    },
     {
         "name": "Ai no Tane (1997)",
         "img": "https://i.imgur.com/7yJ5uOK.jpg",
@@ -1278,6 +1285,20 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["anjuAside"]
         }
     },
+			{
+        "name": "RED LINE",
+        "img": "https://i.imgur.com/lEaFOhQ.png"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+			{
+        "name": "Life is Beautiful!",
+        "img": "https://i.imgur.com/28bgZe6.png"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
 		{
         "name": "The Best! ~Updated Morning Musume~",
         "img": "https://i.imgur.com/dv2O9jh.jpg"
@@ -1400,6 +1421,13 @@ dataSet[dataSetVersion].characterData = [
 	{
         "name": "16th ~That's J-POP~",
         "img": "https://i.imgur.com/69rbfCu.jpg"
+        , opts: {
+            subkeyaki: ["mmalbum"]
+        }
+    },
+		{
+        "name": "Morning Musume Best Selection ~The 25 Shuunen~",
+        "img": "https://i.imgur.com/CgErsEJ.png"
         , opts: {
             subkeyaki: ["mmalbum"]
         }
