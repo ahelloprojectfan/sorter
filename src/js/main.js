@@ -301,6 +301,9 @@ function start() {
     document.querySelectorAll('.sort.text').forEach(el => el.style.display = 'block');
     display();
   });
+
+
+	document.querySelector(".result-title").innerText +=  " " + (new Date().toISOString().slice(0, 10));
 }
 
 /** Displays the current state of the sorter. */

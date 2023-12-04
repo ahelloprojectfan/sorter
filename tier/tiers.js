@@ -226,7 +226,6 @@ window.addEventListener('load', () => {
 
 
 
-	document.querySelector(".result-title").innerText +=  " " + (new Date().toISOString().slice(0, 10));
 
 
 });
