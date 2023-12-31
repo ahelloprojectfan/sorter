@@ -322,14 +322,14 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "新沼希空",
-        "img": "https://i.imgur.com/RbcZu4H.png"
+        "img": "https://i.imgur.com/gOgeM4k.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
     {
         "name": "谷本安美",
-        "img": "https://i.imgur.com/flDqtiB.jpg"
+        "img": "https://i.imgur.com/ZivYGBG.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
@@ -350,28 +350,28 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "小野瑞歩",
-        "img": "https://i.imgur.com/X5ugMkQ.jpg"
+        "img": "https://i.imgur.com/5AnMR2I.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
     {
         "name": "小野田紗栞",
-        "img": "https://i.imgur.com/WYUfK7M.jpg"
+        "img": "https://i.imgur.com/Ui9nTI7.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
     {
         "name": "秋山眞緒",
-        "img": "https://i.imgur.com/tbiVEAO.jpg"
+        "img": "https://i.imgur.com/KA7YSgA.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
 	    {
         "name": "河西結心",
-        "img": "https://i.imgur.com/fY0oNA0.jpg"
+        "img": "https://i.imgur.com/RPpRwaD.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
@@ -379,7 +379,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "八木栞",
-        "img": "https://i.imgur.com/BjhT7xL.jpg"
+        "img": "https://i.imgur.com/gTi3eZ1.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
@@ -387,7 +387,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "福田真琳",
-        "img": "https://i.imgur.com/HL6uCo5.jpg"
+        "img": "https://i.imgur.com/vj3ZbQa.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
@@ -395,7 +395,7 @@ dataSet[dataSetVersion].characterData = [
     },
 	    {
         "name": "豫風瑠乃",
-        "img": "https://i.imgur.com/SPtziFn.jpg"
+        "img": "https://i.imgur.com/0pUkIL6.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
@@ -1321,7 +1321,7 @@ dataSet[dataSetVersion].options = [
         tooltip: 'Check this to restrict to certain group',
         checked: true,
         sub: [
-            { name: "モーニング娘。'23", key: 'mm' },
+            { name: "モーニング娘。'24", key: 'mm' },
             { name: 'アンジュルム', key: 'angerme' },
             { name: 'Juice=Juice', key: 'jj' },
             { name: 'つばきファクトリー', key: 'tf' },
