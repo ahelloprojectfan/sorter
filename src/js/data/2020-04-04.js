@@ -322,14 +322,14 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Niinuma Kisora",
-        "img": "https://i.imgur.com/RbcZu4H.png"
+        "img": "https://i.imgur.com/gOgeM4k.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
     {
         "name": "Tanimoto Ami",
-        "img": "https://i.imgur.com/flDqtiB.jpg"
+        "img": "https://i.imgur.com/ZivYGBG.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
@@ -350,28 +350,28 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Ono Mizuho",
-        "img": "https://i.imgur.com/X5ugMkQ.jpg"
+        "img": "https://i.imgur.com/5AnMR2I.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
     {
         "name": "Onoda Saori",
-        "img": "https://i.imgur.com/WYUfK7M.jpg"
+        "img": "https://i.imgur.com/Ui9nTI7.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
     {
         "name": "Akiyama Mao",
-        "img": "https://i.imgur.com/tbiVEAO.jpg"
+        "img": "https://i.imgur.com/KA7YSgA.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
 {
         "name": "Kasai Yuumi",
-        "img": "https://i.imgur.com/fY0oNA0.jpg"
+        "img": "https://i.imgur.com/RPpRwaD.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
@@ -379,7 +379,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Yagi Shiori",
-        "img": "https://i.imgur.com/BjhT7xL.jpg"
+        "img": "https://i.imgur.com/gTi3eZ1.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
@@ -387,7 +387,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Fukuda Marine",
-        "img": "https://i.imgur.com/HL6uCo5.jpg"
+        "img": "https://i.imgur.com/vj3ZbQa.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
@@ -395,7 +395,7 @@ dataSet[dataSetVersion].characterData = [
     },
 	    {
         "name": "Yofuu Runo",
-        "img": "https://i.imgur.com/SPtziFn.jpg"
+        "img": "https://i.imgur.com/0pUkIL6.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
@@ -1322,7 +1322,7 @@ dataSet[dataSetVersion].options = [
         tooltip: 'Check this to restrict to certain group',
         checked: true,
         sub: [
-            { name: "Morning Musume '23", key: 'mm' },
+            { name: "Morning Musume '24", key: 'mm' },
 			{ name: 'Angerme', key: 'angerme' },
             { name: 'Juice=Juice', key: 'jj' },
             { name: 'Tsubaki Factory', key: 'tf' },
