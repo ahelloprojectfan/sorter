@@ -400,8 +400,28 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["tf"]
         }
     },
-
-
+	    {
+        "name": "Ishii Mihane",
+        "img": "https://i.imgur.com/iAd0ULv.jpeg"
+        , opts: {
+            subkeyaki: ["tf"]
+        }
+    },
+	    {
+        "name": "Murata Yuu",
+        "img": "https://i.imgur.com/ytpgUfs.jpeg"
+        , opts: {
+            subkeyaki: ["tf"]
+        }
+    },
+		    {
+        "name": "Doi Fuka",
+        "img": "https://i.imgur.com/IdhdsbR.jpeg"
+        , opts: {
+            subkeyaki: ["tf"]
+        }
+    },
+	
     // BEYOOOOONDS
 
     {
@@ -569,70 +589,133 @@ dataSet[dataSetVersion].characterData = [
 
     {
         "name": "Matsubara Yulia",
-        "img": "https://i.imgur.com/ntnv22F.jpg"
+        "img": "https://i.imgur.com/Xfx288u.jpeg"
         , opts: {
             subkeyaki: ["kssu", "kss"]
         }
     },
     {
         "name": "Onoda Karin",
-        "img": "https://i.imgur.com/LBbq0zw.jpg"
+        "img": "https://i.imgur.com/gSXInpx.jpeg"
         , opts: {
             subkeyaki: ["kssu", "kss"]
         }
     },
     {
         "name": "Hashida Honoka",
-        "img": "https://i.imgur.com/WSZoYzM.jpg"
+        "img": "https://i.imgur.com/1Eawxx3.jpeg"
         , opts: {
             subkeyaki: ["kssu", "kss"]
         }
     },
     {
         "name": "Murakoshi Ayana",
-        "img": "https://i.imgur.com/OjnovYm.jpg"
+        "img": "https://i.imgur.com/nisIxJL.jpeg"
         , opts: {
             subkeyaki: ["kssu", "kss"]
         }
     },
     {
         "name": "Uemura Hasumi",
-        "img": "https://i.imgur.com/LR9froT.jpg"
+        "img": "https://i.imgur.com/sqQZ8BK.jpeg"
         , opts: {
             subkeyaki: ["kssu", "kss"]
         }
     },
      {
         "name": "Yoshida Hinoha",
-        "img": "https://i.imgur.com/39o8BNk.jpg"
+        "img": "https://i.imgur.com/ycZnTqb.jpeg"
         , opts: {
             subkeyaki: ["kssu", "kss"]
         }
     },
         {
         "name": "Kamimura Rena",
-        "img": "https://i.imgur.com/593D3wN.jpg"
+        "img": "https://i.imgur.com/ZvRdEFi.jpeg"
         , opts: {
             subkeyaki: ["kssu", "kss"]
         }
     },
             {
         "name": "Kawano Soara",
-        "img": "https://i.imgur.com/p9buRgy.jpg"
+        "img": "https://i.imgur.com/SjSPbfr.jpeg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 	        {
         "name": "Makino Toa",
-        "img": "https://i.imgur.com/06VmTOq.jpg"
+        "img": "https://i.imgur.com/y8Y5BW8.jpeg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 	        {
         "name": "Hayashi Niina",
-        "img": "https://i.imgur.com/EhP2o0X.jpg"
+        "img": "https://i.imgur.com/EUIf5az.jpeg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+		        {
+        "name": "Shimakawa Hana",
+        "img": "https://i.imgur.com/qHmKEzj.jpeg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+			        {
+        "name": "Asano Yurika",
+        "img": "https://i.imgur.com/ZI3wzgs.jpeg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+			        {
+        "name": "Miyakoshi Chihiro",
+        "img": "https://i.imgur.com/reC4C4H.jpeg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+			        {
+        "name": "Nishumura Itsuki",
+        "img": "https://i.imgur.com/l4BlCx2.jpeg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+			        {
+        "name": "Soma Yume",
+        "img": "https://i.imgur.com/AMsOXwq.jpeg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+			        {
+        "name": "Otsubo Mano",
+        "img": "https://i.imgur.com/1DwJsYi.jpeg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+			        {
+        "name": "Yoshida Hikari",
+        "img": "https://i.imgur.com/X2Qoovu.jpeg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+			        {
+        "name": "Sugihara Meisa",
+        "img": "https://i.imgur.com/pqnLy3s.jpeg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+			        {
+        "name": "Hattori Rua",
+        "img": "https://i.imgur.com/U87ZQvd.jpeg"
         , opts: {
             subkeyaki: ["kss"]
         }
