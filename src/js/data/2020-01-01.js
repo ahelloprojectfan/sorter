@@ -400,7 +400,27 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["tf"]
         }
     },
-
+	    {
+        "name": "石井泉羽",
+        "img": "https://i.imgur.com/iAd0ULv.jpeg"
+        , opts: {
+            subkeyaki: ["tf"]
+        }
+    },
+	    {
+        "name": "村田結生",
+        "img": "https://i.imgur.com/ytpgUfs.jpeg"
+        , opts: {
+            subkeyaki: ["tf"]
+        }
+    },
+		    {
+        "name": "土居楓奏",
+        "img": "https://i.imgur.com/IdhdsbR.jpeg"
+        , opts: {
+            subkeyaki: ["tf"]
+        }
+    },
 
     // BEYOOOOONDS
 
@@ -569,70 +589,133 @@ dataSet[dataSetVersion].characterData = [
    
     {
         "name": "松原ユリヤ",
-        "img": "https://i.imgur.com/ntnv22F.jpg"
+        "img": "https://i.imgur.com/Xfx288u.jpeg"
         , opts: {
             subkeyaki: ["kssu", "kss"]
         }
     },
     {
         "name": "小野田華凜",
-        "img": "https://i.imgur.com/LBbq0zw.jpg"
+        "img": "https://i.imgur.com/gSXInpx.jpeg"
         , opts: {
             subkeyaki: ["kssu", "kss"]
         }
     },
     {
         "name": "橋田歩果",
-        "img": "https://i.imgur.com/WSZoYzM.jpg"
+        "img": "https://i.imgur.com/1Eawxx3.jpeg"
         , opts: {
             subkeyaki: ["kssu", "kss"]
         }
     },
     {
         "name": "村越彩菜",
-        "img": "https://i.imgur.com/OjnovYm.jpg"
+        "img": "https://i.imgur.com/nisIxJL.jpeg"
         , opts: {
             subkeyaki: ["kssu", "kss"]
         }
     },
     {
         "name": "植村葉純",
-        "img": "https://i.imgur.com/LR9froT.jpg"
+        "img": "https://i.imgur.com/sqQZ8BK.jpeg"
         , opts: {
             subkeyaki: ["kssu", "kss"]
         }
     },
      {
         "name": "吉田姫杷",
-        "img": "https://i.imgur.com/39o8BNk.jpg"
+        "img": "https://i.imgur.com/ycZnTqb.jpeg"
         , opts: {
             subkeyaki: ["kssu", "kss"]
         }
     },
         {
         "name": "上村麗菜",
-        "img": "https://i.imgur.com/593D3wN.jpg"
+        "img": "https://i.imgur.com/ZvRdEFi.jpeg"
         , opts: {
             subkeyaki: ["kssu", "kss"]
         }
     },
             {
         "name": "河野空愛",
-        "img": "https://i.imgur.com/p9buRgy.jpg"
+        "img": "https://i.imgur.com/SjSPbfr.jpeg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 	        {
         "name": "牧野永愛",
-        "img": "https://i.imgur.com/06VmTOq.jpg"
+        "img": "https://i.imgur.com/y8Y5BW8.jpeg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 	        {
         "name": "林仁愛",
-        "img": "https://i.imgur.com/EhP2o0X.jpg"
+        "img": "https://i.imgur.com/EUIf5az.jpeg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+		        {
+        "name": "島川波菜",
+        "img": "https://i.imgur.com/qHmKEzj.jpeg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+			        {
+        "name": "浅野優莉花",
+        "img": "https://i.imgur.com/ZI3wzgs.jpeg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+			        {
+        "name": "宮越千尋",
+        "img": "https://i.imgur.com/reC4C4H.jpeg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+			        {
+        "name": "西村乙輝",
+        "img": "https://i.imgur.com/l4BlCx2.jpeg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+			        {
+        "name": "相馬優芽",
+        "img": "https://i.imgur.com/AMsOXwq.jpeg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+			        {
+        "name": "大坪茉乃",
+        "img": "https://i.imgur.com/1DwJsYi.jpeg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+			        {
+        "name": "吉田光里",
+        "img": "https://i.imgur.com/X2Qoovu.jpeg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+			        {
+        "name": "杉原明紗",
+        "img": "https://i.imgur.com/pqnLy3s.jpeg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+			        {
+        "name": "服部琉愛",
+        "img": "https://i.imgur.com/U87ZQvd.jpeg"
         , opts: {
             subkeyaki: ["kss"]
         }
