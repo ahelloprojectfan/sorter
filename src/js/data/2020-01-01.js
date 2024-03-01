@@ -228,7 +228,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "稲場愛香",
-        "img": "https://i.imgur.com/W6FVWO2.jpg"
+        "img": "https://i.imgur.com/CrEHVF9.jpeg"
         , opts: {
             subkeyaki: ["ex-jj", "cg"]
         }
@@ -308,7 +308,7 @@ dataSet[dataSetVersion].characterData = [
 
     {
         "name": "山岸理子",
-        "img": "https://i.imgur.com/nCSuOOs.jpg"
+        "img": "https://i.imgur.com/jz43tMI.jpeg"
         , opts: {
             subkeyaki: ["extf"]
         }
@@ -428,82 +428,82 @@ dataSet[dataSetVersion].characterData = [
         "name": "一岡伶奈",
         "img": "https://i.imgur.com/dUPlJKr.jpg"
         , opts: {
-            subkeyaki: ["by"]
+            subkeyaki: ["exby"]
         }
     },
     {
         "name": "島倉りか",
-        "img": "https://i.imgur.com/gYzYOFF.jpg"
+        "img": "https://i.imgur.com/ryJCbK8.jpeg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "西田汐里",
-        "img": "https://i.imgur.com/nf3zhsZ.jpg"
+        "img": "https://i.imgur.com/bzKaXMh.jpeg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "江口紗耶",
-        "img": "https://i.imgur.com/anrPYzZ.jpg"
+        "img": "https://i.imgur.com/PU5xb6N.jpeg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "高瀬くるみ",
-        "img": "https://i.imgur.com/d1jB1CN.jpg"
+        "img": "https://i.imgur.com/JempyI4.jpeg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "前田こころ",
-        "img": "https://i.imgur.com/U34skHH.jpg"
+        "img": "https://i.imgur.com/iOqmBCk.jpeg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "山﨑夢羽",
-        "img": "https://i.imgur.com/xbFINcf.jpg"
+        "img": "https://i.imgur.com/S2pUt3w.jpeg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "岡村美波",
-        "img": "https://i.imgur.com/eFjedsU.jpg"
+        "img": "https://i.imgur.com/hAhSjrO.jpeg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "清野桃々姫",
-        "img": "https://i.imgur.com/yZ6IGTf.jpg"
+        "img": "https://i.imgur.com/Qzi0o6s.jpeg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "平井美葉",
-        "img": "https://i.imgur.com/RCQwLWA.jpg"
+        "img": "https://i.imgur.com/1Fj8j9l.jpeg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "小林萌花",
-        "img": "https://i.imgur.com/CDunM8b.jpg"
+        "img": "https://i.imgur.com/KZdQ6xk.jpeg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "里吉うたの",
-        "img": "https://i.imgur.com/mfSuoGC.jpg"
+        "img": "https://i.imgur.com/4fxVTu6.jpeg"
         , opts: {
             subkeyaki: ["by"]
         }
@@ -969,7 +969,7 @@ dataSet[dataSetVersion].characterData = [
 
     {
         "name": "石川梨華",
-        "img": "https://i.imgur.com/QVEdQvK.jpg"
+        "img": "https://i.imgur.com/2KPQTfO.jpeg"
         , opts: {
             subkeyaki: ["vuden", "mmog"]
         }
@@ -1118,7 +1118,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "道重さゆみ",
-        "img": "https://i.imgur.com/UUKxxOL.jpg"
+        "img": "https://i.imgur.com/JmUJNlr.jpeg"
         , opts: {
             subkeyaki: ["mmog"]
         }
@@ -1416,6 +1416,7 @@ dataSet[dataSetVersion].options = [
             { name: 'こぶしファクトリー', key: 'kf' },
             { name: 'つばきファクトリー OG', key: 'extf' },
             { name: 'カントリー・ガールズ', key: 'cg' },
+	    { name: 'BEYOOOOONDS OG', key: 'exby' },
             { name: '℃-ute', key: 'cute' },
             { name: 'Berryz工房', key: 'berryz' },
             { name: 'Buono!', key: 'buono' },
