@@ -228,7 +228,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Inaba Manaka",
-        "img": "https://i.imgur.com/W6FVWO2.jpg"
+        "img": "https://i.imgur.com/CrEHVF9.jpeg"
         , opts: {
             subkeyaki: ["ex-jj", "cg"]
         }
@@ -308,7 +308,7 @@ dataSet[dataSetVersion].characterData = [
 
     {
         "name": "Yamagishi Riko",
-        "img": "https://i.imgur.com/nCSuOOs.jpg"
+        "img": "https://i.imgur.com/jz43tMI.jpeg"
         , opts: {
             subkeyaki: ["extf"]
         }
@@ -428,82 +428,82 @@ dataSet[dataSetVersion].characterData = [
         "name": "Ichioka Reina",
         "img": "https://i.imgur.com/dUPlJKr.jpg"
         , opts: {
-            subkeyaki: ["by"]
+            subkeyaki: ["exby"]
         }
     },
     {
         "name": "Shimakura Rika",
-        "img": "https://i.imgur.com/gYzYOFF.jpg"
+        "img": "https://i.imgur.com/ryJCbK8.jpeg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "Nishida Shiori",
-        "img": "https://i.imgur.com/nf3zhsZ.jpg"
+        "img": "https://i.imgur.com/bzKaXMh.jpeg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "Eguchi Saya",
-        "img": "https://i.imgur.com/anrPYzZ.jpg"
+        "img": "https://i.imgur.com/PU5xb6N.jpeg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "Takase Kurumi",
-        "img": "https://i.imgur.com/d1jB1CN.jpg"
+        "img": "https://i.imgur.com/JempyI4.jpeg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "Maeda Kokoro",
-        "img": "https://i.imgur.com/U34skHH.jpg"
+        "img": "https://i.imgur.com/iOqmBCk.jpeg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "Yamazaki Yuhane",
-        "img": "https://i.imgur.com/xbFINcf.jpg"
+        "img": "https://i.imgur.com/S2pUt3w.jpeg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "Okamura Minami",
-        "img": "https://i.imgur.com/eFjedsU.jpg"
+        "img": "https://i.imgur.com/hAhSjrO.jpeg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "Kiyono Momohime",
-        "img": "https://i.imgur.com/yZ6IGTf.jpg"
+        "img": "https://i.imgur.com/Qzi0o6s.jpeg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "Hirai Miyo",
-        "img": "https://i.imgur.com/RCQwLWA.jpg"
+        "img": "https://i.imgur.com/1Fj8j9l.jpeg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "Kobayashi Honoka",
-        "img": "https://i.imgur.com/CDunM8b.jpg"
+        "img": "https://i.imgur.com/KZdQ6xk.jpeg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "Satoyoshi Utano",
-        "img": "https://i.imgur.com/mfSuoGC.jpg"
+        "img": "https://i.imgur.com/4fxVTu6.jpeg"
         , opts: {
             subkeyaki: ["by"]
         }
@@ -969,7 +969,7 @@ dataSet[dataSetVersion].characterData = [
 
     {
         "name": "Ishikawa Rika",
-        "img": "https://i.imgur.com/QVEdQvK.jpg"
+        "img": "https://i.imgur.com/2KPQTfO.jpeg"
         , opts: {
             subkeyaki: ["vuden", "mmog"]
         }
@@ -1118,7 +1118,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Michishige Sayumi",
-        "img": "https://i.imgur.com/UUKxxOL.jpg"
+        "img": "https://i.imgur.com/JmUJNlr.jpeg"
         , opts: {
             subkeyaki: ["mmog"]
         }
@@ -1417,6 +1417,7 @@ dataSet[dataSetVersion].options = [
             { name: 'Ex-Kobushi Factory', key: 'kf' },
             { name: 'Ex-Tsubaki Factory', key: 'extf' },
             { name: 'Ex-Country Girls', key: 'cg' },
+	    { name: 'Ex-BEYOOOOONDS', key: 'exby' },
             { name: 'Ex-℃-ute', key: 'cute' },
             { name: 'Ex-Berryz Koubou', key: 'berryz' },
             { name: 'Ex-Buono!', key: 'buono' },
