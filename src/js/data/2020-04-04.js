@@ -200,7 +200,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Miyamoto Karin",
-        "img": "https://i.imgur.com/Gzvoyy8.jpg"
+        "img": "https://i.imgur.com/C4oCBnZ.jpeg"
         , opts: {
             subkeyaki: ["ex-jj"]
         }
@@ -221,7 +221,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Uemura Akari",
-        "img": "https://i.imgur.com/qJ7nc4o.jpg"
+        "img": "https://i.imgur.com/DBHK4QR.jpeg"
         , opts: {
             subkeyaki: ["jj"]
         }
@@ -235,63 +235,63 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Inoue Rei",
-        "img": "https://i.imgur.com/neidOb8.jpg"
+        "img": "https://i.imgur.com/vwnMM5A.jpeg"
         , opts: {
             subkeyaki: ["jj", "kf"]
         }
     },
     {
         "name": "Dambara Ruru",
-        "img": "https://i.imgur.com/5WZua6s.jpg"
+        "img": "https://i.imgur.com/xcKzBRM.jpeg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "Kudo Yume",
-        "img": "https://i.imgur.com/x5oup7Y.jpg"
+        "img": "https://i.imgur.com/fgxtG4W.jpeg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "Matsunaga Riai",
-        "img": "https://i.imgur.com/W7UuxOl.jpg"
+        "img": "https://i.imgur.com/R6JSMPC.jpeg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },	    
 	    {
         "name": "Arisawa Ichika",
-        "img": "https://i.imgur.com/PqdQavX.jpg"
+        "img": "https://i.imgur.com/hV5fZvp.jpeg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
 	{
         "name": "Irie Risa",
-        "img": "https://i.imgur.com/Gy7KGw9.jpg"
+        "img": "https://i.imgur.com/yL8Gjct.jpeg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
 	{
         "name": "Ebata Kisaki",
-        "img": "https://i.imgur.com/tOvi83m.jpg"
+        "img": "https://i.imgur.com/EmXqXVv.jpeg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
 	{
         "name": "Ishiyama Sakura",
-        "img": "https://i.imgur.com/hRvfPjw.jpg"
+        "img": "https://i.imgur.com/qx6fJAN.jpeg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
         {
         "name": "Endo Akari",
-        "img": "https://i.imgur.com/4TO8lzS.jpg"
+        "img": "https://i.imgur.com/UUaYm7l.jpeg"
         , opts: {
             subkeyaki: ["jj"]
     }
@@ -787,7 +787,7 @@ dataSet[dataSetVersion].characterData = [
     ,
     {
         "name": "Ozeki Mai",
-        "img": "https://i.imgur.com/tEpGALa.jpg"
+        "img": "https://i.imgur.com/AXAQLX5.jpeg"
         , opts: {
             subkeyaki: ["cg"]
         }
