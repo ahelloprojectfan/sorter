@@ -200,7 +200,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "宮本佳林",
-        "img": "https://i.imgur.com/Gzvoyy8.jpg"
+        "img": "https://i.imgur.com/C4oCBnZ.jpeg"
         , opts: {
             subkeyaki: ["ex-jj"]
         }
@@ -221,7 +221,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "植村あかり",
-        "img": "https://i.imgur.com/qJ7nc4o.jpg"
+        "img": "https://i.imgur.com/DBHK4QR.jpeg"
         , opts: {
             subkeyaki: ["jj"]
         }
@@ -235,63 +235,63 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "井上玲音",
-        "img": "https://i.imgur.com/neidOb8.jpg"
+        "img": "https://i.imgur.com/vwnMM5A.jpeg"
         , opts: {
             subkeyaki: ["jj", "kf"]
         }
     },
     {
         "name": "段原瑠々",
-        "img": "https://i.imgur.com/5WZua6s.jpg"
+        "img": "https://i.imgur.com/xcKzBRM.jpeg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "工藤由愛",
-        "img": "https://i.imgur.com/x5oup7Y.jpg"
+        "img": "https://i.imgur.com/fgxtG4W.jpeg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "松永里愛",
-        "img": "https://i.imgur.com/W7UuxOl.jpg"
+        "img": "https://i.imgur.com/R6JSMPC.jpeg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
 	    {
         "name": "有澤一華",
-        "img": "https://i.imgur.com/PqdQavX.jpg"
+        "img": "https://i.imgur.com/hV5fZvp.jpeg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "入江里咲",
-        "img": "https://i.imgur.com/Gy7KGw9.jpg"
+        "img": "https://i.imgur.com/yL8Gjct.jpeg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "江端妃咲",
-        "img": "https://i.imgur.com/tOvi83m.jpg"
+        "img": "https://i.imgur.com/EmXqXVv.jpeg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "石山咲良",
-        "img": "https://i.imgur.com/hRvfPjw.jpg"
+        "img": "https://i.imgur.com/qx6fJAN.jpeg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
 	    {
         "name": "遠藤彩加里",
-        "img": "https://i.imgur.com/4TO8lzS.jpg"
+        "img": "https://i.imgur.com/UUaYm7l.jpeg"
         , opts: {
             subkeyaki: ["jj"]
     }
@@ -787,7 +787,7 @@ dataSet[dataSetVersion].characterData = [
     ,
     {
         "name": "小関舞",
-        "img": "https://i.imgur.com/tEpGALa.jpg"
+        "img": "https://i.imgur.com/AXAQLX5.jpeg"
         , opts: {
             subkeyaki: ["cg"]
         }
