@@ -103,7 +103,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "竹内朱莉",
         "img": "https://i.imgur.com/lo0Ybj3.jpg"
         , opts: {
-            subkeyaki: ["SnAog"]
+            subkeyaki: ["SnAog", "MLine"]
         }
     },
     {
@@ -202,14 +202,14 @@ dataSet[dataSetVersion].characterData = [
         "name": "宮本佳林",
         "img": "https://i.imgur.com/C4oCBnZ.jpeg"
         , opts: {
-            subkeyaki: ["ex-jj"]
+            subkeyaki: ["ex-jj", "MLine"]
         }
     },
     {
         "name": "宮崎由加",
         "img": "https://i.imgur.com/hLskgMh.jpg"
         , opts: {
-            subkeyaki: ["ex-jj"]
+            subkeyaki: ["ex-jj", "MLine"]
         }
     },
     {
@@ -230,7 +230,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "稲場愛香",
         "img": "https://i.imgur.com/CrEHVF9.jpeg"
         , opts: {
-            subkeyaki: ["ex-jj", "cg"]
+            subkeyaki: ["ex-jj", "cg", "MLine"]
         }
     },
     {
@@ -310,14 +310,14 @@ dataSet[dataSetVersion].characterData = [
         "name": "山岸理子",
         "img": "https://i.imgur.com/jz43tMI.jpeg"
         , opts: {
-            subkeyaki: ["extf"]
+            subkeyaki: ["extf", "MLine"]
         }
     },
     {
         "name": "小片リサ",
         "img": "https://i.imgur.com/rBIV3S9.jpg"
         , opts: {
-            subkeyaki: ["extf"]
+            subkeyaki: ["extf", "MLine"]
         }
     },
     {
@@ -345,7 +345,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "浅倉樹々",
         "img": "https://i.imgur.com/npZo8hA.png"
         , opts: {
-            subkeyaki: ["extf"]
+            subkeyaki: ["extf", "MLine"]
         }
     },
     {
@@ -789,7 +789,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "小関舞",
         "img": "https://i.imgur.com/AXAQLX5.jpeg"
         , opts: {
-            subkeyaki: ["cg"]
+            subkeyaki: ["cg", "MLine"]
         }
     },
     {
@@ -819,21 +819,21 @@ dataSet[dataSetVersion].characterData = [
         "name": "矢島舞美",
         "img": "https://i.imgur.com/E99x9ke.jpg"
         , opts: {
-            subkeyaki: ["cute"]
+            subkeyaki: ["cute", "MLine"]
         }
     },
     {
         "name": "中島早貴",
         "img": "https://i.imgur.com/VnTd3h8.jpg"
         , opts: {
-            subkeyaki: ["cute"]
+            subkeyaki: ["cute", "MLine"]
         }
     },
     {
         "name": "鈴木愛理",
         "img": "https://i.imgur.com/BNg0j1n.jpg"
         , opts: {
-            subkeyaki: ["cute", "buono"]
+            subkeyaki: ["cute", "buono", "MLine"]
         }
     },
     {
@@ -895,7 +895,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "須藤茉麻",
         "img": "https://i.imgur.com/PpAa1Fz.jpg"
         , opts: {
-            subkeyaki: ["berryz"]
+            subkeyaki: ["berryz", "MLine"]
         }
     }
     ,
@@ -903,7 +903,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "夏焼雅",
         "img": "https://i.imgur.com/pIK7BtP.jpg"
         , opts: {
-            subkeyaki: ["berryz", "buono"]
+            subkeyaki: ["berryz", "buono", "MLine"]
         }
     }
     ,
@@ -911,7 +911,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "熊井友理奈",
         "img": "https://i.imgur.com/ueoiCpm.jpg"
         , opts: {
-            subkeyaki: ["berryz"]
+            subkeyaki: ["berryz", "MLine"]
         }
     }
     ,
@@ -971,7 +971,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "石川梨華",
         "img": "https://i.imgur.com/2KPQTfO.jpeg"
         , opts: {
-            subkeyaki: ["vuden", "mmog"]
+            subkeyaki: ["vuden", "mmog", "MLine"]
         }
     },
     {
@@ -994,7 +994,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "中澤裕子",
         "img": "https://i.imgur.com/oYmEKJX.jpg"
         , opts: {
-            subkeyaki: ["mmog"]
+            subkeyaki: ["mmog", "MLine"]
         }
     },
     {
@@ -1008,7 +1008,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "飯田圭織",
         "img": "https://i.imgur.com/991qyUg.jpg"
         , opts: {
-            subkeyaki: ["mmog"]
+            subkeyaki: ["mmog", "MLine"]
         }
     },
     {
@@ -1029,14 +1029,14 @@ dataSet[dataSetVersion].characterData = [
         "name": "保田圭",
         "img": "https://i.imgur.com/x8UU2HG.jpg"
         , opts: {
-            subkeyaki: ["mmog"]
+            subkeyaki: ["mmog", "MLine"]
         }
     },
     {
         "name": "矢口真里",
         "img": "https://i.imgur.com/Kd3xZm8.jpg"
         , opts: {
-            subkeyaki: ["mmog"]
+            subkeyaki: ["mmog", "MLine"]
         }
     },
     {
@@ -1064,7 +1064,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "辻希美",
         "img": "https://i.imgur.com/daH84IE.jpg"
         , opts: {
-            subkeyaki: ["mmog"]
+            subkeyaki: ["mmog", "MLine"]
         }
     },
     {
@@ -1078,7 +1078,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "高橋愛",
         "img": "https://i.imgur.com/MkqXmwW.jpg"
         , opts: {
-            subkeyaki: ["mmog"]
+            subkeyaki: ["mmog", "MLine"]
         }
     },
     {
@@ -1120,14 +1120,14 @@ dataSet[dataSetVersion].characterData = [
         "name": "道重さゆみ",
         "img": "https://i.imgur.com/JmUJNlr.jpeg"
         , opts: {
-            subkeyaki: ["mmog"]
+            subkeyaki: ["mmog", "MLine"]
         }
     },
     {
         "name": "田中れいな",
         "img": "https://i.imgur.com/UdWp6Gt.jpg"
         , opts: {
-            subkeyaki: ["mmog", "lovendor"]
+            subkeyaki: ["mmog", "lovendor", "MLine"]
         }
     },
     {
@@ -1183,21 +1183,21 @@ dataSet[dataSetVersion].characterData = [
         "name": "飯窪春菜",
         "img": "https://i.imgur.com/3X8Ncz5.jpg"
         , opts: {
-            subkeyaki: ["mmog"]
+            subkeyaki: ["mmog", "MLine"]
         }
     },
 	{
         "name": "佐藤優樹",
         "img": "https://i.imgur.com/PXAxzgy.jpg"
         , opts: {
-            subkeyaki: ["mmog"]
+            subkeyaki: ["mmog", "MLine"]
         }
     },
     {
         "name": "工藤遥",
         "img": "https://i.imgur.com/BNkPxpt.jpg"
         , opts: {
-            subkeyaki: ["mmog"]
+            subkeyaki: ["mmog", "MLine"]
         }
     },
     {
@@ -1264,7 +1264,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "勝田里奈",
         "img": "https://i.imgur.com/Wk0GFuW.jpg"
         , opts: {
-            subkeyaki: ["SnAog"]
+            subkeyaki: ["SnAog", "MLine"]
         }
     },
     {
@@ -1412,6 +1412,7 @@ dataSet[dataSetVersion].options = [
             { name: 'OCHA NORMA', key: 'ocha' },
 	    { name: "ハロプロ研修生ユニット '23", key: 'kssu' },
             { name: 'ハロプロ研修生', key: 'kss' },
+	    { name: 'M-Line Club', key: 'MLine' },
             { name: 'Juice=Juice OG', key: 'ex-jj' },
             { name: 'こぶしファクトリー', key: 'kf' },
             { name: 'つばきファクトリー OG', key: 'extf' },
