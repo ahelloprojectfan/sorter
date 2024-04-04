@@ -322,14 +322,14 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "新沼希空",
-        "img": "https://i.imgur.com/gOgeM4k.jpg"
+        "img": "https://i.imgur.com/bLJtXbi.jpeg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
     {
         "name": "谷本安美",
-        "img": "https://i.imgur.com/ZivYGBG.jpg"
+        "img": "https://i.imgur.com/JVqbAE4.jpeg"
         , opts: {
             subkeyaki: ["tf"]
         }
@@ -350,28 +350,28 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "小野瑞歩",
-        "img": "https://i.imgur.com/5AnMR2I.jpg"
+        "img": "https://i.imgur.com/Nasv0Dg.jpeg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
     {
         "name": "小野田紗栞",
-        "img": "https://i.imgur.com/Ui9nTI7.jpg"
+        "img": "https://i.imgur.com/Y5iRX0W.jpeg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
     {
         "name": "秋山眞緒",
-        "img": "https://i.imgur.com/KA7YSgA.jpg"
+        "img": "https://i.imgur.com/TBsXR70.jpeg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
 	    {
         "name": "河西結心",
-        "img": "https://i.imgur.com/RPpRwaD.jpg"
+        "img": "https://i.imgur.com/pMRpmnp.jpeg"
         , opts: {
             subkeyaki: ["tf"]
         }
@@ -379,7 +379,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "八木栞",
-        "img": "https://i.imgur.com/gTi3eZ1.jpg"
+        "img": "https://i.imgur.com/LD29f9d.jpeg"
         , opts: {
             subkeyaki: ["tf"]
         }
@@ -387,7 +387,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "福田真琳",
-        "img": "https://i.imgur.com/vj3ZbQa.jpg"
+        "img": "https://i.imgur.com/RtXE46t.jpeg"
         , opts: {
             subkeyaki: ["tf"]
         }
@@ -395,28 +395,28 @@ dataSet[dataSetVersion].characterData = [
     },
 	    {
         "name": "豫風瑠乃",
-        "img": "https://i.imgur.com/0pUkIL6.jpg"
+        "img": "https://i.imgur.com/XxhFeP3.jpeg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
 	    {
         "name": "石井泉羽",
-        "img": "https://i.imgur.com/iAd0ULv.jpeg"
+        "img": "https://i.imgur.com/yjJ1I56.jpeg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
 	    {
         "name": "村田結生",
-        "img": "https://i.imgur.com/ytpgUfs.jpeg"
+        "img": "https://i.imgur.com/i5A6uOd.jpeg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
 		    {
         "name": "土居楓奏",
-        "img": "https://i.imgur.com/IdhdsbR.jpeg"
+        "img": "https://i.imgur.com/in9NCVc.jpeg"
         , opts: {
             subkeyaki: ["tf"]
         }
