@@ -322,14 +322,14 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Niinuma Kisora",
-        "img": "https://i.imgur.com/gOgeM4k.jpg"
+        "img": "https://i.imgur.com/bLJtXbi.jpeg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
     {
         "name": "Tanimoto Ami",
-        "img": "https://i.imgur.com/ZivYGBG.jpg"
+        "img": "https://i.imgur.com/JVqbAE4.jpeg"
         , opts: {
             subkeyaki: ["tf"]
         }
@@ -350,28 +350,28 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Ono Mizuho",
-        "img": "https://i.imgur.com/5AnMR2I.jpg"
+        "img": "https://i.imgur.com/Nasv0Dg.jpeg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
     {
         "name": "Onoda Saori",
-        "img": "https://i.imgur.com/Ui9nTI7.jpg"
+        "img": "https://i.imgur.com/Y5iRX0W.jpeg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
     {
         "name": "Akiyama Mao",
-        "img": "https://i.imgur.com/KA7YSgA.jpg"
+        "img": "https://i.imgur.com/TBsXR70.jpeg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
 {
         "name": "Kasai Yuumi",
-        "img": "https://i.imgur.com/RPpRwaD.jpg"
+        "img": "https://i.imgur.com/pMRpmnp.jpeg"
         , opts: {
             subkeyaki: ["tf"]
         }
@@ -379,7 +379,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Yagi Shiori",
-        "img": "https://i.imgur.com/gTi3eZ1.jpg"
+        "img": "https://i.imgur.com/LD29f9d.jpeg"
         , opts: {
             subkeyaki: ["tf"]
         }
@@ -387,7 +387,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Fukuda Marine",
-        "img": "https://i.imgur.com/vj3ZbQa.jpg"
+        "img": "https://i.imgur.com/RtXE46t.jpeg"
         , opts: {
             subkeyaki: ["tf"]
         }
@@ -395,28 +395,28 @@ dataSet[dataSetVersion].characterData = [
     },
 	    {
         "name": "Yofuu Runo",
-        "img": "https://i.imgur.com/0pUkIL6.jpg"
+        "img": "https://i.imgur.com/XxhFeP3.jpeg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
 	    {
         "name": "Ishii Mihane",
-        "img": "https://i.imgur.com/iAd0ULv.jpeg"
+        "img": "https://i.imgur.com/yjJ1I56.jpeg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
 	    {
         "name": "Murata Yuu",
-        "img": "https://i.imgur.com/ytpgUfs.jpeg"
+        "img": "https://i.imgur.com/i5A6uOd.jpeg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
 		    {
         "name": "Doi Fuka",
-        "img": "https://i.imgur.com/IdhdsbR.jpeg"
+        "img": "https://i.imgur.com/in9NCVc.jpeg"
         , opts: {
             subkeyaki: ["tf"]
         }
