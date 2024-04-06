@@ -108,77 +108,77 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Sasaki Rikako",
-        "img": "https://i.imgur.com/jxe97Cy.jpg"
+        "img": "https://i.imgur.com/xVnWdhG.jpeg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "Kamikokuryo Moe",
-        "img": "https://i.imgur.com/qYVbhFr.jpg"
+        "img": "https://i.imgur.com/1IKH9Ev.jpeg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "Kawamura Ayano",
-        "img": "https://i.imgur.com/WXtgOCC.jpg"
+        "img": "https://i.imgur.com/K1woWKq.jpeg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "Ise Layla",
-        "img": "https://i.imgur.com/ecD1Pn3.jpg"
+        "img": "https://i.imgur.com/198yrEw.jpeg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "Hashisako Rin",
-        "img": "https://i.imgur.com/0aakCJ8.jpg"
+        "img": "https://i.imgur.com/3Ln73KS.jpeg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "Tamenaga Shion",
-        "img": "https://i.imgur.com/Yh8hpB2.jpg"
+        "img": "https://i.imgur.com/55NsIi4.jpeg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "Kawana Rin",
-        "img": "https://i.imgur.com/u4wnKVC.jpg"
+        "img": "https://i.imgur.com/jm00SbH.jpeg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "Matsumoto Wakana",
-        "img": "https://i.imgur.com/ytN8jk3.jpg"
+        "img": "https://i.imgur.com/wosDrI6.jpeg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
 	{
         "name": "Hirayama Yuki",
-        "img": "https://i.imgur.com/2O2LKHT.jpg"
+        "img": "https://i.imgur.com/eXFrzo5.jpeg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
 	    {
         "name": "Goto Hana",
-        "img": "https://i.imgur.com/b6Rr9t9.jpg"
+        "img": "https://i.imgur.com/xwHKPRM.jpeg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
       {
         "name": "Shimoitani Yukiho",
-        "img": "https://i.imgur.com/WLWF3f1.jpg"
+        "img": "https://i.imgur.com/wBUWoCE.jpeg"
         , opts: {
             subkeyaki: ["angerme"]
         }
