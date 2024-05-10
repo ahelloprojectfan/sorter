@@ -1739,9 +1739,360 @@ dataSet[dataSetVersion].characterData = [
         , opts: {
             subkeyaki: ["JJAside"]
         }
+    },
+	    },
+				{
+        "name": "Massara Blue Jeans (2006)",
+        "img": "https://i.imgur.com/8XxZKVG.jpeg"
+        , opts: {
+            subkeyaki: ["CuteASide"]
+        }
+    },
+				{
+        "name": "Soku Dakishimete (2006)",
+        "img": "https://i.imgur.com/ndunhl1.jpeg"
+        , opts: {
+            subkeyaki: ["CuteASide"]
+        }
+    },
+				{
+        "name": "Ooki na Ai de Motenashite (2006)",
+        "img": "https://i.imgur.com/yIpksTM.jpeg"
+        , opts: {
+            subkeyaki: ["CuteASide"]
+        }
+    },
+				{
+        "name": "Wakkyanai (Z) (2006)",
+        "img": "https://i.imgur.com/aGWXjLq.jpeg"
+        , opts: {
+            subkeyaki: ["CuteASide"]
+        }
+    },
+				{
+        "name": "Koero! Rakuten Eagles (2008)",
+        "img": "https://i.imgur.com/gqGFg5U.jpeg"
+        , opts: {
+            subkeyaki: ["CuteASide"]
+        }
+    },
+				{
+        "name": "Sakura Chirari (2007)",
+        "img": "https://i.imgur.com/Sh1o1Zr.jpeg"
+        , opts: {
+            subkeyaki: ["CuteASide"]
+        }
+    },
+				{
+        "name": "Meguru Koi no Kisetsu (2007)",
+        "img": "https://i.imgur.com/ITpirVJ.jpeg"
+        , opts: {
+            subkeyaki: ["CuteASide"]
+        }
+    },
+				{
+        "name": "Tokaikko Junjou (2007)",
+        "img": "https://i.imgur.com/6tiuBjg.jpeg"
+        , opts: {
+            subkeyaki: ["CuteASide"]
+        }
+    },
+				{
+        "name": "LALALA Shiawase no Uta (2008)",
+        "img": "https://i.imgur.com/OU7EFu4.jpeg"
+        , opts: {
+            subkeyaki: ["CuteASide"]
+        }
+    },
+				{
+        "name": "Namida no Iro (2008)",
+        "img": "https://i.imgur.com/I2RRoTd.jpeg"
+        , opts: {
+            subkeyaki: ["CuteASide"]
+        }
+    },
+				{
+        "name": "Edo no Temari Uta II (2008)",
+        "img": "https://i.imgur.com/QslwiGy.jpeg"
+        , opts: {
+            subkeyaki: ["CuteASide"]
+        }
+    },
+				{
+        "name": "FOREVER LOVE (2008)",
+        "img": "https://i.imgur.com/hMqx9QX.jpeg"
+        , opts: {
+            subkeyaki: ["CuteASide"]
+        }
+    },
+				{
+        "name": "Bye Bye Bye! (2009)",
+        "img": "https://i.imgur.com/hCwDl7M.jpeg"
+        , opts: {
+            subkeyaki: ["CuteASide"]
+        }
+    },
+				{
+        "name": "Shochuu Omimai Moushiagemasu (2009)",
+        "img": "https://i.imgur.com/DJ2q5GH.jpeg"
+        , opts: {
+            subkeyaki: ["CuteASide"]
+        }
+    },
+				{
+        "name": "EVERYDAY Zekkouchou!! (2009)",
+        "img": "https://i.imgur.com/J3LX6DI.jpeg"
+        , opts: {
+            subkeyaki: ["CuteASide"]
+        }
+    },
+				{
+        "name": "SHOCK! (2010)",
+        "img": "https://i.imgur.com/UKrznzy.jpeg"
+        , opts: {
+            subkeyaki: ["CuteASide"]
+        }
+    },
+				{
+        "name": "Campus Life ~Umarete Kite Yokatta~ (2010)",
+        "img": "https://i.imgur.com/HkJVTV7.jpeg"
+        , opts: {
+            subkeyaki: ["CuteASide"]
+        }
+    },
+				{
+        "name": "Dance de Bakoon! (2010)",
+        "img": "https://i.imgur.com/bS9Y2ZU.jpeg"
+        , opts: {
+            subkeyaki: ["CuteASide"]
+        }
+    },
+				{
+        "name": "Aitai Lonely Christmas (2010)",
+        "img": "https://i.imgur.com/jZ0XSox.jpeg"
+        , opts: {
+            subkeyaki: ["CuteASide"]
+        }
+    },
+				{
+        "name": "Kiss me Aishiteru (2011)",
+        "img": "https://i.imgur.com/XWWHDPL.jpeg"
+        , opts: {
+            subkeyaki: ["CuteASide"]
+        }
+    },
+				{
+        "name": "Momoiro Sparkling (2011)",
+        "img": "https://i.imgur.com/quKlSZX.jpeg"
+        , opts: {
+            subkeyaki: ["CuteASide"]
+        }
+    },
+				{
+        "name": "Sekaiichi HAPPY na Onna no Ko (2011)",
+        "img": "https://i.imgur.com/GonBsxt.jpeg"
+        , opts: {
+            subkeyaki: ["CuteASide"]
+        }
+    },
+				{
+        "name": "Kimi wa Jitensha Watashi wa Densha de Kitaku (2012)",
+        "img": "https://i.imgur.com/IQm9Fbi.jpeg"
+        , opts: {
+            subkeyaki: ["CuteASide"]
+        }
+    },
+				{
+        "name": "Aitai Aitai Aitai na (2012)",
+        "img": "https://i.imgur.com/vn7iwY8.jpeg"
+        , opts: {
+            subkeyaki: ["CuteASide"]
+        }
+    },
+				{
+        "name": "Kono Machi (2013)",
+        "img": "https://i.imgur.com/QyvaW9g.jpeg"
+        , opts: {
+            subkeyaki: ["CuteASide"]
+        }
+    },
+				{
+        "name": "Crazy Kanzen na Otona (2013)",
+        "img": "https://i.imgur.com/WmnIbp6.jpeg"
+        , opts: {
+            subkeyaki: ["CuteASide"]
+        }
+    },
+				{
+        "name": "Kanashiki Amefuri (2013)",
+        "img": "https://i.imgur.com/vYuCuAC.jpeg"
+        , opts: {
+            subkeyaki: ["CuteASide"]
+        }
+    },
+				{
+        "name": "Adam to Eve no Dilemma (2013)",
+        "img": "https://i.imgur.com/5BZF2Ys.jpeg"
+        , opts: {
+            subkeyaki: ["CuteASide"]
+        }
+    },
+				{
+        "name": "Tokai no Hitorigurashi (2013)",
+        "img": "https://i.imgur.com/YcQ4Epk.jpeg"
+        , opts: {
+            subkeyaki: ["CuteASide"]
+        }
+    },
+				{
+        "name": "Aitte Motto Zanshin (2013)",
+        "img": "https://i.imgur.com/8fYzkgm.jpeg"
+        , opts: {
+            subkeyaki: ["CuteASide"]
+        }
+    },
+				{
+        "name": "Kokoro no Sakebi wo Uta ni Shitemita (2014)",
+        "img": "https://i.imgur.com/3VnMK0N.jpeg"
+        , opts: {
+            subkeyaki: ["CuteASide"]
+        }
+    },
+				{
+        "name": "Love take it all (2014)",
+        "img": "https://i.imgur.com/lFUiJI2.jpeg"
+        , opts: {
+            subkeyaki: ["CuteASide"]
+        }
+    },
+				{
+        "name": "The Power (2014)",
+        "img": "https://i.imgur.com/Icmtqsx.jpeg"
+        , opts: {
+            subkeyaki: ["CuteASide"]
+        }
+    },
+				{
+        "name": "Kanashiki Heaven (Single Version) (2014)",
+        "img": "https://i.imgur.com/gWHMT8w.jpeg"
+        , opts: {
+            subkeyaki: ["CuteASide"]
+        }
+    },
+				{
+        "name": "I miss you (2014)",
+        "img": "https://i.imgur.com/3D1yJz6.jpeg"
+        , opts: {
+            subkeyaki: ["CuteASide"]
+        }
+    },
+				{
+        "name": "THE FUTURE (2014)",
+        "img": "https://i.imgur.com/4OGbhZI.jpeg"
+        , opts: {
+            subkeyaki: ["CuteASide"]
+        }
+    },
+				{
+        "name": "The Middle Management ~Josei Chuukan Kanrishoku~ (2015)",
+        "img": "https://i.imgur.com/HgLPAZC.jpeg"
+        , opts: {
+            subkeyaki: ["CuteASide"]
+        }
+    },
+				{
+        "name": "Gamusha LIFE (2015)",
+        "img": "https://i.imgur.com/41PpKv3.jpeg"
+        , opts: {
+            subkeyaki: ["CuteASide"]
+        }
+    },
+				{
+        "name": "Tsugi no Kado wo Magare (2015)",
+        "img": "https://i.imgur.com/zFoL7fv.jpeg"
+        , opts: {
+            subkeyaki: ["CuteASide"]
+        }
+    },
+				{
+        "name": "Arigatou ~Mugen no Yell~ (2015)",
+        "img": "https://i.imgur.com/fupM4uO.jpeg"
+        , opts: {
+            subkeyaki: ["CuteASide"]
+        }
+    },
+				{
+        "name": "Arashi wo Okosunda Exciting Fight! (2015)",
+        "img": "https://i.imgur.com/lfQt41q.jpeg"
+        , opts: {
+            subkeyaki: ["CuteASide"]
+        }
+    },
+				{
+        "name": "Naze Hito wa Arasoun Darou? (2016)",
+        "img": "https://i.imgur.com/PIRTglV.jpeg"
+        , opts: {
+            subkeyaki: ["CuteASide"]
+        }
+    },
+				{
+        "name": "Summer Wind (2016)",
+        "img": "https://i.imgur.com/IHyznMD.jpeg"
+        , opts: {
+            subkeyaki: ["CuteASide"]
+        }
+    },
+				{
+        "name": "Jinsei wa STEP! (2016)",
+        "img": "https://i.imgur.com/UUowJls.jpeg"
+        , opts: {
+            subkeyaki: ["CuteASide"]
+        }
+    },
+				{
+        "name": "Mugen Climax (2016)",
+        "img": "https://i.imgur.com/R0vAWIT.jpeg"
+        , opts: {
+            subkeyaki: ["CuteASide"]
+        }
+    },
+				{
+        "name": "Ai wa Maru de Seidenki (2016)",
+        "img": "https://i.imgur.com/cEfsKtE.jpeg"
+        , opts: {
+            subkeyaki: ["CuteASide"]
+        }
+    },
+				{
+        "name": "Singing ~Ano Koro no You ni~ (2016)",
+        "img": "https://i.imgur.com/7258tjb.jpeg"
+        , opts: {
+            subkeyaki: ["CuteASide"]
+        }
+    },
+				{
+        "name": "To Tomorrow (2017)",
+        "img": "https://i.imgur.com/F7Hbrdo.jpeg"
+        , opts: {
+            subkeyaki: ["CuteASide"]
+        }
+    },
+				{
+        "name": "Final Squall (2017)",
+        "img": "https://i.imgur.com/VrJdttw.jpeg"
+        , opts: {
+            subkeyaki: ["CuteASide"]
+        }
+    },
+				{
+        "name": "The Curtain Rises (2017)",
+        "img": "https://i.imgur.com/keTX6Gi.jpeg"
+        , opts: {
+            subkeyaki: ["CuteASide"]
+        }
     }
-
-	];
+	
+    ];
 
 
 dataSet[dataSetVersion].options = [
@@ -1756,7 +2107,8 @@ dataSet[dataSetVersion].options = [
             { name: 'Morning Musume A Side List', key: 'aSideList' },
 			{ name: 'Morning Musume Albums ', key: 'mmalbum' },
 			{ name: 'S/Mileage & ANGERME A Side List', key: 'anjuAside' },
-		{ name: 'Juice=Juice A Side List', key: 'JJAside' },
+	    { name: 'Juice=Juice A Side List', key: 'JJAside' },
+	    { name: 'C-ute A Side List', key: 'CuteASide' },
         ]
     }
 
