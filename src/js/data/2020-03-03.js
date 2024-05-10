@@ -1431,9 +1431,317 @@ dataSet[dataSetVersion].characterData = [
         , opts: {
             subkeyaki: ["mmalbum"]
         }
+    },
+			{
+        "name": "Watashi ga Iu Mae ni Dakishimenakya ne (2013)",
+        "img": "https://i.imgur.com/mRdIzz4.jpeg"
+        , opts: {
+            subkeyaki: ["JJAside"]
+        }
+    },
+				{
+        "name": "Samidare Bijo ga Samidareru (2013)",
+        "img": "https://i.imgur.com/YSiIyKv.jpeg"
+        , opts: {
+            subkeyaki: ["JJAside"]
+        }
+ },			
+{
+        "name": "Romance no Tochuu (2013)",
+        "img": "https://i.imgur.com/H8uYFg8.jpeg"
+        , opts: {
+            subkeyaki: ["JJAside"]
+        }
+ },			
+{
+        "name": "Watashi ga Iu Mae ni Dakishimenakya ne (MEMORIAL EDIT) (2013)",
+        "img": "https://i.imgur.com/SoQt4nQ.jpeg"
+        , opts: {
+            subkeyaki: ["JJAside"]
+        }
+ },			
+{
+        "name": "Samidare Bijo ga Samidareru (MEMORIAL EDIT) (2013)",
+        "img": "https://i.imgur.com/o2dQJMc.jpeg"
+        , opts: {
+            subkeyaki: ["JJAside"]
+        }
+ },			
+{
+        "name": "Ijiwaru Shinai de Dakishimete yo (2013)",
+        "img": "https://i.imgur.com/RobgpSg.jpeg"
+        , opts: {
+            subkeyaki: ["JJAside"]
+        }
+ },			
+{
+        "name": "Hajimete wo Keiken-chuu (2013)",
+        "img": "https://i.imgur.com/ll21JDw.jpeg"
+        , opts: {
+            subkeyaki: ["JJAside"]
+        }
+ },			
+{
+        "name": "Hadaka no Hadaka no Hadaka no KISS (2014)",
+        "img": "https://i.imgur.com/lsQXSYE.jpeg"
+        , opts: {
+            subkeyaki: ["JJAside"]
+        }
+ },			
+{
+        "name": "Are Kore Shitai! (2014)",
+        "img": "https://i.imgur.com/sE5XqwT.jpeg"
+        , opts: {
+            subkeyaki: ["JJAside"]
+        }
+ },			
+{
+        "name": "Black Butterfly (2014)",
+        "img": "https://i.imgur.com/qsJlkHT.jpeg"
+        , opts: {
+            subkeyaki: ["JJAside"]
+        }
+ },			
+{
+        "name": "Kaze ni Fukarete (2014)",
+        "img": "https://i.imgur.com/RCJcVao.jpeg"
+        , opts: {
+            subkeyaki: ["JJAside"]
+        }
+ },			
+{
+        "name": "Senobi (2014)",
+        "img": "https://i.imgur.com/Mup8qpU.jpeg"
+        , opts: {
+            subkeyaki: ["JJAside"]
+        }
+ },			
+{
+        "name": "Date ja nai yo Uchi no Jinsei wa (2014)",
+        "img": "https://i.imgur.com/cr7aR7R.jpeg"
+        , opts: {
+            subkeyaki: ["JJAside"]
+        }
+ },			
+{
+        "name": "Wonderful World (2015)",
+        "img": "https://i.imgur.com/NcE43Vx.jpeg"
+        , opts: {
+            subkeyaki: ["JJAside"]
+        }
+ },			
+{
+        "name": "Ça va ? Ça va ? (2015)",
+        "img": "https://i.imgur.com/9roJ7J4.jpeg"
+        , opts: {
+            subkeyaki: ["JJAside"]
+        }
+ },			
+{
+        "name": "Next is you (2016)",
+        "img": "https://i.imgur.com/LY90k4m.jpeg"
+        , opts: {
+            subkeyaki: ["JJAside"]
+        }
+ },			
+{
+        "name": "Karada Dake ga Otona ni Nattan ja nai (2016)",
+        "img": "https://i.imgur.com/tv7JUxX.jpeg"
+        , opts: {
+            subkeyaki: ["JJAside"]
+        }
+ },			
+{
+        "name": "Dream Road ~Kokoro ga Odoridashiteru~ (2016)",
+        "img": "https://i.imgur.com/wvz3CuJ.jpeg"
+        , opts: {
+            subkeyaki: ["JJAside"]
+        }
+ },			
+{
+        "name": "KEEP ON Joshou Shikou!! (2016)",
+        "img": "https://i.imgur.com/t7DIg8t.jpeg"
+        , opts: {
+            subkeyaki: ["JJAside"]
+        }
+ },			
+{
+        "name": "Ashita Yarou wa Bakayarou (2016)",
+        "img": "https://i.imgur.com/lCaW21r.jpeg"
+        , opts: {
+            subkeyaki: ["JJAside"]
+        }
+ },			
+{
+        "name": "Jidanda Dance (2017)",
+        "img": "https://i.imgur.com/anAOBEo.jpeg"
+        , opts: {
+            subkeyaki: ["JJAside"]
+        }
+ },			
+{
+        "name": "Feel! Kanjiru yo (2017)",
+        "img": "https://i.imgur.com/LPxdh0d.jpeg"
+        , opts: {
+            subkeyaki: ["JJAside"]
+        }
+ },			
+{
+        "name": "SEXY SEXY (2018)",
+        "img": "https://i.imgur.com/tnUD2mx.jpeg"
+        , opts: {
+            subkeyaki: ["JJAside"]
+        }
+ },			
+{
+        "name": "Naite Ii yo (2018)",
+        "img": "https://i.imgur.com/D1R5GyT.jpeg"
+        , opts: {
+            subkeyaki: ["JJAside"]
+        }
+ },			
+{
+        "name": "Vivid Midnight (2018)",
+        "img": "https://i.imgur.com/hXSgwsT.jpeg"
+        , opts: {
+            subkeyaki: ["JJAside"]
+        }
+ },			
+{
+        "name": "Bitansan (2019)",
+        "img": "https://i.imgur.com/pjvefFn.jpeg"
+        , opts: {
+            subkeyaki: ["JJAside"]
+        }
+ },			
+{
+        "name": "Potsuri to (2019)",
+        "img": "https://i.imgur.com/axMmqvh.jpeg"
+        , opts: {
+            subkeyaki: ["JJAside"]
+        }
+ },			
+{
+        "name": "Good bye & Good luck! (2019)",
+        "img": "https://i.imgur.com/43ejGcC.jpeg"
+        , opts: {
+            subkeyaki: ["JJAside"]
+        }
+ },			
+{
+        "name": "Hitori de Ikiraresou tte Sore tte Nee, Homete Iru no? (2019)",
+        "img": "https://i.imgur.com/Vi9kgl2.jpeg"
+        , opts: {
+            subkeyaki: ["JJAside"]
+        }
+    },			
+	{
+        "name": "25sai Eien Setsu (2019)",
+        "img": "https://i.imgur.com/UAERGga.jpeg"
+        , opts: {
+            subkeyaki: ["JJAside"]
+        }
+    },			
+	{
+        "name": "Pop Music (2020)",
+        "img": "https://i.imgur.com/4U3gXm1.jpeg"
+        , opts: {
+            subkeyaki: ["JJAside"]
+        }
+    },			
+	{
+        "name": "Suki tte Itte yo (2020)",
+        "img": "https://i.imgur.com/K1PJtfZ.jpeg"
+        , opts: {
+            subkeyaki: ["JJAside"]
+        }
+    },			
+	{
+        "name": "DOWN TOWN (2021)",
+        "img": "https://i.imgur.com/mAhN9IV.jpeg"
+        , opts: {
+            subkeyaki: ["JJAside"]
+        }
+    },			
+	{
+        "name": "Ganbarenai yo (2021)",
+        "img": "https://i.imgur.com/JoZLP7j.jpeg"
+        , opts: {
+            subkeyaki: ["JJAside"]
+        }
+    },			
+	{
+        "name": "Plastic Love (2021)",
+        "img": "https://i.imgur.com/0x3W1Sa.jpeg"
+        , opts: {
+            subkeyaki: ["JJAside"]
+        }
+    },			
+	{
+        "name": "Familia (2021)",
+        "img": "https://i.imgur.com/D6EKctI.jpeg"
+        , opts: {
+            subkeyaki: ["JJAside"]
+        }
+    },			
+	{
+        "name": "Future Smile (2021)",
+        "img": "https://i.imgur.com/bgFhctM.jpeg"
+        , opts: {
+            subkeyaki: ["JJAside"]
+        }
+    },			
+	{
+        "name": "Zenbu Kakete GO!! (2022)",
+        "img": "https://i.imgur.com/E2T5yrn.jpeg"
+        , opts: {
+            subkeyaki: ["JJAside"]
+        }
+    },			
+	{
+        "name": "Eeny Meeny Miny Moe ~Koi no Rival Sengen~ (2022)",
+        "img": "https://i.imgur.com/061izaF.jpeg"
+        , opts: {
+            subkeyaki: ["JJAside"]
+        }
+    },			
+	{
+        "name": "Pride Bright (2023)",
+        "img": "https://i.imgur.com/bhYcaOI.jpeg"
+        , opts: {
+            subkeyaki: ["JJAside"]
+        }
+    },			
+	{
+        "name": "FUNKY FLUSHIN' (2023)",
+        "img": "https://i.imgur.com/r2sK5I7.jpeg"
+        , opts: {
+            subkeyaki: ["JJAside"]
+        }
+    },			
+	{
+        "name": "Tokyo Blur (2024)",
+        "img": "https://i.imgur.com/T312Q2Y.jpeg"
+        , opts: {
+            subkeyaki: ["JJAside"]
+        }
+    },			
+	{
+        "name": "Naimono Love (2024)",
+        "img": "https://i.imgur.com/QGe4O9e.jpeg"
+        , opts: {
+            subkeyaki: ["JJAside"]
+        }
+    },			
+	{
+        "name": "Oaiko (2024)",
+        "img": "https://i.imgur.com/kVCNL2b.jpeg"
+        , opts: {
+            subkeyaki: ["JJAside"]
+        }
     }
-	
-];
+
+	];
 
 
 dataSet[dataSetVersion].options = [
@@ -1448,6 +1756,7 @@ dataSet[dataSetVersion].options = [
             { name: 'Morning Musume A Side List', key: 'aSideList' },
 			{ name: 'Morning Musume Albums ', key: 'mmalbum' },
 			{ name: 'S/Mileage & ANGERME A Side List', key: 'anjuAside' },
+		{ name: 'Juice=Juice A Side List', key: 'JJAside' },
         ]
     }
 
