@@ -1740,7 +1740,6 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["JJAside"]
         }
     },
-	    },
 				{
         "name": "Massara Blue Jeans (2006)",
         "img": "https://i.imgur.com/8XxZKVG.jpeg"
