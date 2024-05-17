@@ -1756,7 +1756,7 @@ dataSet[dataSetVersion].characterData = [
     },
 				{
         "name": "Ooki na Ai de Motenashite (2006)",
-        "img": "https://i.imgur.com/yIpksTM.jpeg"
+        "img": "https://i.imgur.com/QP2AdZ1.png"
         , opts: {
             subkeyaki: ["CuteASide"]
         }
