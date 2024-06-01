@@ -1218,7 +1218,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "Morito Chisaki",
         "img": "https://i.imgur.com/AqRTseD.jpg"
         , opts: {
-            subkeyaki: ["mmog", "cg"]
+            subkeyaki: ["mmog", "cg", "MLine"]
         }
     },
 
