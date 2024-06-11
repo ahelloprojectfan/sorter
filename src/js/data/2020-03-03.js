@@ -34,7 +34,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Tsubaki Factory",
-        "img": "https://i.imgur.com/lqUmPY1.jpeg"
+        "img": "https://i.imgur.com/N0baslv.jpg"
         , opts: {
             subkeyaki: ["cgropus"]
         }
