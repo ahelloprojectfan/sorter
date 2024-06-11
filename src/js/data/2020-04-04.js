@@ -298,7 +298,7 @@ dataSet[dataSetVersion].characterData = [
     },
 	    {
         "name": "Kawashima Mifu",
-        "img": "https://i.imgur.com/YenfrIi.jpg"
+        "img": "https://i.imgur.com/Oe89f9T.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
@@ -324,12 +324,12 @@ dataSet[dataSetVersion].characterData = [
         "name": "Niinuma Kisora",
         "img": "https://i.imgur.com/bLJtXbi.jpeg"
         , opts: {
-            subkeyaki: ["tf"]
+            subkeyaki: ["extf"]
         }
     },
     {
         "name": "Tanimoto Ami",
-        "img": "https://i.imgur.com/JVqbAE4.jpeg"
+        "img": "https://i.imgur.com/G7QCrxJ.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
@@ -350,7 +350,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Ono Mizuho",
-        "img": "https://i.imgur.com/Nasv0Dg.jpeg"
+        "img": "https://i.imgur.com/Sllj8Jm.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
