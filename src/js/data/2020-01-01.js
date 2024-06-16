@@ -223,7 +223,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "植村あかり",
         "img": "https://i.imgur.com/DBHK4QR.jpeg"
         , opts: {
-            subkeyaki: ["jj"]
+            subkeyaki: ["ex-jj"]
         }
     },
     {
@@ -591,49 +591,49 @@ dataSet[dataSetVersion].characterData = [
         "name": "松原ユリヤ",
         "img": "https://i.imgur.com/Xfx288u.jpeg"
         , opts: {
-            subkeyaki: ["kssu", "kss"]
+            subkeyaki: ["rosy"]
         }
     },
     {
         "name": "小野田華凜",
         "img": "https://i.imgur.com/gSXInpx.jpeg"
         , opts: {
-            subkeyaki: ["kssu", "kss"]
+            subkeyaki: ["rosy"]
         }
     },
     {
         "name": "橋田歩果",
         "img": "https://i.imgur.com/1Eawxx3.jpeg"
         , opts: {
-            subkeyaki: ["kssu", "kss"]
+            subkeyaki: ["rosy"]
         }
     },
     {
         "name": "村越彩菜",
         "img": "https://i.imgur.com/nisIxJL.jpeg"
         , opts: {
-            subkeyaki: ["kssu", "kss"]
+            subkeyaki: ["rosy"]
         }
     },
     {
         "name": "植村葉純",
         "img": "https://i.imgur.com/sqQZ8BK.jpeg"
         , opts: {
-            subkeyaki: ["kssu", "kss"]
+            subkeyaki: ["rosy"]
         }
     },
      {
         "name": "吉田姫杷",
         "img": "https://i.imgur.com/ycZnTqb.jpeg"
         , opts: {
-            subkeyaki: ["kssu", "kss"]
+            subkeyaki: ["rosy"]
         }
     },
         {
         "name": "上村麗菜",
         "img": "https://i.imgur.com/ZvRdEFi.jpeg"
         , opts: {
-            subkeyaki: ["kssu", "kss"]
+            subkeyaki: ["rosy"]
         }
     },
             {
@@ -661,7 +661,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "島川波菜",
         "img": "https://i.imgur.com/qHmKEzj.jpeg"
         , opts: {
-            subkeyaki: ["kss"]
+            subkeyaki: ["rosy"]
         }
     },
 			        {
@@ -689,7 +689,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "相馬優芽",
         "img": "https://i.imgur.com/AMsOXwq.jpeg"
         , opts: {
-            subkeyaki: ["kss"]
+            subkeyaki: ["rosy"]
         }
     },
 			        {
@@ -1410,7 +1410,7 @@ dataSet[dataSetVersion].options = [
             { name: 'つばきファクトリー', key: 'tf' },
             { name: 'BEYOOOOONDS', key: 'by' },
             { name: 'OCHA NORMA', key: 'ocha' },
-	    { name: "ハロプロ研修生ユニット '23", key: 'kssu' },
+	    { name: "ロージークロニクル", key: 'rosy' },
             { name: 'ハロプロ研修生', key: 'kss' },
 	    { name: 'M-Line Club', key: 'MLine' },
             { name: 'Juice=Juice OG', key: 'ex-jj' },
