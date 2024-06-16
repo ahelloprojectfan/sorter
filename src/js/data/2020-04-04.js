@@ -223,7 +223,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "Uemura Akari",
         "img": "https://i.imgur.com/DBHK4QR.jpeg"
         , opts: {
-            subkeyaki: ["jj"]
+            subkeyaki: ["ex-jj"]
         }
     },
     {
@@ -591,49 +591,49 @@ dataSet[dataSetVersion].characterData = [
         "name": "Matsubara Yulia",
         "img": "https://i.imgur.com/Xfx288u.jpeg"
         , opts: {
-            subkeyaki: ["kssu", "kss"]
+            subkeyaki: ["rosy"]
         }
     },
     {
         "name": "Onoda Karin",
         "img": "https://i.imgur.com/gSXInpx.jpeg"
         , opts: {
-            subkeyaki: ["kssu", "kss"]
+            subkeyaki: ["rosy"]
         }
     },
     {
         "name": "Hashida Honoka",
         "img": "https://i.imgur.com/1Eawxx3.jpeg"
         , opts: {
-            subkeyaki: ["kssu", "kss"]
+            subkeyaki: ["rosy"]
         }
     },
     {
         "name": "Murakoshi Ayana",
         "img": "https://i.imgur.com/nisIxJL.jpeg"
         , opts: {
-            subkeyaki: ["kssu", "kss"]
+            subkeyaki: ["rosy"]
         }
     },
     {
         "name": "Uemura Hasumi",
         "img": "https://i.imgur.com/sqQZ8BK.jpeg"
         , opts: {
-            subkeyaki: ["kssu", "kss"]
+            subkeyaki: ["rosy"]
         }
     },
      {
         "name": "Yoshida Hinoha",
         "img": "https://i.imgur.com/ycZnTqb.jpeg"
         , opts: {
-            subkeyaki: ["kssu", "kss"]
+            subkeyaki: ["rosy"]
         }
     },
         {
         "name": "Kamimura Rena",
         "img": "https://i.imgur.com/ZvRdEFi.jpeg"
         , opts: {
-            subkeyaki: ["kssu", "kss"]
+            subkeyaki: ["rosy"]
         }
     },
             {
@@ -661,7 +661,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "Shimakawa Hana",
         "img": "https://i.imgur.com/qHmKEzj.jpeg"
         , opts: {
-            subkeyaki: ["kss"]
+            subkeyaki: ["rosy"]
         }
     },
 			        {
@@ -689,7 +689,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "Soma Yume",
         "img": "https://i.imgur.com/AMsOXwq.jpeg"
         , opts: {
-            subkeyaki: ["kss"]
+            subkeyaki: ["rosy"]
         }
     },
 			        {
@@ -1411,7 +1411,7 @@ dataSet[dataSetVersion].options = [
             { name: 'Tsubaki Factory', key: 'tf' },
             { name: 'BEYOOOOONDS', key: 'by' },
             { name: 'OCHA NORMA', key: 'ocha' },
-	    { name: "Hello Pro Kenshuusei Unit '23", key: 'kssu' },
+	    { name: "Rosy Chronicle", key: 'rosy' },
             { name: 'Hello Pro Kenshuusei', key: 'kss' },
 	    { name: 'M-Line Club', key: 'MLine' },
             { name: 'Ex-Juice=Juice', key: 'ex-jj' },
