@@ -18,7 +18,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "ANGERME",
-        "img": "https://i.imgur.com/SyWmzQX.jpg"
+        "img": "https://i.imgur.com/t97FxmJ.jpg"
         , opts: {
             subkeyaki: ["cgropus"]
         }
@@ -26,7 +26,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Juice=Juice",
-        "img": "https://i.imgur.com/SwJEPHh.jpg"
+        "img": "https://i.imgur.com/6KJENOd.jpg"
         , opts: {
             subkeyaki: ["cgropus"]
         }
