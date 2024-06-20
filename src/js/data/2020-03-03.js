@@ -1299,6 +1299,27 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["anjuAside"]
         }
     },
+				{
+        "name": "Bibitaru Ichigeki",
+        "img": "https://i.imgur.com/m6IaQpr.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+				{
+        "name": "Uwasa no Narushii",
+        "img": "https://i.imgur.com/6qNkt67.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+				{
+        "name": "THANK YOU, HELLO GOOD BYE",
+        "img": "https://i.imgur.com/aOK8QQ9.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
 		{
         "name": "The Best! ~Updated Morning Musume~",
         "img": "https://i.imgur.com/dv2O9jh.jpg"
