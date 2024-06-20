@@ -110,7 +110,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "Sasaki Rikako",
         "img": "https://i.imgur.com/xVnWdhG.jpeg"
         , opts: {
-            subkeyaki: ["angerme"]
+            subkeyaki: ["SnAog"]
         }
     },
     {
@@ -221,7 +221,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Uemura Akari",
-        "img": "https://i.imgur.com/DBHK4QR.jpeg"
+        "img": "https://i.imgur.com/5MfXJm9.jpg"
         , opts: {
             subkeyaki: ["ex-jj"]
         }
@@ -235,14 +235,14 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Inoue Rei",
-        "img": "https://i.imgur.com/vwnMM5A.jpeg"
+        "img": "https://i.imgur.com/WUI5xdh.jpg"
         , opts: {
             subkeyaki: ["jj", "kf"]
         }
     },
     {
         "name": "Dambara Ruru",
-        "img": "https://i.imgur.com/xcKzBRM.jpeg"
+        "img": "https://i.imgur.com/kPjWaG6.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
