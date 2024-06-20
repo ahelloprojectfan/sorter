@@ -110,7 +110,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "佐々木莉佳子",
         "img": "https://i.imgur.com/xVnWdhG.jpeg"
         , opts: {
-            subkeyaki: ["angerme"]
+            subkeyaki: ["SnAog"]
         }
     },
     {
@@ -221,7 +221,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "植村あかり",
-        "img": "https://i.imgur.com/DBHK4QR.jpeg"
+        "img": "https://i.imgur.com/5MfXJm9.jpg"
         , opts: {
             subkeyaki: ["ex-jj"]
         }
@@ -235,14 +235,14 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "井上玲音",
-        "img": "https://i.imgur.com/vwnMM5A.jpeg"
+        "img": "https://i.imgur.com/WUI5xdh.jpg"
         , opts: {
             subkeyaki: ["jj", "kf"]
         }
     },
     {
         "name": "段原瑠々",
-        "img": "https://i.imgur.com/xcKzBRM.jpeg"
+        "img": "https://i.imgur.com/kPjWaG6.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
