@@ -470,7 +470,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "Yamazaki Yuhane",
         "img": "https://i.imgur.com/xxEhwgM.jpeg"
         , opts: {
-            subkeyaki: ["by"]
+            subkeyaki: ["exby"]
         }
     },
     {
