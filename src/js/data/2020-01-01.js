@@ -470,7 +470,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "山﨑夢羽",
         "img": "https://i.imgur.com/xxEhwgM.jpeg"
         , opts: {
-            subkeyaki: ["by"]
+            subkeyaki: ["exby"]
         }
     },
     {
