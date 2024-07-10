@@ -42,7 +42,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "BEYOOOOONDS",
-        "img": "https://i.imgur.com/lKBspgx.jpeg"
+        "img": "https://i.imgur.com/q1Q50yn.png"
         , opts: {
             subkeyaki: ["cgropus"]
         }
@@ -51,6 +51,13 @@ dataSet[dataSetVersion].characterData = [
 	{
         "name": "OCHA NORMA",
         "img": "https://i.imgur.com/U2xYKG7.jpg"
+        , opts: {
+            subkeyaki: ["cgropus"]
+        }
+    },
+		{
+        "name": "Rosy Chronicle",
+        "img": "https://i.imgur.com/XJdzc9P.jpg"
         , opts: {
             subkeyaki: ["cgropus"]
         }
@@ -840,6 +847,20 @@ dataSet[dataSetVersion].characterData = [
 		 {
         "name": "Neverending Shine (2023)",
         "img": "https://i.imgur.com/n7ql07J.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+	}
+},
+			 {
+        "name": "SaiKIYOU (2024)",
+        "img": "https://i.imgur.com/LULEXgb.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+	}
+},
+			 {
+        "name": "Nandaka Sentimental na Toki no Uta (2024)"
+        "img": "https://i.imgur.com/tW7W7xP.jpg",
         "opts": {
             "subkeyaki": ["aSideList"]
 	}
