@@ -851,15 +851,15 @@ dataSet[dataSetVersion].characterData = [
             "subkeyaki": ["aSideList"]
 	}
 },
-			 {
+	 {
         "name": "SaiKIYOU (2024)",
         "img": "https://i.imgur.com/LULEXgb.jpg",
         "opts": {
             "subkeyaki": ["aSideList"]
 	}
 },
-			 {
-        "name": "Nandaka Sentimental na Toki no Uta (2024)"
+	 {
+        "name": "Nandaka Sentimental na Toki no Uta (2024)",
         "img": "https://i.imgur.com/tW7W7xP.jpg",
         "opts": {
             "subkeyaki": ["aSideList"]
