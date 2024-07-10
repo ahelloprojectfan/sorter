@@ -581,61 +581,77 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["ocha"]
         }
     },
-	
-	
-    //Hello Pro Kenshuusei
 
-
+    //Rosy Chronicle
 
     {
         "name": "Matsubara Yulia",
-        "img": "https://i.imgur.com/Xfx288u.jpeg"
+        "img": "https://i.imgur.com/6gpJAzE.jpg"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
     {
         "name": "Onoda Karin",
-        "img": "https://i.imgur.com/gSXInpx.jpeg"
+        "img": "https://i.imgur.com/y8YxZXg.jpg"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
     {
         "name": "Hashida Honoka",
-        "img": "https://i.imgur.com/1Eawxx3.jpeg"
+        "img": "https://i.imgur.com/lKy7r2x.jpg"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
     {
         "name": "Murakoshi Ayana",
-        "img": "https://i.imgur.com/nisIxJL.jpeg"
+        "img": "https://i.imgur.com/1xxtIeV.jpg"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
     {
         "name": "Uemura Hasumi",
-        "img": "https://i.imgur.com/sqQZ8BK.jpeg"
+        "img": "https://i.imgur.com/uawTrJo.jpg"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
      {
         "name": "Yoshida Hinoha",
-        "img": "https://i.imgur.com/ycZnTqb.jpeg"
+        "img": "https://i.imgur.com/zcK4SqP.jpg"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
         {
         "name": "Kamimura Rena",
-        "img": "https://i.imgur.com/ZvRdEFi.jpeg"
+        "img": "https://i.imgur.com/fyUW0dM.jpg"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
+			        {
+        "name": "Shimakawa Hana",
+        "img": "https://i.imgur.com/2SdWHsT.jpg"
+        , opts: {
+            subkeyaki: ["rosy"]
+        }
+    },
+				        {
+        "name": "Soma Yume",
+        "img": "https://i.imgur.com/5l7cSBd.jpg"
+        , opts: {
+            subkeyaki: ["rosy"]
+        }
+    },
+	
+    //Hello Pro Kenshuusei
+
+
+
             {
         "name": "Kawano Soara",
         "img": "https://i.imgur.com/SjSPbfr.jpeg"
@@ -657,13 +673,6 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["kss"]
         }
     },
-		        {
-        "name": "Shimakawa Hana",
-        "img": "https://i.imgur.com/qHmKEzj.jpeg"
-        , opts: {
-            subkeyaki: ["rosy"]
-        }
-    },
 			        {
         "name": "Asano Yurika",
         "img": "https://i.imgur.com/ZI3wzgs.jpeg"
@@ -683,13 +692,6 @@ dataSet[dataSetVersion].characterData = [
         "img": "https://i.imgur.com/l4BlCx2.jpeg"
         , opts: {
             subkeyaki: ["kss"]
-        }
-    },
-			        {
-        "name": "Soma Yume",
-        "img": "https://i.imgur.com/AMsOXwq.jpeg"
-        , opts: {
-            subkeyaki: ["rosy"]
         }
     },
 			        {
