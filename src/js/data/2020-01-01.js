@@ -586,7 +586,7 @@ dataSet[dataSetVersion].characterData = [
 
 	{
         "name": "松原ユリヤ",
-        "img": "hhttps://i.imgur.com/6gpJAzE.jpg"
+        "img": "https://i.imgur.com/6gpJAzE.jpg"
         , opts: {
             subkeyaki: ["rosy"]
         }
