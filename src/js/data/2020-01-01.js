@@ -582,60 +582,76 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 	
+     //Rosy Chronicle
 
-    //Hello Pro Kenshuusei
-
-
-   
-    {
+	{
         "name": "松原ユリヤ",
-        "img": "https://i.imgur.com/Xfx288u.jpeg"
+        "img": "hhttps://i.imgur.com/6gpJAzE.jpg"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
     {
         "name": "小野田華凜",
-        "img": "https://i.imgur.com/gSXInpx.jpeg"
+        "img": "https://i.imgur.com/y8YxZXg.jpg"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
     {
         "name": "橋田歩果",
-        "img": "https://i.imgur.com/1Eawxx3.jpeg"
+        "img": "https://i.imgur.com/lKy7r2x.jpg"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
     {
         "name": "村越彩菜",
-        "img": "https://i.imgur.com/nisIxJL.jpeg"
+        "img": "https://i.imgur.com/1xxtIeV.jpg"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
     {
         "name": "植村葉純",
-        "img": "https://i.imgur.com/sqQZ8BK.jpeg"
+        "img": "https://i.imgur.com/uawTrJo.jpg"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
      {
         "name": "吉田姫杷",
-        "img": "https://i.imgur.com/ycZnTqb.jpeg"
+        "img": "https://i.imgur.com/zcK4SqP.jpg"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
         {
         "name": "上村麗菜",
-        "img": "https://i.imgur.com/ZvRdEFi.jpeg"
+        "img": "https://i.imgur.com/fyUW0dM.jpg"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
+     		        {
+        "name": "島川波菜",
+        "img": "https://i.imgur.com/2SdWHsT.jpg"
+        , opts: {
+            subkeyaki: ["rosy"]
+        }
+    },
+				        {
+        "name": "相馬優芽",
+        "img": "https://i.imgur.com/5l7cSBd.jpg"
+        , opts: {
+            subkeyaki: ["rosy"]
+        }
+    },
+	
+	//Hello Pro Kenshuusei
+
+
+   
             {
         "name": "河野空愛",
         "img": "https://i.imgur.com/SjSPbfr.jpeg"
@@ -657,13 +673,6 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["kss"]
         }
     },
-		        {
-        "name": "島川波菜",
-        "img": "https://i.imgur.com/qHmKEzj.jpeg"
-        , opts: {
-            subkeyaki: ["rosy"]
-        }
-    },
 			        {
         "name": "浅野優莉花",
         "img": "https://i.imgur.com/ZI3wzgs.jpeg"
@@ -683,13 +692,6 @@ dataSet[dataSetVersion].characterData = [
         "img": "https://i.imgur.com/l4BlCx2.jpeg"
         , opts: {
             subkeyaki: ["kss"]
-        }
-    },
-			        {
-        "name": "相馬優芽",
-        "img": "https://i.imgur.com/AMsOXwq.jpeg"
-        , opts: {
-            subkeyaki: ["rosy"]
         }
     },
 			        {
