@@ -329,7 +329,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Tanimoto Ami",
-        "img": "https://i.imgur.com/G7QCrxJ.jpg"
+        "img": "https://i.imgur.com/Ril5uHk.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
@@ -350,28 +350,28 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Ono Mizuho",
-        "img": "https://i.imgur.com/Sllj8Jm.jpg"
+        "img": "https://i.imgur.com/nkf6zo2.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
     {
         "name": "Onoda Saori",
-        "img": "https://i.imgur.com/Y5iRX0W.jpeg"
+        "img": "https://i.imgur.com/jxpIQHX.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
     {
         "name": "Akiyama Mao",
-        "img": "https://i.imgur.com/TBsXR70.jpeg"
+        "img": "https://i.imgur.com/H0ntUaU.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
 {
         "name": "Kasai Yuumi",
-        "img": "https://i.imgur.com/pMRpmnp.jpeg"
+        "img": "https://i.imgur.com/ZSiYBD9.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
@@ -379,7 +379,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Yagi Shiori",
-        "img": "https://i.imgur.com/LD29f9d.jpeg"
+        "img": "https://i.imgur.com/oH40BJX.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
@@ -387,7 +387,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Fukuda Marine",
-        "img": "https://i.imgur.com/RtXE46t.jpeg"
+        "img": "https://i.imgur.com/ft2KTZW.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
@@ -395,28 +395,28 @@ dataSet[dataSetVersion].characterData = [
     },
 	    {
         "name": "Yofuu Runo",
-        "img": "https://i.imgur.com/XxhFeP3.jpeg"
+        "img": "https://i.imgur.com/4fCIqIt.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
 	    {
         "name": "Ishii Mihane",
-        "img": "https://i.imgur.com/yjJ1I56.jpeg"
+        "img": "https://i.imgur.com/hH9P95d.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
 	    {
         "name": "Murata Yuu",
-        "img": "https://i.imgur.com/i5A6uOd.jpeg"
+        "img": "https://i.imgur.com/0CKFCyX.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
 		    {
         "name": "Doi Fuka",
-        "img": "https://i.imgur.com/in9NCVc.jpeg"
+        "img": "https://i.imgur.com/pEg0LV9.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
@@ -513,70 +513,70 @@ dataSet[dataSetVersion].characterData = [
 	
 	 {
         "name": "Yonemura Kirara",
-        "img": "https://i.imgur.com/5zm8ifm.jpg"
+        "img": "https://i.imgur.com/CvkcWcT.jpg"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
     {
         "name": "Nakayama Natsume",
-        "img": "https://i.imgur.com/EXtdIAX.jpg"
+        "img": "https://i.imgur.com/LJIMtyD.jpg"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
     {
         "name": "Kubota Nanami",
-        "img": "https://i.imgur.com/8rm6aJF.jpg"
+        "img": "https://i.imgur.com/CCZuwTr.jpg"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
     {
         "name": "Saito Madoka",
-        "img": "https://i.imgur.com/unjPMRK.jpg"
+        "img": "https://i.imgur.com/zm1oI6p.jpg"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
 {
         "name": "Hiromoto Ruli",
-        "img": "https://i.imgur.com/vh8RFlO.jpg"
+        "img": "https://i.imgur.com/uiSt38g.jpg"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
 	    {
         "name": "Nishizaki Miku",
-        "img": "https://i.imgur.com/1S5ulSJ.jpg"
+        "img": "https://i.imgur.com/BpPzDsC.jpg"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
     {
         "name": "Kitahara Momo",
-        "img": "https://i.imgur.com/U6PInfp.jpg"
+        "img": "https://i.imgur.com/WBRR0bO.jpg"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
 	    {
         "name": "Ishiguri Kanami",
-        "img": "https://i.imgur.com/lrOq9CG.jpg"
+        "img": "https://i.imgur.com/lKsgX1Z.jpg"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
 	    {
         "name": "Tashiro Sumire",
-        "img": "https://i.imgur.com/hzCNR4b.jpg"
+        "img": "https://i.imgur.com/mSbmD9e.jpg"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
     {
         "name": "Tsutsui Roko",
-        "img": "https://i.imgur.com/tAnAEl3.jpg"
+        "img": "https://i.imgur.com/tiqWjci.jpg"
         , opts: {
             subkeyaki: ["ocha"]
         }
