@@ -329,7 +329,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "谷本安美",
-        "img": "https://i.imgur.com/G7QCrxJ.jpg"
+        "img": "https://i.imgur.com/Ril5uHk.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
@@ -350,28 +350,28 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "小野瑞歩",
-        "img": "https://i.imgur.com/Sllj8Jm.jpg"
+        "img": "https://i.imgur.com/nkf6zo2.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
     {
         "name": "小野田紗栞",
-        "img": "https://i.imgur.com/Y5iRX0W.jpeg"
+        "img": "https://i.imgur.com/jxpIQHX.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
     {
         "name": "秋山眞緒",
-        "img": "https://i.imgur.com/TBsXR70.jpeg"
+        "img": "https://i.imgur.com/H0ntUaU.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
 	    {
         "name": "河西結心",
-        "img": "https://i.imgur.com/pMRpmnp.jpeg"
+        "img": "https://i.imgur.com/ZSiYBD9.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
@@ -379,7 +379,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "八木栞",
-        "img": "https://i.imgur.com/LD29f9d.jpeg"
+        "img": "https://i.imgur.com/oH40BJX.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
@@ -387,7 +387,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "福田真琳",
-        "img": "https://i.imgur.com/RtXE46t.jpeg"
+        "img": "https://i.imgur.com/ft2KTZW.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
@@ -395,28 +395,28 @@ dataSet[dataSetVersion].characterData = [
     },
 	    {
         "name": "豫風瑠乃",
-        "img": "https://i.imgur.com/XxhFeP3.jpeg"
+        "img": "https://i.imgur.com/4fCIqIt.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
 	    {
         "name": "石井泉羽",
-        "img": "https://i.imgur.com/yjJ1I56.jpeg"
+        "img": "https://i.imgur.com/hH9P95d.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
 	    {
         "name": "村田結生",
-        "img": "https://i.imgur.com/i5A6uOd.jpeg"
+        "img": "https://i.imgur.com/0CKFCyX.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
 		    {
         "name": "土居楓奏",
-        "img": "https://i.imgur.com/in9NCVc.jpeg"
+        "img": "https://i.imgur.com/pEg0LV9.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
@@ -513,70 +513,70 @@ dataSet[dataSetVersion].characterData = [
 	
 	 {
         "name": "米村姫良々",
-        "img": "https://i.imgur.com/5zm8ifm.jpg"
+        "img": "https://i.imgur.com/CvkcWcT.jpg"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
     {
         "name": "中山夏月姫",
-        "img": "https://i.imgur.com/EXtdIAX.jpg"
+        "img": "https://i.imgur.com/LJIMtyD.jpg"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
     {
         "name": "窪田七海",
-        "img": "https://i.imgur.com/8rm6aJF.jpg"
+        "img": "https://i.imgur.com/CCZuwTr.jpg"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
     {
         "name": "斉藤円香",
-        "img": "https://i.imgur.com/unjPMRK.jpg"
+        "img": "https://i.imgur.com/zm1oI6p.jpg"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
 {
         "name": "広本瑠璃",
-        "img": "https://i.imgur.com/vh8RFlO.jpg"
+        "img": "https://i.imgur.com/uiSt38g.jpg"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
 	    {
         "name": "西﨑美空",
-        "img": "https://i.imgur.com/1S5ulSJ.jpg"
+        "img": "https://i.imgur.com/BpPzDsC.jpg"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
     {
         "name": "北原もも",
-        "img": "https://i.imgur.com/U6PInfp.jpg"
+        "img": "https://i.imgur.com/WBRR0bO.jpg"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
 	    {
         "name": "石栗奏美",
-        "img": "https://i.imgur.com/lrOq9CG.jpg"
+        "img": "https://i.imgur.com/lKsgX1Z.jpg"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
 	    {
         "name": "田代すみれ",
-        "img": "https://i.imgur.com/hzCNR4b.jpg"
+        "img": "https://i.imgur.com/mSbmD9e.jpg"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
     {
         "name": "筒井澪心",
-        "img": "https://i.imgur.com/tAnAEl3.jpg"
+        "img": "https://i.imgur.com/tiqWjci.jpg"
         , opts: {
             subkeyaki: ["ocha"]
         }
