@@ -22,14 +22,15 @@
         }
 
         a {
-            color :#93e7ff;
+            color: #93e7ff;
             /* color: #0056b3; */
             /* text-decoration: underline; */
 
         }
-        a:hover{
-             color: #0056b3; 
-             text-decoration: underline;
+
+        a:hover {
+            color: #0056b3;
+            text-decoration: underline;
         }
     </style>
 </head>
@@ -46,33 +47,9 @@
         <div class='tierlist'>
         </div>
         <div class='bottom-container'>
-            <div class='buttons-container'>
-                <div class='button'>
-                    <label for='load-img-input'>
-                        <img src='plus.png' title='Add images' />
-                    </label>
-                    <input id='load-img-input' type='file' accept='image/*' multiple />
-                </div>
-                <div class='button'>
-                    <label for='reset-list-input'>
-                        <img src='reset.png' title='Reset list'>
-                    </label>
-                    <input id='reset-list-input' type='button' />
-                </div>
-                <div class='button'>
-                    <label for='export-input'>
-                        <img src='export.png' title='Export'>
-                    </label>
-                    <input id='export-input' type='button' />
-                </div>
-                <div class='button'>
-                    <label for='import-input'>
-                        <img src='import.png' title='Import' />
-                    </label>
-                    <input id='import-input' type='file' accept='.json' multiple />
-                </div>
-            </div>
+
             <section class='images'></section>
+
         </div>
     </section>
 
@@ -124,9 +101,59 @@
 
 
     </script>
+    <div class='bottom-container'>
+
+        <div class='buttons-container'>
+            <div class='button'>
+                <label for='load-img-input'>
+                    <img src='plus.png' title='Add images' />
+                </label>
+                <input id='load-img-input' type='file' accept='image/*' multiple />
+            </div>
+            <div class='button'>
+                <label for='reset-list-input'>
+                    <img src='reset.png' title='Reset list'>
+                </label>
+                <input id='reset-list-input' type='button' />
+            </div>
+            <div class='button'>
+                <label for='export-input'>
+                    <img src='export.png' title='Export'>
+                </label>
+                <input id='export-input' type='button' />
+            </div>
+            <div class='button'>
+                <label for='import-input'>
+                    <img src='import.png' title='Import' />
+                </label>
+                <input id='import-input' type='file' accept='.json' multiple />
+            </div>
+        </div>
+    </div>
     <footer>
         <p>This tier maker was made using code from <a
                 href="https://github.com/silverweed/tiers">https://github.com/silverweed/tiers</a>
+        <h4>
+            <div id="opAll">
+
+
+                <a href="tiermaker.html">Members Tier Maker</a>
+
+                |
+
+                <a href="tiermakerASideMM.html">MM A Side Tier Maker</a>
+
+                |
+
+                <a href="tiermakerMMAlbums.html">MM Albums Tier Maker</a>
+                |
+
+                <a href="https://ahelloprojectfan.github.io/sorter/">Sorter</a>
+
+
+
+            </div>
+        </h4>
     </footer>
 
 </body>
