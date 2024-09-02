@@ -654,70 +654,70 @@ dataSet[dataSetVersion].characterData = [
 
             {
         "name": "Kawano Soara",
-        "img": "https://i.imgur.com/SjSPbfr.jpeg"
+        "img": "https://i.imgur.com/l9SVLf3.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 	        {
         "name": "Makino Toa",
-        "img": "https://i.imgur.com/y8Y5BW8.jpeg"
+        "img": "https://i.imgur.com/U6YMJqc.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 	        {
         "name": "Hayashi Niina",
-        "img": "https://i.imgur.com/EUIf5az.jpeg"
+        "img": "https://i.imgur.com/bSzSgvb.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 			        {
         "name": "Asano Yurika",
-        "img": "https://i.imgur.com/ZI3wzgs.jpeg"
+        "img": "https://i.imgur.com/vv9e2yd.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 			        {
         "name": "Miyakoshi Chihiro",
-        "img": "https://i.imgur.com/reC4C4H.jpeg"
+        "img": "https://i.imgur.com/zviZXHd.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 			        {
         "name": "Nishumura Itsuki",
-        "img": "https://i.imgur.com/l4BlCx2.jpeg"
+        "img": "https://i.imgur.com/WRSAhV9.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 			        {
         "name": "Otsubo Mano",
-        "img": "https://i.imgur.com/1DwJsYi.jpeg"
+        "img": "https://i.imgur.com/N5ZtTZg.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 			        {
         "name": "Yoshida Hikari",
-        "img": "https://i.imgur.com/X2Qoovu.jpeg"
+        "img": "https://i.imgur.com/PBcgm2M.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 			        {
         "name": "Sugihara Meisa",
-        "img": "https://i.imgur.com/pqnLy3s.jpeg"
+        "img": "https://i.imgur.com/sao1xm6.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 			        {
         "name": "Hattori Rua",
-        "img": "https://i.imgur.com/U87ZQvd.jpeg"
+        "img": "https://i.imgur.com/EA6zFbC.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
