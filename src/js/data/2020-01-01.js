@@ -108,7 +108,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "佐々木莉佳子",
-        "img": "https://i.imgur.com/xVnWdhG.jpeg"
+        "img": "https://i.imgur.com/iAJWgAN.jpg"
         , opts: {
             subkeyaki: ["SnAog"]
         }
@@ -221,7 +221,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "植村あかり",
-        "img": "https://i.imgur.com/5MfXJm9.jpg"
+        "img": "https://i.imgur.com/xd7qqKp.jpg"
         , opts: {
             subkeyaki: ["ex-jj"]
         }
@@ -336,7 +336,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "岸本ゆめの",
-        "img": "https://i.imgur.com/0Rh8Mxg.jpg"
+        "img": "https://i.imgur.com/p8SD9Uw.jpg"
         , opts: {
             subkeyaki: ["extf"]
         }
@@ -1120,7 +1120,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "道重さゆみ",
-        "img": "https://i.imgur.com/JmUJNlr.jpeg"
+        "img": "https://i.imgur.com/3H0nenI.jpg"
         , opts: {
             subkeyaki: ["mmog", "MLine"]
         }
@@ -1162,9 +1162,9 @@ dataSet[dataSetVersion].characterData = [
     },
 	{
         "name": "譜久村聖",
-        "img": "https://i.imgur.com/Gw9Iasu.jpg"
+        "img": "https://i.imgur.com/nmmRixY.jpg"
         , opts: {
-            subkeyaki: ["mmog"]
+            subkeyaki: ["mmog", "MLine"]
         }
     },
     {
@@ -1190,7 +1190,7 @@ dataSet[dataSetVersion].characterData = [
     },
 	{
         "name": "佐藤優樹",
-        "img": "https://i.imgur.com/PXAxzgy.jpg"
+        "img": "https://i.imgur.com/8KHPlFJ.jpg"
         , opts: {
             subkeyaki: ["mmog", "MLine"]
         }
