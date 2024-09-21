@@ -115,70 +115,70 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Kamikokuryo Moe",
-        "img": "https://i.imgur.com/1IKH9Ev.jpeg"
+        "img": "https://i.imgur.com/jHuTc7A.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "Kawamura Ayano",
-        "img": "https://i.imgur.com/K1woWKq.jpeg"
+        "img": "https://i.imgur.com/8WEZUJa.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "Ise Layla",
-        "img": "https://i.imgur.com/198yrEw.jpeg"
+        "img": "https://i.imgur.com/pF2FcbB.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "Hashisako Rin",
-        "img": "https://i.imgur.com/3Ln73KS.jpeg"
+        "img": "https://i.imgur.com/3QBsdm3.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "Tamenaga Shion",
-        "img": "https://i.imgur.com/55NsIi4.jpeg"
+        "img": "https://i.imgur.com/nsBJYh2.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "Kawana Rin",
-        "img": "https://i.imgur.com/jm00SbH.jpeg"
+        "img": "https://i.imgur.com/OjrYajV.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "Matsumoto Wakana",
-        "img": "https://i.imgur.com/wosDrI6.jpeg"
+        "img": "https://i.imgur.com/wJr1Ule.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
 	{
         "name": "Hirayama Yuki",
-        "img": "https://i.imgur.com/eXFrzo5.jpeg"
+        "img": "https://i.imgur.com/8cQT9ge.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
 	    {
         "name": "Goto Hana",
-        "img": "https://i.imgur.com/xwHKPRM.jpeg"
+        "img": "https://i.imgur.com/VUlzXvn.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
       {
         "name": "Shimoitani Yukiho",
-        "img": "https://i.imgur.com/wBUWoCE.jpeg"
+        "img": "https://i.imgur.com/Iv1s6K6.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
