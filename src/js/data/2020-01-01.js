@@ -115,70 +115,70 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "上國料萌衣",
-        "img": "https://i.imgur.com/1IKH9Ev.jpeg"
+        "img": "https://i.imgur.com/jHuTc7A.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "川村文乃",
-        "img": "https://i.imgur.com/K1woWKq.jpeg"
+        "img": "https://i.imgur.com/8WEZUJa.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "伊勢鈴蘭",
-        "img": "https://i.imgur.com/198yrEw.jpeg"
+        "img": "https://i.imgur.com/pF2FcbB.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "橋迫鈴",
-        "img": "https://i.imgur.com/3Ln73KS.jpeg"
+        "img": "https://i.imgur.com/3QBsdm3.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "為永幸音",
-        "img": "https://i.imgur.com/55NsIi4.jpeg"
+        "img": "https://i.imgur.com/nsBJYh2.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "川名凜",
-        "img": "https://i.imgur.com/jm00SbH.jpeg"
+        "img": "https://i.imgur.com/OjrYajV.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "松本わかな",
-        "img": "https://i.imgur.com/wosDrI6.jpeg"
+        "img": "https://i.imgur.com/wJr1Ule.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
 	{
         "name": "平山遊季",
-        "img": "https://i.imgur.com/eXFrzo5.jpeg"
+        "img": "https://i.imgur.com/8cQT9ge.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
 	    {
         "name": "後藤花",
-        "img": "https://i.imgur.com/xwHKPRM.jpeg"
+        "img": "https://i.imgur.com/VUlzXvn.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
       {
         "name": "下井谷幸穂",
-        "img": "https://i.imgur.com/wBUWoCE.jpeg"
+        "img": "https://i.imgur.com/Iv1s6K6.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
