@@ -32,37 +32,27 @@
             color: #0056b3;
             text-decoration: underline;
         }
-
-        img.draggable {
-            width: 150px;
-            /* Change to desired width */
-            height: 150px;
-            /* Change to desired height */
-        }
         #trash{
             display: none;
         }
     </style>
-
 </head>
 
 <body>
 
     <div class='title'>
-        <h4>Hello! Project Tier Maker</h2>
+        <h4>Morning Musume OG Tier Maker</h2>
             <label class='title-label' for='title-input'>My TierList</label>
             <input type='text' id='title-input' />
     </div>
     <a href='https://ahelloprojectfan.github.io/sorter/index.html' class='gh-link'>Sorter</a>
-
-
-
     <section class='main-content'>
         <div class='tierlist'>
         </div>
         <div class='bottom-container'>
 
             <section class='images'></section>
+
         </div>
     </section>
 
@@ -75,7 +65,7 @@
         };
     </script>
 
-    <script src="https://ahelloprojectfan.github.io/sorter/src/js/data/2020-03-03.js"></script>
+    <script src="https://ahelloprojectfan.github.io/sorter/src/js/data/2020-01-01.js"></script>
 
     <script>
 
@@ -87,7 +77,7 @@
             if (!ele) {
                 continue;
             }
-            if (ele.opts.subkeyaki.includes("aSideList")) {
+            if (ele.opts.subkeyaki.includes("og")) {
 
                 idols.push(
                     {
@@ -109,6 +99,7 @@
 
     </script>
     <div class='bottom-container'>
+
         <div class='buttons-container'>
             <div class='button'>
                 <label for='load-img-input'>
