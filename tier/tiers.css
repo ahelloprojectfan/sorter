@@ -196,3 +196,7 @@ img.draggable.dragged, .button:active {
 #trash:hover {
 	opacity: 1;
 }
+
+.bottom-container{
+	margin-top: 120px;
+}
