@@ -652,13 +652,7 @@ dataSet[dataSetVersion].characterData = [
 
 
 
-            {
-        "name": "Kawano Soara",
-        "img": "https://i.imgur.com/l9SVLf3.jpg"
-        , opts: {
-            subkeyaki: ["kss"]
-        }
-    },
+
 	        {
         "name": "Makino Toa",
         "img": "https://i.imgur.com/U6YMJqc.jpg"
