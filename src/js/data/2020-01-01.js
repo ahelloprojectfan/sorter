@@ -652,13 +652,7 @@ dataSet[dataSetVersion].characterData = [
 
 
    
-            {
-        "name": "河野空愛",
-        "img": "https://i.imgur.com/l9SVLf3.jpg"
-        , opts: {
-            subkeyaki: ["kss"]
-        }
-    },
+
 	        {
         "name": "牧野永愛",
         "img": "https://i.imgur.com/U6YMJqc.jpg"
