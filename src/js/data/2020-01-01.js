@@ -223,7 +223,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "植村あかり",
         "img": "https://i.imgur.com/xd7qqKp.jpg"
         , opts: {
-            subkeyaki: ["ex-jj"]
+            subkeyaki: ["ex-jj", "MLine"]
         }
     },
     {
@@ -433,35 +433,35 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "島倉りか",
-        "img": "https://i.imgur.com/4bnQEj5.jpeg"
+        "img": "https://i.imgur.com/n2mOnRY.jpg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "西田汐里",
-        "img": "https://i.imgur.com/xHxiUpu.jpeg"
+        "img": "https://i.imgur.com/L3qt077.jpg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "江口紗耶",
-        "img": "https://i.imgur.com/x4p6WLr.jpeg"
+        "img": "https://i.imgur.com/2U3ShN0.jpg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "高瀬くるみ",
-        "img": "https://i.imgur.com/X9w3Ug6.jpeg"
+        "img": "https://i.imgur.com/L8Aa7g5.jpg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "前田こころ",
-        "img": "https://i.imgur.com/0SRiyQk.jpeg"
+        "img": "https://i.imgur.com/SAoY759.jpg"
         , opts: {
             subkeyaki: ["by"]
         }
@@ -475,35 +475,35 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "岡村美波",
-        "img": "https://i.imgur.com/1ORyjWA.jpeg"
+        "img": "https://i.imgur.com/z5Z7ZEX.jpg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "清野桃々姫",
-        "img": "https://i.imgur.com/fQmdihV.jpeg"
+        "img": "https://i.imgur.com/DPB6lTm.jpg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "平井美葉",
-        "img": "https://i.imgur.com/vTekrMa.jpeg"
+        "img": "https://i.imgur.com/sfA71EF.jpg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "小林萌花",
-        "img": "https://i.imgur.com/dE0kfPy.jpeg"
+        "img": "https://i.imgur.com/hCjBbcn.jpg"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "里吉うたの",
-        "img": "https://i.imgur.com/zmEYwZH.jpeg"
+        "img": "https://i.imgur.com/Dpgo2uQ.jpg"
         , opts: {
             subkeyaki: ["by"]
         }
