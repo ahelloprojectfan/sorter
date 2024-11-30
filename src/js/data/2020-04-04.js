@@ -124,7 +124,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "Kawamura Ayano",
         "img": "https://i.imgur.com/8WEZUJa.jpg"
         , opts: {
-            subkeyaki: ["angerme"]
+            subkeyaki: ["SnAog"]
         }
     },
     {
