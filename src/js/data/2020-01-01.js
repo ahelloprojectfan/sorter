@@ -13,13 +13,6 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        "name": "石田亜佑美",
-        "img": "https://i.imgur.com/8nbkd0m.jpg"
-        , opts: {
-            subkeyaki: ["mm"]
-        }
-    },
-    {
         "name": "小田さくら",
         "img": "https://i.imgur.com/ZX9JTeW.jpg"
         , opts: {
@@ -1180,6 +1173,13 @@ dataSet[dataSetVersion].characterData = [
         "img": "https://i.imgur.com/3X8Ncz5.jpg"
         , opts: {
             subkeyaki: ["mmog", "MLine"]
+        }
+    },
+	    {
+        "name": "石田亜佑美",
+        "img": "https://i.imgur.com/8nbkd0m.jpg"
+        , opts: {
+            subkeyaki: ["mmog"]
         }
     },
 	{
