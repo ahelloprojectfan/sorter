@@ -1,3 +1,9 @@
+
+const scriptSnow = document.createElement('script');
+scriptSnow.src = "https://ahelloprojectfan.github.io/sorter/src/js/seedrandom.min.js";
+document.body.appendChild(scriptSnow);
+
+
 /** @type {CharData} */
 let characterData = [];   // Initial character data set used.
 /** @type {CharData} */
