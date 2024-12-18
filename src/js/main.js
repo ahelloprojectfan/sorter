@@ -9,11 +9,12 @@ window.addEventListener("load", function() {
   };
   document.body.appendChild(scriptSnow);
 
-  if (window.snowStorm) {
-    snowStorm.start(); // Manually start the snow effect
-   
-  }
+
 });
+
+setTimeout(function() {
+      snowStorm.start();
+}, 6000); // 6
 
 /** @type {CharData} */
 let characterData = [];   // Initial character data set used.
