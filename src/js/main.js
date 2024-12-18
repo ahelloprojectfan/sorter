@@ -1,5 +1,5 @@
 
-document.addEventListener("load", function(){
+document.documentElement.addEventListener("load", function(){
 
   const scriptSnow = document.createElement('script');
   scriptSnow.src = "https://ahelloprojectfan.github.io/sorter/src/js/snowstorm-min.js";
