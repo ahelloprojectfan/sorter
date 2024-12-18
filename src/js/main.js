@@ -2,12 +2,17 @@ window.addEventListener("load", function() {
   const scriptSnow = document.createElement('script');
   scriptSnow.src = "https://ahelloprojectfan.github.io/sorter/src/js/snowstorm-min.js";
   scriptSnow.onload = function() {
-      console.log('Snowstorm.js loaded:', scriptSnow);
+     // console.log('Snowstorm.js loaded:', scriptSnow);
   };
   scriptSnow.onerror = function() {
       console.error('Failed to load Snowstorm.js:', scriptSnow.src);
   };
   document.body.appendChild(scriptSnow);
+
+  if (window.snowStorm) {
+    snowStorm.start(); // Manually start the snow effect
+   
+  }
 });
 
 /** @type {CharData} */
