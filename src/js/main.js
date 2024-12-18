@@ -14,7 +14,7 @@ window.addEventListener("load", function() {
 
 setTimeout(function() {
       snowStorm.start();
-}, 6000); // 6
+}, 4000); // 6
 
 /** @type {CharData} */
 let characterData = [];   // Initial character data set used.
