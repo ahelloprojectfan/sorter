@@ -855,490 +855,504 @@ dataSet[dataSetVersion].characterData = [
         "name": "SaiKIYOU (2024)",
         "img": "https://i.imgur.com/LULEXgb.jpg",
         "opts": {
-            "subkeyaki": ["aSideList"]
+            "subkeyaki": ["aSideList", "24single"]
 	}
 },
 	 {
         "name": "Nandaka Sentimental na Toki no Uta (2024)",
         "img": "https://i.imgur.com/tW7W7xP.jpg",
         "opts": {
-            "subkeyaki": ["aSideList"]
+            "subkeyaki": ["aSideList", "24single"]
 	}
 },
 	{
-        "name": "aMa no Jaku",
+        "name": "aMa no Jaku (2009)",
         "img": "https://i.imgur.com/hvuKxxw.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 	{
-        "name": "Asu wa Date na no ni, Imasugu Koe ga Kikitai",
+        "name": "Asu wa Date na no ni, Imasugu Koe ga Kikitai (2009)",
         "img": "https://i.imgur.com/4016Pyn.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 	{
-        "name": "Suki-chan",
+        "name": "Suki-chan (2009)",
         "img": "https://i.imgur.com/miLlJJg.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 		{
-        "name": "Otona ni Narutte Muzukashii!!!",
+        "name": "Otona ni Narutte Muzukashii!!! (2010)",
         "img": "https://i.imgur.com/prKD8ke.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 		{
-        "name": "Yumemiru Fifteen",
+        "name": "Yumemiru Fifteen (2010)",
         "img": "https://i.imgur.com/T5QMsTi.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 		{
-        "name": "○○ Ganbaranakutemo Eenende!!",
+        "name": "○○ Ganbaranakutemo Eenende!! (2010)",
         "img": "https://i.imgur.com/yS5OMSL.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 	{
-        "name": "Onaji Jikyuu de Hataraku Tomodachi no Bijin Mama",
+        "name": "Onaji Jikyuu de Hataraku Tomodachi no Bijin Mama (2010)",
         "img": "https://i.imgur.com/foVrfrC.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 		{
-        "name": "Short Cut",
+        "name": "Short Cut (2011)",
         "img": "https://i.imgur.com/ATVENmM.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },	
 	{
-        "name": "Koi ni Booing Buu!",
+        "name": "Koi ni Booing Buu! (2011)",
         "img": "https://i.imgur.com/9qL4OCt.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 		{
-        "name": "Uchouten LOVE",
+        "name": "Uchouten LOVE (2011)",
         "img": "https://i.imgur.com/sA6Cfut.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 		{
-        "name": "Tachiagirl",
+        "name": "Tachiagirl (2011)",
         "img": "https://i.imgur.com/k6y2N8r.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 		{
-        "name": "Please Miniskirt Postwoman!",
+        "name": "Please Miniskirt Postwoman! (2011)",
         "img": "https://i.imgur.com/Nf5Bj10.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 		{
-        "name": "Choto Mate Kudasai!",
+        "name": "Choto Mate Kudasai! (2012)",
         "img": "https://i.imgur.com/3w9hU7U.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 	{
-        "name": "Dot Bikini",
+        "name": "Dot Bikini (2012)",
         "img": "https://i.imgur.com/kxOsPBa.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 	{
-        "name": "Suki yo, Junjou Hankouki.",
+        "name": "Suki yo, Junjou Hankouki. (2012)",
         "img": "https://i.imgur.com/c1YnKV1.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 	{
-        "name": "Samui ne.",
+        "name": "Samui ne. (2012)",
         "img": "https://i.imgur.com/xW2MzRX.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 	{
-        "name": "Tabidachi no Haru ga Kita",
+        "name": "Tabidachi no Haru ga Kita (2013)",
         "img": "https://i.imgur.com/LVqUlyD.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 	{
-        "name": "Atarashii Watashi ni Nare! ",
+        "name": "Atarashii Watashi ni Nare! (2013)",
         "img": "https://i.imgur.com/HBQQBy9.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 	{
-        "name": "Yattaruchan",
+        "name": "Yattaruchan (2013)",
         "img": "https://i.imgur.com/nisH7JS.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 	{
-        "name": "Ee ka!?",
+        "name": "Ee ka!? (2013)",
         "img": "https://i.imgur.com/P2fhu8q.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 	{
-        "name": "Ii Yatsu",
+        "name": "Ii Yatsu (2013)",
         "img": "https://i.imgur.com/EG8sUcX.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 	{
-        "name": "Mystery Night!",
+        "name": "Mystery Night! (2014)",
         "img": "https://i.imgur.com/OFSC1Qa.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 	{
-        "name": "Eighteen Emotion",
+        "name": "Eighteen Emotion (2014)",
         "img": "https://i.imgur.com/KJYHbQq.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 	{
-        "name": "Aa Susukino",
+        "name": "Aa Susukino (2014)",
         "img": "https://i.imgur.com/4pIp711.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 	{
-        "name": "Chikyuu wa Kyou mo Ai wo Hagukumu",
+        "name": "Chikyuu wa Kyou mo Ai wo Hagukumu (2014)",
         "img": "https://i.imgur.com/tXMCGeu.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 	{
-        "name": "Taiki Bansei",
+        "name": "Taiki Bansei (2015)",
         "img": "https://i.imgur.com/glpIZH1.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 	{
-        "name": "Otome no Gyakushuu",
+        "name": "Otome no Gyakushuu (2015)",
         "img": "https://i.imgur.com/LmtBEbO.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 	{
-        "name": "Nana Korobi Ya Oki",
+        "name": "Nana Korobi Ya Oki (2015)",
         "img": "https://i.imgur.com/VwZ9q1U.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 	{
-        "name": "Gashin Shoutan",
+        "name": "Gashin Shoutan (2015)",
         "img": "https://i.imgur.com/HFZQ5Gq.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 	{
-        "name": "Mahou Tsukai Sally",
+        "name": "Mahou Tsukai Sally (2015)",
         "img": "https://i.imgur.com/GLXjjBJ.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 	{
-        "name": "Desugita Kui wa Utarenai",
+        "name": "Desugita Kui wa Utarenai (2015)",
         "img": "https://i.imgur.com/QSMyAQi.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 	{
-        "name": "Dondengaeshi",
+        "name": "Dondengaeshi (2015)",
         "img": "https://i.imgur.com/br7IQq7.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },	
 	{
-        "name": "Watashi",
+        "name": "Watashi (2015)",
         "img": "https://i.imgur.com/wUsKG2n.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 	{
-        "name": "Tsugitsugi Zokuzoku",
+        "name": "Tsugitsugi Zokuzoku (2016)",
         "img": "https://i.imgur.com/cuvKELv.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 	{
-        "name": "Itoshima Distance",
+        "name": "Itoshima Distance (2016)",
         "img": "https://i.imgur.com/3g3bgY7.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 	{
-        "name": "Koi Nara Tokku ni Hajimatteru",
+        "name": "Koi Nara Tokku ni Hajimatteru (2016)",
         "img": "https://i.imgur.com/r0R8y7B.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 	{
-        "name": "Umaku Ienai",
+        "name": "Umaku Ienai (2016)",
         "img": "https://i.imgur.com/Al2dkdP.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 	{
-        "name": "Ai no Tame Kyou Made Shinka Shite Kita Ningen Ai no Tame Subete Taika Shite Kita Ningen",
+        "name": "Ai no Tame Kyou Made Shinka Shite Kita Ningen Ai no Tame Subete Taika Shite Kita Ningen (2016)",
         "img": "https://i.imgur.com/ZChgazM.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 	{
-        "name": "Wasurete Ageru",
+        "name": "Wasurete Ageru (2016)",
         "img": "https://i.imgur.com/NFl1yMC.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 	{
-        "name": "Ai Sae Areba Nanni mo Iranai",
+        "name": "Ai Sae Areba Nanni mo Iranai (2017)",
         "img": "https://i.imgur.com/ZAD4SVo.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 	{
-        "name": "Namida Iro no Ketsui",
+        "name": "Namida Iro no Ketsui (2017)",
         "img": "https://i.imgur.com/QPSos7u.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 	{
-        "name": "Majokko Megu-chan",
+        "name": "Majokko Megu-chan (2017)",
         "img": "https://i.imgur.com/sK8UpcD.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 	{
-        "name": "Nakenai ze・・・Kyoukan Sagi",
+        "name": "Nakenai ze・・・Kyoukan Sagi (2018)",
         "img": "https://i.imgur.com/zjRgclk.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 	{
-        "name": "Uraha=Lover",
+        "name": "Uraha=Lover (2018)",
         "img": "https://i.imgur.com/agkVgfv.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 	{
-        "name": "Kimi Dake ja nai sa...friends (2018 Acoustic Ver.)",
+        "name": "Kimi Dake ja nai sa...friends (2018 Acoustic Ver.) (2018)",
         "img": "https://i.imgur.com/7S88tKv.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 	{
-        "name": "Tade Kuu Mushi mo Like it!",
+        "name": "Tade Kuu Mushi mo Like it! (2018)",
         "img": "https://i.imgur.com/2wjJjx5.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 	{
-        "name": "46okunen LOVE",
+        "name": "46okunen LOVE (2018)",
         "img": "https://i.imgur.com/1D6Jw0m.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 	{
-        "name": "Koi wa Accha Accha",
+        "name": "Koi wa Accha Accha (2019)",
         "img": "https://i.imgur.com/GIiVONy.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 	{
-        "name": "Yumemita Fifteen",
+        "name": "Yumemita Fifteen (2019)",
         "img": "https://i.imgur.com/NhfwMs6.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 	{
-        "name": "Watashi wo Tsukuru no wa Watashi",
+        "name": "Watashi wo Tsukuru no wa Watashi (2019)",
         "img": "https://i.imgur.com/ClDLQiu.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 	{
-        "name": "Zenzen Okiagarenai SUNDAY",
+        "name": "Zenzen Okiagarenai SUNDAY (2019)",
         "img": "https://i.imgur.com/2fCbpS6.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 	{
-        "name": "Kagiriaru Moment",
+        "name": "Kagiriaru Moment (2020)",
         "img": "https://i.imgur.com/1TmPHVH.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 	{
-        "name": "Mirror Mirror",
+        "name": "Mirror Mirror (2020)",
         "img": "https://i.imgur.com/O2UcR7q.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 	{
-        "name": "Hakkiri Shiyou ze",
+        "name": "Hakkiri Shiyou ze (2021)",
         "img": "https://i.imgur.com/XraXyY3.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 	{
-        "name": "Oyogenai Mermaid",
+        "name": "Oyogenai Mermaid (2021)",
         "img": "https://i.imgur.com/4a1XCf9.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 	{
-        "name": "Aisare Route A or B?",
+        "name": "Aisare Route A or B? (2021)",
         "img": "https://i.imgur.com/rsoMJwr.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 	{
-        "name": "Ai・Mashou",
+        "name": "Ai・Mashou (2022)",
         "img": "https://i.imgur.com/iDXwUKR.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 	{
-        "name": "Hade ni Yacchai na!",
+        "name": "Hade ni Yacchai na! (2022)",
         "img": "https://i.imgur.com/WcK3HVV.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 	{
-        "name": "Aisubeki Beki Human Life",
+        "name": "Aisubeki Beki Human Life (2022)",
         "img": "https://i.imgur.com/lCtT7tG.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 		{
-        "name": "Kuyashii wa",
+        "name": "Kuyashii wa (2022)",
         "img": "https://i.imgur.com/l2Q2klc.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },	
 	{
-        "name": "Piece of Peace ~Shiawase no Puzzle~",
+        "name": "Piece of Peace ~Shiawase no Puzzle~ (2022)",
         "img": "https://i.imgur.com/b9SoWys.jpg"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 		{
-        "name": "Ai no Kedamono",
+        "name": "Ai no Kedamono (2023)",
         "img": "https://i.imgur.com/y37r2oX.png"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 		{
-        "name": "Dousousei",
+        "name": "Dousousei (2023)",
         "img": "https://i.imgur.com/KlmGjNE.png"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 			{
-        "name": "RED LINE",
+        "name": "RED LINE (2023)",
         "img": "https://i.imgur.com/lEaFOhQ.png"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 			{
-        "name": "Life is Beautiful!",
+        "name": "Life is Beautiful! (2023)",
         "img": "https://i.imgur.com/28bgZe6.png"
         , opts: {
             subkeyaki: ["anjuAside"]
         }
     },
 				{
-        "name": "Bibitaru Ichigeki",
+        "name": "Bibitaru Ichigeki (2024)",
         "img": "https://i.imgur.com/m6IaQpr.jpg"
         , opts: {
-            subkeyaki: ["anjuAside"]
+            subkeyaki: ["anjuAside", "24single"]
         }
     },
 				{
-        "name": "Uwasa no Narushii",
+        "name": "Uwasa no Narushii (2024)",
         "img": "https://i.imgur.com/6qNkt67.jpg"
         , opts: {
-            subkeyaki: ["anjuAside"]
+            subkeyaki: ["anjuAside", "24single"]
         }
     },
 				{
-        "name": "THANK YOU, HELLO GOOD BYE",
+        "name": "THANK YOU, HELLO GOOD BYE (2024)",
         "img": "https://i.imgur.com/aOK8QQ9.jpg"
         , opts: {
-            subkeyaki: ["anjuAside"]
+            subkeyaki: ["anjuAside", "24single"]
+        }
+    },
+					{
+        "name": "Hatsukoi, Hanabie (2024)",
+        "img": "https://i.imgur.com/j8mjHUl.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside", "24single"]
+        }
+    },
+						{
+        "name": "Yuuyuu Kankan gonna be alright!! (2024)",
+        "img": "https://i.imgur.com/n9UfY3S.jpg"
+        , opts: {
+            subkeyaki: ["anjuAside", "24single"]
         }
     },
 		{
@@ -1470,6 +1484,13 @@ dataSet[dataSetVersion].characterData = [
 		{
         "name": "Morning Musume Best Selection ~The 25 Shuunen~",
         "img": "https://i.imgur.com/CgErsEJ.png"
+        , opts: {
+            subkeyaki: ["mmalbum"]
+        }
+    },
+			{
+        "name": "Professionals-17th",
+        "img": "https://i.imgur.com/f8B4g9r.jpg"
         , opts: {
             subkeyaki: ["mmalbum"]
         }
@@ -1765,21 +1786,21 @@ dataSet[dataSetVersion].characterData = [
         "name": "Tokyo Blur (2024)",
         "img": "https://i.imgur.com/T312Q2Y.jpeg"
         , opts: {
-            subkeyaki: ["JJAside"]
+            subkeyaki: ["JJAside", "24single"]
         }
     },			
 	{
         "name": "Naimono Love (2024)",
         "img": "https://i.imgur.com/QGe4O9e.jpeg"
         , opts: {
-            subkeyaki: ["JJAside"]
+            subkeyaki: ["JJAside", "24single"]
         }
     },			
 	{
         "name": "Oaiko (2024)",
         "img": "https://i.imgur.com/kVCNL2b.jpeg"
         , opts: {
-            subkeyaki: ["JJAside"]
+            subkeyaki: ["JJAside", "24single"]
         }
     },
 				{
@@ -2131,6 +2152,69 @@ dataSet[dataSetVersion].characterData = [
         , opts: {
             subkeyaki: ["CuteASide"]
         }
+    },
+	{
+        "name": "Hai to Diamond (2024)",
+        "img": "https://i.imgur.com/I4nHqpJ.jpg"
+        , opts: {
+            subkeyaki: ["24single"]
+        }
+    },
+	{
+        "name": "Go City Go (2024)",
+        "img": "https://i.imgur.com/saPc5Lh.jpg"
+        , opts: {
+            subkeyaki: ["24single"]
+        }
+    },
+		{
+        "name": "Hooke no Housoku (2024)",
+        "img": "https://i.imgur.com/F5nDK1N.jpg"
+        , opts: {
+            subkeyaki: ["24single"]
+        }
+    },
+			{
+        "name": "Baby Spider (2024)",
+        "img": "https://i.imgur.com/AxxH6zy.jpg"
+        , opts: {
+            subkeyaki: ["24single"]
+        }
+    },
+			{
+        "name": "Seishun Exabyte (2024)",
+        "img": "https://i.imgur.com/MNIP7dp.jpg"
+        , opts: {
+            subkeyaki: ["24single"]
+        }
+    },
+			{
+        "name": "Kodou OK? (2024)",
+        "img": "https://i.imgur.com/lR6n2WT.jpg"
+        , opts: {
+            subkeyaki: ["24single"]
+        }
+    },
+			{
+        "name": "Chihayaburu (2024)",
+        "img": "https://i.imgur.com/qE7y6Ql.jpg"
+        , opts: {
+            subkeyaki: ["24single"]
+        }
+    },
+				{
+        "name": "Tomodachi Tentaizu (2024)",
+        "img": "https://i.imgur.com/gRubVHW.jpg"
+        , opts: {
+            subkeyaki: ["24single"]
+        }
+    },
+					{
+        "name": "Come On, Mix! (2024)",
+        "img": "https://i.imgur.com/1XegOkH.jpg"
+        , opts: {
+            subkeyaki: ["24single"]
+        }
     }
 	
     ];
@@ -2143,6 +2227,8 @@ dataSet[dataSetVersion].options = [
         tooltip: 'Check this to restrict to certain group',
         checked: true,
         sub: [
+		
+		{ name: '2024 Singles ', key: '24single' },
             { name: 'Current Groups Sorter ', key: 'cgropus' },
             { name: 'Morning Musume Eras', key: 'mmeras' },
             { name: 'Morning Musume A Side List', key: 'aSideList' },
