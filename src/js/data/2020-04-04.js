@@ -1179,7 +1179,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "Ishida Ayumi",
         "img": "https://i.imgur.com/8nbkd0m.jpg"
         , opts: {
-            subkeyaki: ["mmog"]
+            subkeyaki: ["mmog" "MLine"]
         }
     },
 	{
