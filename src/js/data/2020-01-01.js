@@ -228,70 +228,70 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "井上玲音",
-        "img": "https://i.imgur.com/WUI5xdh.jpg"
+        "img": "https://i.imgur.com/jYflHtW.jpg"
         , opts: {
             subkeyaki: ["jj", "kf"]
         }
     },
     {
         "name": "段原瑠々",
-        "img": "https://i.imgur.com/kPjWaG6.jpg"
+        "img": "https://i.imgur.com/7fjPWGh.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "工藤由愛",
-        "img": "https://i.imgur.com/fgxtG4W.jpeg"
+        "img": "https://i.imgur.com/6OogJNG.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "松永里愛",
-        "img": "https://i.imgur.com/R6JSMPC.jpeg"
+        "img": "https://i.imgur.com/8o7bpK8.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
 	    {
         "name": "有澤一華",
-        "img": "https://i.imgur.com/hV5fZvp.jpeg"
+        "img": "https://i.imgur.com/VDYzK9U.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "入江里咲",
-        "img": "https://i.imgur.com/yL8Gjct.jpeg"
+        "img": "https://i.imgur.com/jlEZE4j.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "江端妃咲",
-        "img": "https://i.imgur.com/EmXqXVv.jpeg"
+        "img": "https://i.imgur.com/CMrjcSA.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "石山咲良",
-        "img": "https://i.imgur.com/qx6fJAN.jpeg"
+        "img": "https://i.imgur.com/nvEMzQx.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
 	    {
         "name": "遠藤彩加里",
-        "img": "https://i.imgur.com/UUaYm7l.jpeg"
+        "img": "https://i.imgur.com/6gJ5nsJ.jpg"
         , opts: {
             subkeyaki: ["jj"]
     }
     },
 	    {
         "name": "川嶋美楓",
-        "img": "https://i.imgur.com/Oe89f9T.jpg"
+        "img": "https://i.imgur.com/ApVMkrl.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
