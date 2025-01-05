@@ -228,70 +228,70 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Inoue Rei",
-        "img": "https://i.imgur.com/WUI5xdh.jpg"
+        "img": "https://i.imgur.com/jYflHtW.jpg"
         , opts: {
             subkeyaki: ["jj", "kf"]
         }
     },
     {
         "name": "Dambara Ruru",
-        "img": "https://i.imgur.com/kPjWaG6.jpg"
+        "img": "https://i.imgur.com/7fjPWGh.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "Kudo Yume",
-        "img": "https://i.imgur.com/fgxtG4W.jpeg"
+        "img": "https://i.imgur.com/6OogJNG.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "Matsunaga Riai",
-        "img": "https://i.imgur.com/R6JSMPC.jpeg"
+        "img": "https://i.imgur.com/8o7bpK8.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },	    
 	    {
         "name": "Arisawa Ichika",
-        "img": "https://i.imgur.com/hV5fZvp.jpeg"
+        "img": "https://i.imgur.com/VDYzK9U.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
 	{
         "name": "Irie Risa",
-        "img": "https://i.imgur.com/yL8Gjct.jpeg"
+        "img": "https://i.imgur.com/jlEZE4j.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
 	{
         "name": "Ebata Kisaki",
-        "img": "https://i.imgur.com/EmXqXVv.jpeg"
+        "img": "https://i.imgur.com/CMrjcSA.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
 	{
         "name": "Ishiyama Sakura",
-        "img": "https://i.imgur.com/qx6fJAN.jpeg"
+        "img": "https://i.imgur.com/nvEMzQx.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
         {
         "name": "Endo Akari",
-        "img": "https://i.imgur.com/UUaYm7l.jpeg"
+        "img": "https://i.imgur.com/6gJ5nsJ.jpg"
         , opts: {
             subkeyaki: ["jj"]
     }
     },
 	    {
         "name": "Kawashima Mifu",
-        "img": "https://i.imgur.com/Oe89f9T.jpg"
+        "img": "https://i.imgur.com/ApVMkrl.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
