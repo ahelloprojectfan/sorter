@@ -9,7 +9,7 @@ dataSet[dataSetVersion].characterData = [
     //singles 
  
     {
-        "name": "Morning Musume '24",
+        "name": "Morning Musume '25",
         "img": "https://i.imgur.com/KnmuisF.png"
         , opts: {
             subkeyaki: ["cgropus"]
@@ -26,7 +26,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Juice=Juice",
-        "img": "https://i.imgur.com/6KJENOd.jpg"
+        "img": "https://i.imgur.com/quvRvLP.jpg"
         , opts: {
             subkeyaki: ["cgropus"]
         }
@@ -42,7 +42,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "BEYOOOOONDS",
-        "img": "https://i.imgur.com/q1Q50yn.png"
+        "img": "https://i.imgur.com/aBs97qC.jpg"
         , opts: {
             subkeyaki: ["cgropus"]
         }
