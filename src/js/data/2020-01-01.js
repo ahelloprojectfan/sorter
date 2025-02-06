@@ -103,7 +103,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "佐々木莉佳子",
         "img": "https://i.imgur.com/iAJWgAN.jpg"
         , opts: {
-            subkeyaki: ["SnAog"]
+            subkeyaki: ["SnAog", "MLine"]
         }
     },
     {
@@ -655,56 +655,119 @@ dataSet[dataSetVersion].characterData = [
     },
 	        {
         "name": "林仁愛",
-        "img": "https://i.imgur.com/bSzSgvb.jpg"
+        "img": "https://i.imgur.com/ysOrD2D.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 			        {
         "name": "浅野優莉花",
-        "img": "https://i.imgur.com/vv9e2yd.jpg"
+        "img": "https://i.imgur.com/cNjk1Sb.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 			        {
         "name": "宮越千尋",
-        "img": "https://i.imgur.com/zviZXHd.jpg"
+        "img": "https://i.imgur.com/PKSnvU6.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 			        {
         "name": "西村乙輝",
-        "img": "https://i.imgur.com/WRSAhV9.jpg"
+        "img": "https://i.imgur.com/0EEAFyc.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 			        {
         "name": "大坪茉乃",
-        "img": "https://i.imgur.com/N5ZtTZg.jpg"
+        "img": "https://i.imgur.com/Qh3FeSR.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 			        {
         "name": "吉田光里",
-        "img": "https://i.imgur.com/PBcgm2M.jpg"
+        "img": "https://i.imgur.com/qL2Vck0.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 			        {
         "name": "杉原明紗",
-        "img": "https://i.imgur.com/sao1xm6.jpg"
+        "img": "https://i.imgur.com/xnCG5vA.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 			        {
         "name": "服部琉愛",
-        "img": "https://i.imgur.com/EA6zFbC.jpg"
+        "img": "https://i.imgur.com/TvemvMo.jpg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+		 {
+        "name": "長野桃羽",
+        "img": "https://i.imgur.com/RVqqGHM.jpeg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+		 {
+        "name": "坂本葵花",
+        "img": "https://i.imgur.com/4lpvsGQ.jpeg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+		 {
+        "name": "鈴木もあ",
+        "img": "https://i.imgur.com/wnnd1lg.jpeg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+		 {
+        "name": "石川華望",
+        "img": "https://i.imgur.com/tsbdivU.jpeg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+		 {
+        "name": "根本花凛",
+        "img": "https://i.imgur.com/WxOp7QA.jpeg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+		 {
+        "name": "宮﨑理帆",
+        "img": "https://i.imgur.com/eXSfipq.jpeg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+		 {
+        "name": "大野愛莉",
+        "img": "https://i.imgur.com/Rg6fIqU.jpeg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+		 {
+        "name": "樋口愛海",
+        "img": "https://i.imgur.com/EqFFD5h.jpeg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+		 {
+        "name": "染谷彩良",
+        "img": "https://i.imgur.com/oEBZkdz.jpeg"
         , opts: {
             subkeyaki: ["kss"]
         }
