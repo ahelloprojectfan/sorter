@@ -579,63 +579,63 @@ dataSet[dataSetVersion].characterData = [
 
 	{
         "name": "松原ユリヤ",
-        "img": "https://i.imgur.com/6gpJAzE.jpg"
+        "img": "https://i.imgur.com/ke1OKXC.jpg"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
     {
         "name": "小野田華凜",
-        "img": "https://i.imgur.com/y8YxZXg.jpg"
+        "img": "https://i.imgur.com/3n0LaDd.jpg"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
     {
         "name": "橋田歩果",
-        "img": "https://i.imgur.com/lKy7r2x.jpg"
+        "img": "https://i.imgur.com/LadpUGS.jpg"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
     {
         "name": "村越彩菜",
-        "img": "https://i.imgur.com/1xxtIeV.jpg"
+        "img": "https://i.imgur.com/53xbL2D.jpg"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
     {
         "name": "植村葉純",
-        "img": "https://i.imgur.com/uawTrJo.jpg"
+        "img": "https://i.imgur.com/6Pi3IVf.jpg"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
      {
         "name": "吉田姫杷",
-        "img": "https://i.imgur.com/zcK4SqP.jpg"
+        "img": "https://i.imgur.com/EyR8Rmu.jpg"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
         {
         "name": "上村麗菜",
-        "img": "https://i.imgur.com/fyUW0dM.jpg"
+        "img": "https://i.imgur.com/NMbmHXQ.jpg"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
      		        {
         "name": "島川波菜",
-        "img": "https://i.imgur.com/2SdWHsT.jpg"
+        "img": "https://i.imgur.com/w8VKpma.jpg"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
 				        {
         "name": "相馬優芽",
-        "img": "https://i.imgur.com/5l7cSBd.jpg"
+        "img": "https://i.imgur.com/PpuvwTV.jpg"
         , opts: {
             subkeyaki: ["rosy"]
         }
