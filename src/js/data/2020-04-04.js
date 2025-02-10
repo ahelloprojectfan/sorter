@@ -579,63 +579,63 @@ dataSet[dataSetVersion].characterData = [
 
     {
         "name": "Matsubara Yulia",
-        "img": "https://i.imgur.com/6gpJAzE.jpg"
+        "img": "https://i.imgur.com/ke1OKXC.jpg"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
     {
         "name": "Onoda Karin",
-        "img": "https://i.imgur.com/y8YxZXg.jpg"
+        "img": "https://i.imgur.com/3n0LaDd.jpg"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
     {
         "name": "Hashida Honoka",
-        "img": "https://i.imgur.com/lKy7r2x.jpg"
+        "img": "https://i.imgur.com/LadpUGS.jpg"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
     {
         "name": "Murakoshi Ayana",
-        "img": "https://i.imgur.com/1xxtIeV.jpg"
+        "img": "https://i.imgur.com/53xbL2D.jpg"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
     {
         "name": "Uemura Hasumi",
-        "img": "https://i.imgur.com/uawTrJo.jpg"
+        "img": "https://i.imgur.com/6Pi3IVf.jpg"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
      {
         "name": "Yoshida Hinoha",
-        "img": "https://i.imgur.com/zcK4SqP.jpg"
+        "img": "https://i.imgur.com/EyR8Rmu.jpg"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
         {
         "name": "Kamimura Rena",
-        "img": "https://i.imgur.com/fyUW0dM.jpg"
+        "img": "https://i.imgur.com/NMbmHXQ.jpg"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
 			        {
         "name": "Shimakawa Hana",
-        "img": "https://i.imgur.com/2SdWHsT.jpg"
+        "img": "https://i.imgur.com/w8VKpma.jpg"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
 				        {
         "name": "Soma Yume",
-        "img": "https://i.imgur.com/5l7cSBd.jpg"
+        "img": "https://i.imgur.com/PpuvwTV.jpg"
         , opts: {
             subkeyaki: ["rosy"]
         }
