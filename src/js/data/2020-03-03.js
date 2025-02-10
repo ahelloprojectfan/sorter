@@ -10,7 +10,7 @@ dataSet[dataSetVersion].characterData = [
  
     {
         "name": "Morning Musume '25",
-        "img": "https://i.imgur.com/KnmuisF.png"
+        "img": "https://i.imgur.com/0o029z2.jpg"
         , opts: {
             subkeyaki: ["cgropus"]
         }
@@ -18,7 +18,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "ANGERME",
-        "img": "https://i.imgur.com/t97FxmJ.jpg"
+        "img": "https://i.imgur.com/C23vhHk.jpg"
         , opts: {
             subkeyaki: ["cgropus"]
         }
@@ -57,7 +57,7 @@ dataSet[dataSetVersion].characterData = [
     },
 		{
         "name": "Rosy Chronicle",
-        "img": "https://i.imgur.com/XJdzc9P.jpg"
+        "img": "https://i.imgur.com/wf08cnD.jpg"
         , opts: {
             subkeyaki: ["cgropus"]
         }
