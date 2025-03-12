@@ -564,7 +564,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "田代すみれ",
         "img": "https://i.imgur.com/mSbmD9e.jpg"
         , opts: {
-            subkeyaki: ["ocha"]
+            subkeyaki: ["exocha"]
         }
     },
     {
@@ -1477,6 +1477,7 @@ dataSet[dataSetVersion].options = [
             { name: 'つばきファクトリー OG', key: 'extf' },
             { name: 'カントリー・ガールズ', key: 'cg' },
 	    { name: 'BEYOOOOONDS OG', key: 'exby' },
+	    { name: 'Ex-OCHA NORMA', key: 'exocha' },
             { name: '℃-ute', key: 'cute' },
             { name: 'Berryz工房', key: 'berryz' },
             { name: 'Buono!', key: 'buono' },
