@@ -564,7 +564,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "Tashiro Sumire",
         "img": "https://i.imgur.com/mSbmD9e.jpg"
         , opts: {
-            subkeyaki: ["ocha"]
+            subkeyaki: ["exocha"]
         }
     },
     {
@@ -1478,6 +1478,7 @@ dataSet[dataSetVersion].options = [
             { name: 'Ex-Tsubaki Factory', key: 'extf' },
             { name: 'Ex-Country Girls', key: 'cg' },
 	    { name: 'Ex-BEYOOOOONDS', key: 'exby' },
+            { name: 'Ex-OCHA NORMA', key: 'exocha' },
             { name: 'Ex-℃-ute', key: 'cute' },
             { name: 'Ex-Berryz Koubou', key: 'berryz' },
             { name: 'Ex-Buono!', key: 'buono' },
