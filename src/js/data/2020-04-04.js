@@ -108,7 +108,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Kamikokuryo Moe",
-        "img": "https://i.imgur.com/jHuTc7A.jpg"
+        "img": "https://i.imgur.com/DsFey4Y.jpeg"
         , opts: {
             subkeyaki: ["angerme"]
         }
@@ -122,56 +122,56 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Ise Layla",
-        "img": "https://i.imgur.com/pF2FcbB.jpg"
+        "img": "https://i.imgur.com/k7tj6tA.jpeg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "Hashisako Rin",
-        "img": "https://i.imgur.com/3QBsdm3.jpg"
+        "img": "https://i.imgur.com/Awwy93r.jpeg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "Tamenaga Shion",
-        "img": "https://i.imgur.com/nsBJYh2.jpg"
+        "img": "https://i.imgur.com/KBQmtKx.jpeg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "Kawana Rin",
-        "img": "https://i.imgur.com/OjrYajV.jpg"
+        "img": "https://i.imgur.com/T36Qc0b.jpeg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "Matsumoto Wakana",
-        "img": "https://i.imgur.com/wJr1Ule.jpg"
+        "img": "https://i.imgur.com/8weToq2.jpeg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
 	{
         "name": "Hirayama Yuki",
-        "img": "https://i.imgur.com/8cQT9ge.jpg"
+        "img": "https://i.imgur.com/QC78Hfh.jpeg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
 	    {
         "name": "Goto Hana",
-        "img": "https://i.imgur.com/VUlzXvn.jpg"
+        "img": "https://i.imgur.com/fy2STPy.jpeg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
       {
         "name": "Shimoitani Yukiho",
-        "img": "https://i.imgur.com/Iv1s6K6.jpg"
+        "img": "https://i.imgur.com/1oBIZvG.jpeg"
         , opts: {
             subkeyaki: ["angerme"]
         }
@@ -557,7 +557,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "Ishiguri Kanami",
         "img": "https://i.imgur.com/lKsgX1Z.jpg"
         , opts: {
-            subkeyaki: ["ocha"]
+            subkeyaki: ["exocha"]
         }
     },
 	    {
