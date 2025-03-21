@@ -18,7 +18,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "ANGERME",
-        "img": "https://i.imgur.com/C23vhHk.jpg"
+        "img": "https://i.imgur.com/V1ya5cO.jpeg"
         , opts: {
             subkeyaki: ["cgropus"]
         }
@@ -50,7 +50,7 @@ dataSet[dataSetVersion].characterData = [
     },
 	{
         "name": "OCHA NORMA",
-        "img": "https://i.imgur.com/62PefJ2.jpg"
+        "img": "https://i.imgur.com/wfvlEpn.jpeg"
         , opts: {
             subkeyaki: ["cgropus"]
         }
