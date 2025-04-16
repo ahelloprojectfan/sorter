@@ -338,7 +338,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "Asakura Kiki",
         "img": "https://i.imgur.com/npZo8hA.png"
         , opts: {
-            subkeyaki: ["extf", "MLine"]
+            subkeyaki: ["extf"]
         }
     },
     {
@@ -1256,7 +1256,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "Kudo Haruka",
         "img": "https://i.imgur.com/BNkPxpt.jpg"
         , opts: {
-            subkeyaki: ["mmog", "MLine"]
+            subkeyaki: ["mmog"]
         }
     },
     {
