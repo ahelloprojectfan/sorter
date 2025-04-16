@@ -338,7 +338,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "浅倉樹々",
         "img": "https://i.imgur.com/npZo8hA.png"
         , opts: {
-            subkeyaki: ["extf", "MLine"]
+            subkeyaki: ["extf"]
         }
     },
     {
@@ -1256,7 +1256,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "工藤遥",
         "img": "https://i.imgur.com/BNkPxpt.jpg"
         , opts: {
-            subkeyaki: ["mmog", "MLine"]
+            subkeyaki: ["mmog"]
         }
     },
     {
