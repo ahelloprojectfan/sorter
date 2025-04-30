@@ -374,7 +374,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "八木栞",
         "img": "https://i.imgur.com/BNR3Fqp.jpeg"
         , opts: {
-            subkeyaki: ["tf"]
+            subkeyaki: ["extf"]
         }
 
     },
