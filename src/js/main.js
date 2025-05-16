@@ -16,8 +16,9 @@ setTimeout(function() {
       snowStorm.start();
 }, 4000); // 6
 
-
-  if (Math.floor(Math.random() * 10) === 0) {
+ var numRandomToBG = Math.floor(Math.random() * 7);
+  console.log(numRandomToBG);
+ if (numRandomToBG === 0) {
     document.body.style.background = "linear-gradient(#c55673, #6b0f1a)";
   }
 /** @type {CharData} */
