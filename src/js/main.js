@@ -17,7 +17,7 @@ setTimeout(function() {
 }, 4000); // 6
 
 
-  if (Math.floor(Math.random() * 50) === 0) {
+  if (Math.floor(Math.random() * 15) === 0) {
     document.body.style.background = "linear-gradient(#c55673, #6b0f1a)";
   }
 /** @type {CharData} */
