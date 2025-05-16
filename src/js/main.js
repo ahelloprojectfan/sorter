@@ -2,8 +2,8 @@ window.addEventListener("load", function() {
   const scriptSnow = document.createElement('script');
   scriptSnow.src = "https://ahelloprojectfan.github.io/sorter/src/js/snowstorm-min.js";
 
-   var numRandomToBG = Math.floor(Math.random() * 7);
-  console.log(numRandomToBG);
+  var numRandomToBG = Math.floor(Math.random() * 7);
+  
  if (numRandomToBG === 0) {
     document.body.style.background = "linear-gradient(#c55673, #6b0f1a)";
   }
