@@ -1355,6 +1355,20 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["anjuAside", "24single"]
         }
     },
+							{
+        "name": "Android wa Yume wo Miru ka? (2025)",
+        "img": "https://i.imgur.com/fWScI2M.jpeg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+								{
+        "name": "Hikari no Uta (2025)",
+        "img": "https://i.imgur.com/B2wXZzA.jpeg"
+        , opts: {
+            subkeyaki: ["anjuAside"]
+        }
+    },
 		{
         "name": "The Best! ~Updated Morning Musume~",
         "img": "https://i.imgur.com/dv2O9jh.jpg"
@@ -1801,6 +1815,20 @@ dataSet[dataSetVersion].characterData = [
         "img": "https://i.imgur.com/kVCNL2b.jpeg"
         , opts: {
             subkeyaki: ["JJAside", "24single"]
+        }
+    },
+									{
+        "name": "Hatsukoi no Bourei (2025)",
+        "img": "https://i.imgur.com/8ROL94u.jpeg"
+        , opts: {
+            subkeyaki: ["JJAside"]
+        }
+    },
+									{
+        "name": "Kon'ya wa Hearty Party (2025)",
+        "img": "https://i.imgur.com/a6xDRyu.jpeg"
+        , opts: {
+            subkeyaki: ["JJAside"]
         }
     },
 				{
