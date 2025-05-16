@@ -1,6 +1,12 @@
 window.addEventListener("load", function() {
   const scriptSnow = document.createElement('script');
   scriptSnow.src = "https://ahelloprojectfan.github.io/sorter/src/js/snowstorm-min.js";
+
+   var numRandomToBG = Math.floor(Math.random() * 7);
+  console.log(numRandomToBG);
+ if (numRandomToBG === 0) {
+    document.body.style.background = "linear-gradient(#c55673, #6b0f1a)";
+  }
   scriptSnow.onload = function() {
      // console.log('Snowstorm.js loaded:', scriptSnow);
   };
@@ -16,11 +22,7 @@ setTimeout(function() {
       snowStorm.start();
 }, 4000); // 6
 
- var numRandomToBG = Math.floor(Math.random() * 7);
-  console.log(numRandomToBG);
- if (numRandomToBG === 0) {
-    document.body.style.background = "linear-gradient(#c55673, #6b0f1a)";
-  }
+
 /** @type {CharData} */
 let characterData = [];   // Initial character data set used.
 /** @type {CharData} */
