@@ -647,13 +647,6 @@ dataSet[dataSetVersion].characterData = [
 
 
 	        {
-        "name": "Makino Toa",
-        "img": "https://i.imgur.com/U6YMJqc.jpg"
-        , opts: {
-            subkeyaki: ["kss"]
-        }
-    },
-	        {
         "name": "Hayashi Niina",
         "img": "https://i.imgur.com/ysOrD2D.jpg"
         , opts: {
@@ -733,6 +726,13 @@ dataSet[dataSetVersion].characterData = [
 		 {
         "name": "Ishikawa Hanano",
         "img": "https://i.imgur.com/tsbdivU.jpeg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+			        {
+        "name": "Aoki Yuna",
+        "img": "https://i.imgur.com/Oc1nh80.jpeg"
         , opts: {
             subkeyaki: ["kss"]
         }
