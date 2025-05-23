@@ -647,13 +647,6 @@ dataSet[dataSetVersion].characterData = [
    
 
 	        {
-        "name": "牧野永愛",
-        "img": "https://i.imgur.com/U6YMJqc.jpg"
-        , opts: {
-            subkeyaki: ["kss"]
-        }
-    },
-	        {
         "name": "林仁愛",
         "img": "https://i.imgur.com/ysOrD2D.jpg"
         , opts: {
@@ -733,6 +726,13 @@ dataSet[dataSetVersion].characterData = [
 		 {
         "name": "石川華望",
         "img": "https://i.imgur.com/tsbdivU.jpeg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+		        {
+        "name": "青木優奈",
+        "img": "https://i.imgur.com/Oc1nh80.jpeg"
         , opts: {
             subkeyaki: ["kss"]
         }
