@@ -428,7 +428,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "島倉りか",
         "img": "https://i.imgur.com/n2mOnRY.jpg"
         , opts: {
-            subkeyaki: ["by"]
+            subkeyaki: ["exby"]
         }
     },
     {
@@ -579,63 +579,63 @@ dataSet[dataSetVersion].characterData = [
 
 	{
         "name": "松原ユリヤ",
-        "img": "https://i.imgur.com/ke1OKXC.jpg"
+        "img": "https://i.imgur.com/VCuFfia.jpg"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
     {
         "name": "小野田華凜",
-        "img": "https://i.imgur.com/3n0LaDd.jpg"
+        "img": "https://i.imgur.com/9zsT5BQ.jpg"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
     {
         "name": "橋田歩果",
-        "img": "https://i.imgur.com/LadpUGS.jpg"
+        "img": "https://i.imgur.com/A0K3lCb.jpg"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
     {
         "name": "村越彩菜",
-        "img": "https://i.imgur.com/53xbL2D.jpg"
+        "img": "https://i.imgur.com/AhOlzLP.jpg"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
     {
         "name": "植村葉純",
-        "img": "https://i.imgur.com/6Pi3IVf.jpg"
+        "img": "https://i.imgur.com/o6UdZsh.jpg"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
      {
         "name": "吉田姫杷",
-        "img": "https://i.imgur.com/EyR8Rmu.jpg"
+        "img": "https://i.imgur.com/ce6DTRA.jpg"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
         {
         "name": "上村麗菜",
-        "img": "https://i.imgur.com/NMbmHXQ.jpg"
+        "img": "https://i.imgur.com/cX4ZJsT.jpg"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
      		        {
         "name": "島川波菜",
-        "img": "https://i.imgur.com/w8VKpma.jpg"
+        "img": "https://i.imgur.com/dGmmNLh.jpg"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
 				        {
         "name": "相馬優芽",
-        "img": "https://i.imgur.com/PpuvwTV.jpg"
+        "img": "https://i.imgur.com/masSaqv.jpg"
         , opts: {
             subkeyaki: ["rosy"]
         }
