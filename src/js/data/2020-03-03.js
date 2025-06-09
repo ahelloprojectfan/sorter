@@ -865,6 +865,20 @@ dataSet[dataSetVersion].characterData = [
             "subkeyaki": ["aSideList", "24single"]
 	}
 },
+		 {
+        "name": "Ki ni Naru Sono Ki no Uta (2025)",
+        "img": "https://i.imgur.com/f1NV3G2.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+	}
+},
+			 {
+        "name": "Akaruku Ii Ko (2025)",
+        "img": "https://i.imgur.com/dxpGQAj.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList"]
+	}
+},
 	{
         "name": "aMa no Jaku (2009)",
         "img": "https://i.imgur.com/hvuKxxw.jpg"
