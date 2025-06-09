@@ -428,7 +428,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "Shimakura Rika",
         "img": "https://i.imgur.com/n2mOnRY.jpg"
         , opts: {
-            subkeyaki: ["by"]
+            subkeyaki: ["exby"]
         }
     },
     {
@@ -579,63 +579,63 @@ dataSet[dataSetVersion].characterData = [
 
     {
         "name": "Matsubara Yulia",
-        "img": "https://i.imgur.com/ke1OKXC.jpg"
+        "img": "https://i.imgur.com/VCuFfia.jpg"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
     {
         "name": "Onoda Karin",
-        "img": "https://i.imgur.com/3n0LaDd.jpg"
+        "img": "https://i.imgur.com/9zsT5BQ.jpg"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
     {
         "name": "Hashida Honoka",
-        "img": "https://i.imgur.com/LadpUGS.jpg"
+        "img": "https://i.imgur.com/A0K3lCb.jpg"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
     {
         "name": "Murakoshi Ayana",
-        "img": "https://i.imgur.com/53xbL2D.jpg"
+        "img": "https://i.imgur.com/AhOlzLP.jpg"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
     {
         "name": "Uemura Hasumi",
-        "img": "https://i.imgur.com/6Pi3IVf.jpg"
+        "img": "https://i.imgur.com/o6UdZsh.jpg"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
      {
         "name": "Yoshida Hinoha",
-        "img": "https://i.imgur.com/EyR8Rmu.jpg"
+        "img": "https://i.imgur.com/ce6DTRA.jpg"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
         {
         "name": "Kamimura Rena",
-        "img": "https://i.imgur.com/NMbmHXQ.jpg"
+        "img": "https://i.imgur.com/cX4ZJsT.jpg"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
 			        {
         "name": "Shimakawa Hana",
-        "img": "https://i.imgur.com/w8VKpma.jpg"
+        "img": "https://i.imgur.com/dGmmNLh.jpg"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
 				        {
         "name": "Soma Yume",
-        "img": "https://i.imgur.com/PpuvwTV.jpg"
+        "img": "https://i.imgur.com/masSaqv.jpg"
         , opts: {
             subkeyaki: ["rosy"]
         }
