@@ -110,7 +110,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "Kamikokuryo Moe",
         "img": "https://i.imgur.com/DsFey4Y.jpeg"
         , opts: {
-            subkeyaki: ["angerme"]
+            subkeyaki: ["SnAog"]
         }
     },
     {
