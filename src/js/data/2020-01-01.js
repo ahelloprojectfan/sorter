@@ -110,7 +110,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "上國料萌衣",
         "img": "https://i.imgur.com/DsFey4Y.jpeg"
         , opts: {
-            subkeyaki: ["angerme"]
+            subkeyaki: ["SnAog"]
         }
     },
     {
