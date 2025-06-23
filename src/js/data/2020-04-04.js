@@ -296,6 +296,13 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["jj"]
         }
     },
+		        {
+        "name": "Hayashi Niina",
+        "img": "https://i.imgur.com/zriuiyL.jpeg"
+        , opts: {
+            subkeyaki: ["jj"]
+        }
+    },
 	
     //Tsubaki Factory
 
@@ -646,13 +653,7 @@ dataSet[dataSetVersion].characterData = [
 
 
 
-	        {
-        "name": "Hayashi Niina",
-        "img": "https://i.imgur.com/ysOrD2D.jpg"
-        , opts: {
-            subkeyaki: ["kss"]
-        }
-    },
+
 			        {
         "name": "Asano Yurika",
         "img": "https://i.imgur.com/cNjk1Sb.jpg"
