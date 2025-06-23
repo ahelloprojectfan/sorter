@@ -296,7 +296,14 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["jj"]
         }
     },
-
+	        {
+        "name": "林仁愛",
+        "img": "https://i.imgur.com/zriuiyL.jpeg"
+        , opts: {
+            subkeyaki: ["jj"]
+        }
+    },
+	
     //Tsubaki Factory
 
     {
@@ -646,13 +653,7 @@ dataSet[dataSetVersion].characterData = [
 
    
 
-	        {
-        "name": "林仁愛",
-        "img": "https://i.imgur.com/ysOrD2D.jpg"
-        , opts: {
-            subkeyaki: ["kss"]
-        }
-    },
+
 			        {
         "name": "浅野優莉花",
         "img": "https://i.imgur.com/cNjk1Sb.jpg"
