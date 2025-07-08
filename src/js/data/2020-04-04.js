@@ -4,15 +4,9 @@ dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].characterData = [
 
-
-    {
-        "name": "Ikuta Erina",
-        "img": "https://i.imgur.com/EcmGB9w.jpeg"
-        , opts: {
-            subkeyaki: ["mm"]
-        }
-    },
-    {
+   
+	
+	{
         "name": "Oda Sakura",
         "img": "https://i.imgur.com/8SKcCMT.jpeg"
         , opts: {
@@ -1216,6 +1210,13 @@ dataSet[dataSetVersion].characterData = [
         "img": "https://i.imgur.com/nmmRixY.jpg"
         , opts: {
             subkeyaki: ["mmog", "MLine"]
+        }
+    },
+    {
+        "name": "Ikuta Erina",
+        "img": "https://i.imgur.com/EcmGB9w.jpeg"
+        , opts: {
+            subkeyaki: ["mmog"]
         }
     },
     {
