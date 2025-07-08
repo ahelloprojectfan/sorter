@@ -5,13 +5,7 @@ dataSet[dataSetVersion] = {};
 dataSet[dataSetVersion].characterData = [
 
     
-    {
-        "name": "生田衣梨奈",
-        "img": "https://i.imgur.com/EcmGB9w.jpeg"
-        , opts: {
-            subkeyaki: ["mm"]
-        }
-    },
+
     {
         "name": "小田さくら",
         "img": "https://i.imgur.com/8SKcCMT.jpeg"
@@ -1186,6 +1180,13 @@ dataSet[dataSetVersion].characterData = [
     {
         "name": "久住小春",
         "img": "https://i.imgur.com/hMrxapF.jpg"
+        , opts: {
+            subkeyaki: ["mmog"]
+        }
+    },
+	    {
+        "name": "生田衣梨奈",
+        "img": "https://i.imgur.com/EcmGB9w.jpeg"
         , opts: {
             subkeyaki: ["mmog"]
         }
