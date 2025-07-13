@@ -10,7 +10,7 @@ dataSet[dataSetVersion].characterData = [
  
     {
         "name": "Morning Musume '25",
-        "img": "https://i.imgur.com/0o029z2.jpg"
+        "img": "https://i.imgur.com/PWbzJ7H.jpg"
         , opts: {
             subkeyaki: ["cgropus"]
         }
@@ -18,7 +18,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "ANGERME",
-        "img": "https://i.imgur.com/V1ya5cO.jpeg"
+        "img": "https://i.imgur.com/XsVPRs0.jpg"
         , opts: {
             subkeyaki: ["cgropus"]
         }
@@ -34,7 +34,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Tsubaki Factory",
-        "img": "https://i.imgur.com/E7CQqhV.jpg"
+        "img": "https://i.imgur.com/BpuhPuA.jpg"
         , opts: {
             subkeyaki: ["cgropus"]
         }
@@ -42,7 +42,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "BEYOOOOONDS",
-        "img": "https://i.imgur.com/aBs97qC.jpg"
+        "img": "https://i.imgur.com/lUCRrM2.jpg"
         , opts: {
             subkeyaki: ["cgropus"]
         }
@@ -50,7 +50,7 @@ dataSet[dataSetVersion].characterData = [
     },
 	{
         "name": "OCHA NORMA",
-        "img": "https://i.imgur.com/wfvlEpn.jpeg"
+        "img": "https://i.imgur.com/NCoXz1K.jpg"
         , opts: {
             subkeyaki: ["cgropus"]
         }
