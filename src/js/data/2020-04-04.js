@@ -507,49 +507,49 @@ dataSet[dataSetVersion].characterData = [
 	
 	 {
         "name": "Yonemura Kirara",
-        "img": "https://i.imgur.com/CvkcWcT.jpg"
+        "img": "https://i.imgur.com/iNzABR6.jpg"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
     {
         "name": "Nakayama Natsume",
-        "img": "https://i.imgur.com/LJIMtyD.jpg"
+        "img": "https://i.imgur.com/ZAKas2k.jpg"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
     {
         "name": "Kubota Nanami",
-        "img": "https://i.imgur.com/CCZuwTr.jpg"
+        "img": "https://i.imgur.com/CqmhfRN.jpg"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
     {
         "name": "Saito Madoka",
-        "img": "https://i.imgur.com/zm1oI6p.jpg"
+        "img": "https://i.imgur.com/aFrpZxE.jpg"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
 {
         "name": "Hiromoto Ruli",
-        "img": "https://i.imgur.com/uiSt38g.jpg"
+        "img": "https://i.imgur.com/d62N6Ez.jpg"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
 	    {
         "name": "Nishizaki Miku",
-        "img": "https://i.imgur.com/BpPzDsC.jpg"
+        "img": "https://i.imgur.com/d7BSlmE.jpg"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
     {
         "name": "Kitahara Momo",
-        "img": "https://i.imgur.com/WBRR0bO.jpg"
+        "img": "https://i.imgur.com/wOWKafR.jpg"
         , opts: {
             subkeyaki: ["ocha"]
         }
@@ -570,7 +570,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Tsutsui Roko",
-        "img": "https://i.imgur.com/tiqWjci.jpg"
+        "img": "https://i.imgur.com/boutmZ9.jpg"
         , opts: {
             subkeyaki: ["ocha"]
         }
