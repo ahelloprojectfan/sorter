@@ -299,7 +299,7 @@ dataSet[dataSetVersion].characterData = [
     },
 		        {
         "name": "Hayashi Niina",
-        "img": "https://i.imgur.com/zriuiyL.jpeg"
+        "img": "https://i.imgur.com/ACtUff9.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
