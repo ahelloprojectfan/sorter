@@ -170,6 +170,13 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["angerme"]
         }
     },
+		 {
+        "name": "Nagano Momoha",
+        "img": "https://i.imgur.com/RVqqGHM.jpeg"
+        , opts: {
+            subkeyaki: ["angerme"]
+        }
+    },
     //Juice=Juice
     {
         "name": "Kanazawa Tomoko",
@@ -222,70 +229,70 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Inoue Rei",
-        "img": "https://i.imgur.com/jYflHtW.jpg"
+        "img": "https://i.imgur.com/2sEn89h.jpg"
         , opts: {
             subkeyaki: ["jj", "kf"]
         }
     },
     {
         "name": "Dambara Ruru",
-        "img": "https://i.imgur.com/7fjPWGh.jpg"
+        "img": "https://i.imgur.com/oFt15NV.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "Kudo Yume",
-        "img": "https://i.imgur.com/6OogJNG.jpg"
+        "img": "https://i.imgur.com/a71q6iR.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "Matsunaga Riai",
-        "img": "https://i.imgur.com/8o7bpK8.jpg"
+        "img": "https://i.imgur.com/FbfN3kO.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },	    
 	    {
         "name": "Arisawa Ichika",
-        "img": "https://i.imgur.com/VDYzK9U.jpg"
+        "img": "https://i.imgur.com/QHXJwGs.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
 	{
         "name": "Irie Risa",
-        "img": "https://i.imgur.com/jlEZE4j.jpg"
+        "img": "https://i.imgur.com/QGeR4CD.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
 	{
         "name": "Ebata Kisaki",
-        "img": "https://i.imgur.com/CMrjcSA.jpg"
+        "img": "https://i.imgur.com/6LjbFVD.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
 	{
         "name": "Ishiyama Sakura",
-        "img": "https://i.imgur.com/nvEMzQx.jpg"
+        "img": "https://i.imgur.com/FyPGFdm.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
         {
         "name": "Endo Akari",
-        "img": "https://i.imgur.com/6gJ5nsJ.jpg"
+        "img": "https://i.imgur.com/YDVbCAN.jpg"
         , opts: {
             subkeyaki: ["jj"]
     }
     },
 	    {
         "name": "Kawashima Mifu",
-        "img": "https://i.imgur.com/ApVMkrl.jpg"
+        "img": "https://i.imgur.com/4BQjsnc.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
@@ -411,6 +418,13 @@ dataSet[dataSetVersion].characterData = [
 		    {
         "name": "Doi Fuka",
         "img": "https://i.imgur.com/xN6GuB1.jpeg"
+        , opts: {
+            subkeyaki: ["tf"]
+        }
+    },
+				        {
+        "name": "Nishumura Itsuki",
+        "img": "https://i.imgur.com/0EEAFyc.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
@@ -663,13 +677,6 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 			        {
-        "name": "Nishumura Itsuki",
-        "img": "https://i.imgur.com/0EEAFyc.jpg"
-        , opts: {
-            subkeyaki: ["kss"]
-        }
-    },
-			        {
         "name": "Otsubo Mano",
         "img": "https://i.imgur.com/Qh3FeSR.jpg"
         , opts: {
@@ -693,13 +700,6 @@ dataSet[dataSetVersion].characterData = [
 			        {
         "name": "Hattori Rua",
         "img": "https://i.imgur.com/TvemvMo.jpg"
-        , opts: {
-            subkeyaki: ["kss"]
-        }
-    },
-	 {
-        "name": "Nagano Momoha",
-        "img": "https://i.imgur.com/RVqqGHM.jpeg"
         , opts: {
             subkeyaki: ["kss"]
         }
