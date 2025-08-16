@@ -170,6 +170,13 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["angerme"]
         }
     },
+			 {
+        "name": "長野桃羽",
+        "img": "https://i.imgur.com/RVqqGHM.jpeg"
+        , opts: {
+            subkeyaki: ["angerme"]
+        }
+    },
     //Juice=Juice
     {
         "name": "金澤朋子",
@@ -222,77 +229,77 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "井上玲音",
-        "img": "https://i.imgur.com/jYflHtW.jpg"
+        "img": "https://i.imgur.com/2sEn89h.jpg"
         , opts: {
             subkeyaki: ["jj", "kf"]
         }
     },
     {
         "name": "段原瑠々",
-        "img": "https://i.imgur.com/7fjPWGh.jpg"
+        "img": "https://i.imgur.com/oFt15NV.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "工藤由愛",
-        "img": "https://i.imgur.com/6OogJNG.jpg"
+        "img": "https://i.imgur.com/a71q6iR.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "松永里愛",
-        "img": "https://i.imgur.com/8o7bpK8.jpg"
+        "img": "https://i.imgur.com/FbfN3kO.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
 	    {
         "name": "有澤一華",
-        "img": "https://i.imgur.com/VDYzK9U.jpg"
+        "img": "https://i.imgur.com/QHXJwGs.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "入江里咲",
-        "img": "https://i.imgur.com/jlEZE4j.jpg"
+        "img": "https://i.imgur.com/QGeR4CD.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "江端妃咲",
-        "img": "https://i.imgur.com/CMrjcSA.jpg"
+        "img": "https://i.imgur.com/6LjbFVD.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "石山咲良",
-        "img": "https://i.imgur.com/nvEMzQx.jpg"
+        "img": "https://i.imgur.com/FyPGFdm.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
 	    {
         "name": "遠藤彩加里",
-        "img": "https://i.imgur.com/6gJ5nsJ.jpg"
+        "img": "https://i.imgur.com/YDVbCAN.jpg"
         , opts: {
             subkeyaki: ["jj"]
     }
     },
 	    {
         "name": "川嶋美楓",
-        "img": "https://i.imgur.com/ApVMkrl.jpg"
+        "img": "https://i.imgur.com/4BQjsnc.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
 	        {
         "name": "林仁愛",
-        "img": "https://i.imgur.com/zriuiyL.jpeg"
+        "img": "https://i.imgur.com/ACtUff9.jpg"
         , opts: {
             subkeyaki: ["jj"]
         }
@@ -411,6 +418,13 @@ dataSet[dataSetVersion].characterData = [
 		    {
         "name": "土居楓奏",
         "img": "https://i.imgur.com/xN6GuB1.jpeg"
+        , opts: {
+            subkeyaki: ["tf"]
+        }
+    },
+				        {
+        "name": "西村乙輝",
+        "img": "https://i.imgur.com/0EEAFyc.jpg"
         , opts: {
             subkeyaki: ["tf"]
         }
@@ -663,13 +677,6 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 			        {
-        "name": "西村乙輝",
-        "img": "https://i.imgur.com/0EEAFyc.jpg"
-        , opts: {
-            subkeyaki: ["kss"]
-        }
-    },
-			        {
         "name": "大坪茉乃",
         "img": "https://i.imgur.com/Qh3FeSR.jpg"
         , opts: {
@@ -693,13 +700,6 @@ dataSet[dataSetVersion].characterData = [
 			        {
         "name": "服部琉愛",
         "img": "https://i.imgur.com/TvemvMo.jpg"
-        , opts: {
-            subkeyaki: ["kss"]
-        }
-    },
-		 {
-        "name": "長野桃羽",
-        "img": "https://i.imgur.com/RVqqGHM.jpeg"
         , opts: {
             subkeyaki: ["kss"]
         }
