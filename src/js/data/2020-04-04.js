@@ -661,15 +661,8 @@ dataSet[dataSetVersion].characterData = [
 
 
 
-
-			        {
-        "name": "Asano Yurika",
-        "img": "https://i.imgur.com/cNjk1Sb.jpg"
-        , opts: {
-            subkeyaki: ["kss"]
-        }
-    },
-			        {
+			      
+	{
         "name": "Miyakoshi Chihiro",
         "img": "https://i.imgur.com/PKSnvU6.jpg"
         , opts: {
