@@ -663,13 +663,6 @@ dataSet[dataSetVersion].characterData = [
 
 
 			        {
-        "name": "浅野優莉花",
-        "img": "https://i.imgur.com/cNjk1Sb.jpg"
-        , opts: {
-            subkeyaki: ["kss"]
-        }
-    },
-			        {
         "name": "宮越千尋",
         "img": "https://i.imgur.com/PKSnvU6.jpg"
         , opts: {
