@@ -116,63 +116,63 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Ise Layla",
-        "img": "https://i.imgur.com/k7tj6tA.jpeg"
+        "img": "https://i.imgur.com/TANTTgw.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "Hashisako Rin",
-        "img": "https://i.imgur.com/Awwy93r.jpeg"
+        "img": "https://i.imgur.com/6mD7Tre.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "Tamenaga Shion",
-        "img": "https://i.imgur.com/KBQmtKx.jpeg"
+        "img": "https://i.imgur.com/QxeuW8u.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "Kawana Rin",
-        "img": "https://i.imgur.com/T36Qc0b.jpeg"
+        "img": "https://i.imgur.com/lWy7s5n.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "Matsumoto Wakana",
-        "img": "https://i.imgur.com/8weToq2.jpeg"
+        "img": "https://i.imgur.com/B1j2DhE.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
 	{
         "name": "Hirayama Yuki",
-        "img": "https://i.imgur.com/QC78Hfh.jpeg"
+        "img": "https://i.imgur.com/pwrlysh.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
 	    {
         "name": "Goto Hana",
-        "img": "https://i.imgur.com/fy2STPy.jpeg"
+        "img": "https://i.imgur.com/havDSZt.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
       {
         "name": "Shimoitani Yukiho",
-        "img": "https://i.imgur.com/1oBIZvG.jpeg"
+        "img": "https://i.imgur.com/YAbFzmT.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
 		 {
         "name": "Nagano Momoha",
-        "img": "https://i.imgur.com/RVqqGHM.jpeg"
+        "img": "https://i.imgur.com/CSbD0VP.jpg"
         , opts: {
             subkeyaki: ["angerme"]
         }
@@ -1160,7 +1160,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "Michishige Sayumi",
         "img": "https://i.imgur.com/3H0nenI.jpg"
         , opts: {
-            subkeyaki: ["mmog", "MLine"]
+            subkeyaki: ["mmog"]
         }
     },
     {
