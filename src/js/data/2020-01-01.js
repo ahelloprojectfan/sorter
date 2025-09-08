@@ -664,98 +664,98 @@ dataSet[dataSetVersion].characterData = [
 
 			        {
         "name": "宮越千尋",
-        "img": "https://i.imgur.com/PKSnvU6.jpg"
+        "img": "https://i.imgur.com/9ll4QvW.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 			        {
         "name": "大坪茉乃",
-        "img": "https://i.imgur.com/Qh3FeSR.jpg"
+        "img": "https://i.imgur.com/MzKd40L.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 			        {
         "name": "吉田光里",
-        "img": "https://i.imgur.com/qL2Vck0.jpg"
+        "img": "https://i.imgur.com/yfnjEMB.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 			        {
         "name": "杉原明紗",
-        "img": "https://i.imgur.com/xnCG5vA.jpg"
+        "img": "https://i.imgur.com/nxe7Gvu.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 			        {
         "name": "服部琉愛",
-        "img": "https://i.imgur.com/TvemvMo.jpg"
+        "img": "https://i.imgur.com/etkkmDY.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 		 {
         "name": "坂本葵花",
-        "img": "https://i.imgur.com/4lpvsGQ.jpeg"
+        "img": "https://i.imgur.com/u8ecwqc.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 		 {
         "name": "鈴木もあ",
-        "img": "https://i.imgur.com/wnnd1lg.jpeg"
+        "img": "https://i.imgur.com/b5VjHoO.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 		 {
         "name": "石川華望",
-        "img": "https://i.imgur.com/tsbdivU.jpeg"
+        "img": "https://i.imgur.com/SjK9GLP.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 		        {
         "name": "青木優奈",
-        "img": "https://i.imgur.com/Oc1nh80.jpeg"
+        "img": "https://i.imgur.com/5wOGOhq.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 		 {
         "name": "根本花凛",
-        "img": "https://i.imgur.com/WxOp7QA.jpeg"
+        "img": "https://i.imgur.com/XPbDpyk.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 		 {
         "name": "宮﨑理帆",
-        "img": "https://i.imgur.com/eXSfipq.jpeg"
+        "img": "https://i.imgur.com/PcoHqeY.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 		 {
         "name": "大野愛莉",
-        "img": "https://i.imgur.com/Rg6fIqU.jpeg"
+        "img": "https://i.imgur.com/0U6dyS9.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 		 {
         "name": "樋口愛海",
-        "img": "https://i.imgur.com/EqFFD5h.jpeg"
+        "img": "https://i.imgur.com/qckFO1w.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 		 {
         "name": "染谷彩良",
-        "img": "https://i.imgur.com/oEBZkdz.jpeg"
+        "img": "https://i.imgur.com/98qjnU6.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
