@@ -28,20 +28,6 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        "name": "Haga Akane",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/f/f2/Portal_Haga_Akane.jpg"
-        , opts: {
-            subkeyaki: ["mm"]
-        }
-    },
-    {
-        "name": "Yokoyama Reina",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/f/fa/Portal_Yokoyama_Reina.jpg"
-        , opts: {
-            subkeyaki: ["mm"]
-        }
-    },
-    {
         "name": "Kitagawa Rio",
         "img": "https://static.wikia.nocookie.net/helloproject/images/4/4b/Portal_Kitagawa_Rio.jpg"
         , opts: {
@@ -1261,9 +1247,23 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["mmog"]
         }
     },
+	    {
+        "name": "Haga Akane",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/f/f2/Portal_Haga_Akane.jpg"
+        , opts: {
+            subkeyaki: ["mmog"]
+        }
+    },
 	{
         "name": "Kaga Kaede",
         "img": "https://static.wikia.nocookie.net/helloproject/images/d/d8/KagaKaede-Feb2023.jpg"
+        , opts: {
+            subkeyaki: ["mmog"]
+        }
+    },
+	    {
+        "name": "Yokoyama Reina",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/f/fa/Portal_Yokoyama_Reina.jpg"
         , opts: {
             subkeyaki: ["mmog"]
         }
