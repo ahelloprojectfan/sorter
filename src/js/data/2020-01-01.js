@@ -28,20 +28,6 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        "name": "羽賀朱音",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/f/f2/Portal_Haga_Akane.jpg"
-        , opts: {
-            subkeyaki: ["mm"]
-        }
-    },
-    {
-        "name": "横山玲奈",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/f/fa/Portal_Yokoyama_Reina.jpg"
-        , opts: {
-            subkeyaki: ["mm"]
-        }
-    },
-    {
         "name": "北川莉央",
         "img": "https://static.wikia.nocookie.net/helloproject/images/4/4b/Portal_Kitagawa_Rio.jpg"
         , opts: {
@@ -1261,9 +1247,23 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["mmog"]
         }
     },
+	    {
+        "name": "羽賀朱音",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/f/f2/Portal_Haga_Akane.jpg"
+        , opts: {
+            subkeyaki: ["mmog"]
+        }
+    },
 	{
         "name": "加賀楓",
         "img": "https://static.wikia.nocookie.net/helloproject/images/d/d8/KagaKaede-Feb2023.jpg"
+        , opts: {
+            subkeyaki: ["mmog"]
+        }
+    },
+	    {
+        "name": "横山玲奈",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/f/fa/Portal_Yokoyama_Reina.jpg"
         , opts: {
             subkeyaki: ["mmog"]
         }
