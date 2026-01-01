@@ -28,13 +28,6 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        "name": "北川莉央",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/4/4b/Portal_Kitagawa_Rio.jpg"
-        , opts: {
-            subkeyaki: ["mm"]
-        }
-    },
-    {
         "name": "岡村ほまれ",
         "img": "https://static.wikia.nocookie.net/helloproject/images/a/ac/Portal_Okamura_Homare.jpg"
         , opts: {
@@ -1273,6 +1266,13 @@ dataSet[dataSetVersion].characterData = [
         "img": "https://static.wikia.nocookie.net/helloproject/images/1/17/MoritoChisaki-July2025.jpg"
         , opts: {
             subkeyaki: ["mmog", "cg", "MLine"]
+        }
+    },
+	    {
+        "name": "北川莉央",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/4/4b/Portal_Kitagawa_Rio.jpg"
+        , opts: {
+            subkeyaki: ["mm"]
         }
     },
 
