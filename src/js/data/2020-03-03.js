@@ -9,7 +9,7 @@ dataSet[dataSetVersion].characterData = [
     //singles 
  
     {
-        "name": "Morning Musume '25",
+        "name": "Morning Musume '26",
         "img": "https://static.wikia.nocookie.net/helloproject/images/3/30/Portal_Morning_Musume.jpg",
         "opts": {
             subkeyaki: ["cgropus"]
