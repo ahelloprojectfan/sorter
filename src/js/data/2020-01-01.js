@@ -1272,7 +1272,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "北川莉央",
         "img": "https://static.wikia.nocookie.net/helloproject/images/4/4b/Portal_Kitagawa_Rio.jpg"
         , opts: {
-            subkeyaki: ["mm"]
+            subkeyaki: ["mmog"]
         }
     },
 
