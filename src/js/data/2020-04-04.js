@@ -325,7 +325,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "Asakura Kiki",
         "img": "https://static.wikia.nocookie.net/helloproject/images/2/2a/AsakuraKiki-July2023.jpg"
         , opts: {
-            subkeyaki: ["extf"]
+            subkeyaki: ["extf", "MLine"]
         }
     },
     {
