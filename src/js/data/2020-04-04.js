@@ -62,6 +62,13 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["mm"]
         }
     },
+				        {
+        "name": "Sugihara Meisa",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/2/2b/Portal_Sugihara_Meisa.jpg"
+        , opts: {
+            subkeyaki: ["mm"]
+        }
+    },
 
     // Angerme
 
@@ -658,13 +665,6 @@ dataSet[dataSetVersion].characterData = [
 			        {
         "name": "Yoshida Hikari",
         "img": "https://static.wikia.nocookie.net/helloproject/images/f/f3/Portal_Yoshida_Hikari.jpg"
-        , opts: {
-            subkeyaki: ["kss"]
-        }
-    },
-			        {
-        "name": "Sugihara Meisa",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/2/2b/Portal_Sugihara_Meisa.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
