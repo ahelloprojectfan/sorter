@@ -62,6 +62,13 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["mm"]
         }
     },
+				        {
+        "name": "杉原明紗",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/2/2b/Portal_Sugihara_Meisa.jpg"
+        , opts: {
+            subkeyaki: ["mm"]
+        }
+    },
 
     // Angerme
 
@@ -658,13 +665,6 @@ dataSet[dataSetVersion].characterData = [
 			        {
         "name": "吉田光里",
         "img": "https://static.wikia.nocookie.net/helloproject/images/f/f3/Portal_Yoshida_Hikari.jpg"
-        , opts: {
-            subkeyaki: ["kss"]
-        }
-    },
-			        {
-        "name": "杉原明紗",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/2/2b/Portal_Sugihara_Meisa.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
