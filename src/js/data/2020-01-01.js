@@ -739,6 +739,69 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["kss"]
         }
     },
+				        {
+        "name": "鈴木琴美",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/0/00/Portal_Suzuki_Kotomi.jpg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+				        {
+        "name": "斎藤ゆり夏",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/a/a6/Portal_Saito_Yurika.jpg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+				        {
+        "name": "岸田桃果",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/9/9d/Portal_Kishida_Momoka.jpg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+				        {
+        "name": "田村梛々",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/c/ce/Portal_Tamura_Nana.jpg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+				        {
+        "name": "長井莉依那",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/8/84/Portal_Nagai_Riina.jpg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+				        {
+        "name": "坂田しおり",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/4/43/Portal_Sakata_Shiori.jpg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+				        {
+        "name": "佐藤絢音",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/d/d8/Portal_Sato_Ayane.jpg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+				        {
+        "name": "苅部咲良",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/f/f9/Portal_Karibe_Sara.jpg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+				        {
+        "name": "佐伯詩春",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/d/de/Portal_Saeki_Shiharu.jpg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
 	
     // Kobushi Factory
     {
