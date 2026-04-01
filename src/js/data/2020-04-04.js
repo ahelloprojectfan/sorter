@@ -64,7 +64,7 @@ dataSet[dataSetVersion].characterData = [
     },
 				        {
         "name": "Sugihara Meisa",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/2/2b/Portal_Sugihara_Meisa.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/2/2b/Portal_Sugihara_Meisa.jpg?"
         , opts: {
             subkeyaki: ["mm"]
         }
