@@ -650,91 +650,91 @@ dataSet[dataSetVersion].characterData = [
 
 			        {
         "name": "Miyakoshi Chihiro",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/2/29/Portal_Miyakoshi_Chihiro.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/2/29/Portal_Miyakoshi_Chihiro.jpg?1"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 			        {
         "name": "Otsubo Mano",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/7/73/Portal_Otsubo_Mano.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/7/73/Portal_Otsubo_Mano.jpg?1"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 			        {
         "name": "Yoshida Hikari",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/f/f3/Portal_Yoshida_Hikari.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/f/f3/Portal_Yoshida_Hikari.jpg?1"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 			        {
         "name": "Hattori Rua",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/5/5d/Portal_Hattori_Rua.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/5/5d/Portal_Hattori_Rua.jpg?1"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 		 {
         "name": "Sakamoto Aoi",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/7/79/Portal_Sakamoto_Aoi.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/7/79/Portal_Sakamoto_Aoi.jpg?1"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 		 {
         "name": "Suzuki Moa",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/b/b3/Portal_Suzuki_Moa.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/b/b3/Portal_Suzuki_Moa.jpg?1"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 		 {
         "name": "Ishikawa Hanano",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/8/8d/Portal_Ishikawa_Hanano.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/8/8d/Portal_Ishikawa_Hanano.jpg?1"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 		        {
         "name": "Aoki Yuna",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/0/06/Portal_Aoki_Yuna.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/0/06/Portal_Aoki_Yuna.jpg?1"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 		 {
         "name": "Nemoto Karin",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/c/cc/Portal_Nemoto_Karin.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/c/cc/Portal_Nemoto_Karin.jpg?1"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 		 {
         "name": "Miyazaki Riho",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/2/2c/Portal_Miyazaki_Riho.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/2/2c/Portal_Miyazaki_Riho.jpg?1"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 		 {
         "name": "Ohno Airi",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/d/d5/Portal_Ohno_Airi.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/d/d5/Portal_Ohno_Airi.jpg?1"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 		 {
         "name": "Higuchi Aika",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/3/3a/Portal_Higuchi_Aika.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/3/3a/Portal_Higuchi_Aika.jpg?1"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 		 {
         "name": "Someya Sara",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/c/cd/Portal_Someya_Sara.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/c/cd/Portal_Someya_Sara.jpg?1"
         , opts: {
             subkeyaki: ["kss"]
         }
