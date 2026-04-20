@@ -102,63 +102,63 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Ise Layla",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/a/a9/Portal_Ise_Layla.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/a/a9/Portal_Ise_Layla.jpg?1"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "Hashisako Rin",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/6/66/Portal_Hashisako_Rin.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/6/66/Portal_Hashisako_Rin.jpg?1"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "Tamenaga Shion",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/5/57/Portal_Tamenaga_Shion.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/5/57/Portal_Tamenaga_Shion.jpg?1"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "Kawana Rin",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/4/40/Portal_Kawana_Rin.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/4/40/Portal_Kawana_Rin.jpg?1"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
     {
         "name": "Matsumoto Wakana",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/8/84/Portal_Matsumoto_Wakana.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/8/84/Portal_Matsumoto_Wakana.jpg?1"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
 	{
         "name": "Hirayama Yuki",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/0/0b/Portal_Hirayama_Yuki.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/0/0b/Portal_Hirayama_Yuki.jpg?1"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
 	    {
         "name": "Goto Hana",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/0/07/Portal_Goto_Hana.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/0/07/Portal_Goto_Hana.jpg?1"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
       {
         "name": "Shimoitani Yukiho",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/6/6d/Portal_Shimoitani_Yukiho.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/6/6d/Portal_Shimoitani_Yukiho.jpg?1"
         , opts: {
             subkeyaki: ["angerme"]
         }
     },
 			 {
         "name": "Nagano Momoha",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/b/b7/Portal_Nagano_Momoha.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/b/b7/Portal_Nagano_Momoha.jpg?1"
         , opts: {
             subkeyaki: ["angerme"]
         }
@@ -316,7 +316,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Tanimoto Ami",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/3/36/Portal_Tanimoto_Ami.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/3/36/Portal_Tanimoto_Ami.jpg?1"
         , opts: {
             subkeyaki: ["tf"]
         }
@@ -337,28 +337,28 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Ono Mizuho",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/6/63/Portal_Ono_Mizuho.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/6/63/Portal_Ono_Mizuho.jpg?1"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
     {
         "name": "Onoda Saori",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/d/d0/Portal_Onoda_Saori.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/d/d0/Portal_Onoda_Saori.jpg?1"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
     {
         "name": "Akiyama Mao",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/f/f0/Portal_Akiyama_Mao.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/f/f0/Portal_Akiyama_Mao.jpg?1"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
 	    {
         "name": "Kasai Yuumi",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/a/a4/Portal_Kasai_Yuumi.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/a/a4/Portal_Kasai_Yuumi.jpg?1"
         , opts: {
             subkeyaki: ["tf"]
         }
@@ -374,7 +374,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Fukuda Marine",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/d/d8/Portal_Fukuda_Marine.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/d/d8/Portal_Fukuda_Marine.jpg?1"
         , opts: {
             subkeyaki: ["tf"]
         }
@@ -382,35 +382,35 @@ dataSet[dataSetVersion].characterData = [
     },
 	    {
         "name": "Yofu Runo",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/a/a5/Portal_Yofu_Runo.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/a/a5/Portal_Yofu_Runo.jpg?1"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
 	    {
         "name": "Ishii Mihane",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/1/12/Portal_Ishii_Mihane.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/1/12/Portal_Ishii_Mihane.jpg?1"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
 	    {
         "name": "Murata Yuu",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/7/73/Portal_Murata_Yuu.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/7/73/Portal_Murata_Yuu.jpg?1"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
 		    {
         "name": "Doi Fuka",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/f/fe/Portal_Doi_Fuka.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/f/fe/Portal_Doi_Fuka.jpg?1"
         , opts: {
             subkeyaki: ["tf"]
         }
     },
 				        {
         "name": "Nishimura Itsuki",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/3/3a/Portal_Nishimura_Itsuki.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/3/3a/Portal_Nishimura_Itsuki.jpg?1"
         , opts: {
             subkeyaki: ["tf"]
         }
