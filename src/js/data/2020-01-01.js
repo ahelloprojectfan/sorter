@@ -8,63 +8,63 @@ dataSet[dataSetVersion].characterData = [
 
     {
         "name": "小田さくら",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/9/90/Portal_Oda_Sakura.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/9/90/Portal_Oda_Sakura.jpg?"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
     {
         "name": "野中美希",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/d/d6/Portal_Nonaka_Miki.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/d/d6/Portal_Nonaka_Miki.jpg?"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
     {
         "name": "牧野真莉愛",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/2/2e/Portal_Makino_Maria.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/2/2e/Portal_Makino_Maria.jpg?"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
     {
         "name": "岡村ほまれ",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/a/ac/Portal_Okamura_Homare.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/a/ac/Portal_Okamura_Homare.jpg?"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
     {
         "name": "山﨑愛生",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/1/16/Portal_Yamazaki_Mei.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/1/16/Portal_Yamazaki_Mei.jpg?"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
 	{
         "name": "櫻井梨央",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/a/a5/Portal_Sakurai_Rio.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/a/a5/Portal_Sakurai_Rio.jpg?"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
     	    {
         "name": "井上春華",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/0/01/Portal_Inoue_Haruka.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/0/01/Portal_Inoue_Haruka.jpg?"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
 	    {
         "name": "弓桁朱琴",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/4/40/Portal_Yumigeta_Ako.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/4/40/Portal_Yumigeta_Ako.jpg?"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
 				        {
         "name": "杉原明紗",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/2/2b/Portal_Sugihara_Meisa.jpg?"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/2/2b/Portal_Sugihara_Meisa.jpg??"
         , opts: {
             subkeyaki: ["mm"]
         }
