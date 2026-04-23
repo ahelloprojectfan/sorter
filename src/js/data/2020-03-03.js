@@ -10,7 +10,7 @@ dataSet[dataSetVersion].characterData = [
  
     {
         "name": "Morning Musume '26",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/3/30/Portal_Morning_Musume.jpg",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/1/1f/MorningMusume-Apr2026.jpg",
         "opts": {
             subkeyaki: ["cgropus"]
         }
@@ -18,7 +18,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "ANGERME",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/7/76/Portal_ANGERME.jpg",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/7/76/Portal_ANGERME.jpg?",
         "opts": {
             subkeyaki: ["cgropus"]
         }
@@ -34,7 +34,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Tsubaki Factory",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/a/a2/Portal_Tsubaki_Factory.jpg",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/a/a2/Portal_Tsubaki_Factory.jpg?",
         "opts": {
             subkeyaki: ["cgropus"]
         }
