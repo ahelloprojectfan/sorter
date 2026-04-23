@@ -8,63 +8,63 @@ dataSet[dataSetVersion].characterData = [
 	
     {
         "name": "Oda Sakura",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/9/90/Portal_Oda_Sakura.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/9/90/Portal_Oda_Sakura.jpg?"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
     {
         "name": "Nonaka Miki",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/d/d6/Portal_Nonaka_Miki.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/d/d6/Portal_Nonaka_Miki.jpg?"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
     {
         "name": "Makino Maria",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/2/2e/Portal_Makino_Maria.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/2/2e/Portal_Makino_Maria.jpg?"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
     {
         "name": "Okamura Homare",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/a/ac/Portal_Okamura_Homare.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/a/ac/Portal_Okamura_Homare.jpg?"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
     {
         "name": "Yamazaki Mei",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/1/16/Portal_Yamazaki_Mei.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/1/16/Portal_Yamazaki_Mei.jpg?"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
 	{
         "name": "Sakurai Rio",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/a/a5/Portal_Sakurai_Rio.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/a/a5/Portal_Sakurai_Rio.jpg?"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
     	    {
         "name": "Inoue Haruka",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/0/01/Portal_Inoue_Haruka.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/0/01/Portal_Inoue_Haruka.jpg?"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
 	    {
         "name": "Yumigeta Ako",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/4/40/Portal_Yumigeta_Ako.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/4/40/Portal_Yumigeta_Ako.jpg?"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
 				        {
         "name": "Sugihara Meisa",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/2/2b/Portal_Sugihara_Meisa.jpg?"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/2/2b/Portal_Sugihara_Meisa.jpg??"
         , opts: {
             subkeyaki: ["mm"]
         }
