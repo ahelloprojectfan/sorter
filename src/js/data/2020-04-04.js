@@ -985,7 +985,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "Natsuyaki Miyabi",
         "img": "https://static.wikia.nocookie.net/helloproject/images/6/61/NatsuyakiMiyabi-Sept2021.jpg"
         , opts: {
-            subkeyaki: ["berryz", "buono", "MLine"]
+            subkeyaki: ["berryz", "buono"]
         }
     }
     ,
