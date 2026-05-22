@@ -215,77 +215,77 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "井上玲音",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/b/b4/Portal_Inoue_Rei.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/b/b4/Portal_Inoue_Rei.jpg?1"
         , opts: {
             subkeyaki: ["jj", "kf"]
         }
     },
     {
         "name": "段原瑠々",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/b/b6/Portal_Dambara_Ruru.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/b/b6/Portal_Dambara_Ruru.jpg?1"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "工藤由愛",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/a/ac/Portal_Kudo_Yume.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/a/ac/Portal_Kudo_Yume.jpg?1"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "松永里愛",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/4/48/Portal_Matsunaga_Riai.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/4/48/Portal_Matsunaga_Riai.jpg?1"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
 	    {
         "name": "有澤一華",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/b/ba/Portal_Arisawa_Ichika.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/b/ba/Portal_Arisawa_Ichika.jpg?1"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "入江里咲",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/d/d9/Portal_Irie_Risa.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/d/d9/Portal_Irie_Risa.jpg?1"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "江端妃咲",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/0/04/Portal_Ebata_Kisaki.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/0/04/Portal_Ebata_Kisaki.jpg?1"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "石山咲良",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/b/b9/Portal_Ishiyama_Sakura.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/b/b9/Portal_Ishiyama_Sakura.jpg?1"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
 	    {
         "name": "遠藤彩加里",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/5/5a/Portal_Endo_Akari.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/5/5a/Portal_Endo_Akari.jpg?1"
         , opts: {
             subkeyaki: ["jj"]
     }
     },
 	    {
         "name": "川嶋美楓",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/0/00/Portal_Kawashima_Mifu.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/0/00/Portal_Kawashima_Mifu.jpg?1"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
 	        {
         "name": "林仁愛",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/c/c0/Portal_Hayashi_Niina.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/c/c0/Portal_Hayashi_Niina.jpg?1"
         , opts: {
             subkeyaki: ["jj"]
         }
@@ -507,49 +507,49 @@ dataSet[dataSetVersion].characterData = [
 	
 	 {
         "name": "米村姫良々",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/e/ea/Portal_Yonemura_Kirara.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/e/ea/Portal_Yonemura_Kirara.jpg?1"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
     {
         "name": "中山夏月姫",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/f/f5/Portal_Nakayama_Natsume.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/f/f5/Portal_Nakayama_Natsume.jpg?1"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
     {
         "name": "窪田七海",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/1/15/Portal_Kubota_Nanami.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/1/15/Portal_Kubota_Nanami.jpg?1"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
     {
         "name": "斉藤円香",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/3/3a/Portal_Saito_Madoka.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/3/3a/Portal_Saito_Madoka.jpg?1"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
 {
         "name": "広本瑠璃",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/d/d8/Portal_Hiromoto_Ruli.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/d/d8/Portal_Hiromoto_Ruli.jpg?1"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
 	    {
         "name": "西﨑美空",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/b/bb/Portal_Nishizaki_Miku.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/b/bb/Portal_Nishizaki_Miku.jpg?1"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
     {
         "name": "北原もも",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/4/4d/Portal_Kitahara_Momo.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/4/4d/Portal_Kitahara_Momo.jpg?1"
         , opts: {
             subkeyaki: ["ocha"]
         }
@@ -570,7 +570,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "筒井澪心",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/f/f6/Portal_Tsutsui_Roko.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/f/f6/Portal_Tsutsui_Roko.jpg?1"
         , opts: {
             subkeyaki: ["ocha"]
         }
@@ -648,13 +648,6 @@ dataSet[dataSetVersion].characterData = [
    
 
 
-			        {
-        "name": "宮越千尋",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/2/29/Portal_Miyakoshi_Chihiro.jpg?1"
-        , opts: {
-            subkeyaki: ["kss"]
-        }
-    },
 			        {
         "name": "大坪茉乃",
         "img": "https://static.wikia.nocookie.net/helloproject/images/7/73/Portal_Otsubo_Mano.jpg?1"
