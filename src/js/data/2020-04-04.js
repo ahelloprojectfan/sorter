@@ -215,77 +215,77 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Inoue Rei",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/b/b4/Portal_Inoue_Rei.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/b/b4/Portal_Inoue_Rei.jpg?1"
         , opts: {
             subkeyaki: ["jj", "kf"]
         }
     },
     {
         "name": "Dambara Ruru",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/b/b6/Portal_Dambara_Ruru.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/b/b6/Portal_Dambara_Ruru.jpg?1"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "Kudo Yume",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/a/ac/Portal_Kudo_Yume.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/a/ac/Portal_Kudo_Yume.jpg?1"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "Matsunaga Riai",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/4/48/Portal_Matsunaga_Riai.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/4/48/Portal_Matsunaga_Riai.jpg?1"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
 	    {
         "name": "Arisawa Ichika",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/b/ba/Portal_Arisawa_Ichika.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/b/ba/Portal_Arisawa_Ichika.jpg?1"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "Irie Risa",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/d/d9/Portal_Irie_Risa.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/d/d9/Portal_Irie_Risa.jpg?1"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "Ebata Kisaki",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/0/04/Portal_Ebata_Kisaki.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/0/04/Portal_Ebata_Kisaki.jpg?1"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
     {
         "name": "Ishiyama Sakura",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/b/b9/Portal_Ishiyama_Sakura.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/b/b9/Portal_Ishiyama_Sakura.jpg?1"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
 	    {
         "name": "Endo Akari",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/5/5a/Portal_Endo_Akari.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/5/5a/Portal_Endo_Akari.jpg?1"
         , opts: {
             subkeyaki: ["jj"]
     }
     },
 	    {
         "name": "Kawashima Mifu",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/0/00/Portal_Kawashima_Mifu.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/0/00/Portal_Kawashima_Mifu.jpg?1"
         , opts: {
             subkeyaki: ["jj"]
         }
     },
 	        {
         "name": "Hayashi Niina",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/c/c0/Portal_Hayashi_Niina.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/c/c0/Portal_Hayashi_Niina.jpg?1"
         , opts: {
             subkeyaki: ["jj"]
         }
@@ -507,49 +507,49 @@ dataSet[dataSetVersion].characterData = [
 	
 	 {
         "name": "Yonemura Kirara",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/e/ea/Portal_Yonemura_Kirara.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/e/ea/Portal_Yonemura_Kirara.jpg?1"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
     {
         "name": "Nakayama Natsume",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/f/f5/Portal_Nakayama_Natsume.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/f/f5/Portal_Nakayama_Natsume.jpg?1"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
     {
         "name": "Kubota Nanami",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/1/15/Portal_Kubota_Nanami.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/1/15/Portal_Kubota_Nanami.jpg?1"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
     {
         "name": "Saito Madoka",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/3/3a/Portal_Saito_Madoka.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/3/3a/Portal_Saito_Madoka.jpg?1"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
 {
         "name": "Hiromoto Ruli",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/d/d8/Portal_Hiromoto_Ruli.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/d/d8/Portal_Hiromoto_Ruli.jpg?1"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
 	    {
         "name": "Nishizaki Miku",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/b/bb/Portal_Nishizaki_Miku.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/b/bb/Portal_Nishizaki_Miku.jpg?1"
         , opts: {
             subkeyaki: ["ocha"]
         }
     },
     {
         "name": "Kitahara Momo",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/4/4d/Portal_Kitahara_Momo.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/4/4d/Portal_Kitahara_Momo.jpg?1"
         , opts: {
             subkeyaki: ["ocha"]
         }
@@ -570,7 +570,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Tsutsui Roko",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/f/f6/Portal_Tsutsui_Roko.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/f/f6/Portal_Tsutsui_Roko.jpg?1"
         , opts: {
             subkeyaki: ["ocha"]
         }
@@ -648,13 +648,7 @@ dataSet[dataSetVersion].characterData = [
    
 
 
-			        {
-        "name": "Miyakoshi Chihiro",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/2/29/Portal_Miyakoshi_Chihiro.jpg?1"
-        , opts: {
-            subkeyaki: ["kss"]
-        }
-    },
+
 			        {
         "name": "Otsubo Mano",
         "img": "https://static.wikia.nocookie.net/helloproject/images/7/73/Portal_Otsubo_Mano.jpg?1"
