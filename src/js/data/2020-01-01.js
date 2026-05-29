@@ -69,6 +69,13 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["mm"]
         }
     },
+			 {
+        "name": "石川華望",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/8/8d/Portal_Ishikawa_Hanano.jpg?1"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
 
     // Angerme
 
@@ -502,6 +509,13 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["by"]
         }
     },
+	    {
+        "name": "小島はな",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/e/ec/Portal_Kojima_Hana.jpg"
+        , opts: {
+            subkeyaki: ["by"]
+        }
+    },
 	
 	//OCHA NORMA
 	
@@ -679,13 +693,6 @@ dataSet[dataSetVersion].characterData = [
 		 {
         "name": "鈴木もあ",
         "img": "https://static.wikia.nocookie.net/helloproject/images/b/b3/Portal_Suzuki_Moa.jpg?1"
-        , opts: {
-            subkeyaki: ["kss"]
-        }
-    },
-		 {
-        "name": "石川華望",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/8/8d/Portal_Ishikawa_Hanano.jpg?1"
         , opts: {
             subkeyaki: ["kss"]
         }
