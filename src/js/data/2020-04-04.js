@@ -1271,7 +1271,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Iikubo Haruna",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/f/f1/IikuboHaruna-March2022.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/d/d4/IikuboHaruna-NinaProducer-Dec2018.jpg"
         , opts: {
             subkeyaki: ["mmog", "MLine"]
         }
@@ -1285,7 +1285,7 @@ dataSet[dataSetVersion].characterData = [
     },
 	{
         "name": "Sato Masaki",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/a/a0/SatoMasaki-Sep2025.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/6/60/Anan2023apr-sato.jpg"
         , opts: {
             subkeyaki: ["mmog", "MLine"]
         }
