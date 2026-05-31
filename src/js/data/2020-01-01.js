@@ -1200,7 +1200,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "道重さゆみ",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/2/2a/Michishige_Sayumi_Saikou_Desho.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/0/0e/MichishigeSayumi-August2021.jpg"
         , opts: {
             subkeyaki: ["mmog"]
         }
@@ -1242,7 +1242,7 @@ dataSet[dataSetVersion].characterData = [
     },
 	{
         "name": "譜久村聖",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/7/72/FukumuraMizuki-March2025.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/3/33/FukumuraMizuki-Sep2024.jpg"
         , opts: {
             subkeyaki: ["mmog", "MLine"]
         }
@@ -1284,7 +1284,7 @@ dataSet[dataSetVersion].characterData = [
     },
 	{
         "name": "佐藤優樹",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/6/60/Anan2023apr-sato.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/f/fc/SatoMasaki-Apr2022.jpg"
         , opts: {
             subkeyaki: ["mmog", "MLine"]
         }
