@@ -80,7 +80,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "石川華望",
         "img": "https://static.wikia.nocookie.net/helloproject/images/8/8d/Portal_Ishikawa_Hanano.jpg?1"
         , opts: {
-            subkeyaki: ["kss"]
+            subkeyaki: ["mm"]
         }
     },
 
