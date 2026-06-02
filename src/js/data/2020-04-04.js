@@ -70,6 +70,13 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 			 {
+        "name": "Suzuki Moa",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/b/b3/Portal_Suzuki_Moa.jpg?1"
+        , opts: {
+            subkeyaki: ["mm"]
+        }
+    },
+			 {
         "name": "Ishikawa Hanano",
         "img": "https://static.wikia.nocookie.net/helloproject/images/8/8d/Portal_Ishikawa_Hanano.jpg?1"
         , opts: {
@@ -687,13 +694,6 @@ dataSet[dataSetVersion].characterData = [
 		 {
         "name": "Sakamoto Aoi",
         "img": "https://static.wikia.nocookie.net/helloproject/images/7/79/Portal_Sakamoto_Aoi.jpg?1"
-        , opts: {
-            subkeyaki: ["kss"]
-        }
-    },
-		 {
-        "name": "Suzuki Moa",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/b/b3/Portal_Suzuki_Moa.jpg?1"
         , opts: {
             subkeyaki: ["kss"]
         }
