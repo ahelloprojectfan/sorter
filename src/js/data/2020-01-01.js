@@ -523,6 +523,13 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["by"]
         }
     },
+				        {
+        "name": "大坪茉乃",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/7/73/Portal_Otsubo_Mano.jpg?1"
+        , opts: {
+            subkeyaki: ["by"]
+        }
+    },
 	
 	//OCHA NORMA
 	
@@ -668,14 +675,8 @@ dataSet[dataSetVersion].characterData = [
 
    
 
+	
 
-			        {
-        "name": "大坪茉乃",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/7/73/Portal_Otsubo_Mano.jpg?1"
-        , opts: {
-            subkeyaki: ["kss"]
-        }
-    },
 			        {
         "name": "吉田光里",
         "img": "https://static.wikia.nocookie.net/helloproject/images/f/f3/Portal_Yoshida_Hikari.jpg?1"
