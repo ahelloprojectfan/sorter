@@ -523,6 +523,13 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["by"]
         }
     },
+				        {
+        "name": "Otsubo Mano",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/7/73/Portal_Otsubo_Mano.jpg?1"
+        , opts: {
+            subkeyaki: ["by"]
+        }
+    },
 	
 	//OCHA NORMA
 	
@@ -670,12 +677,6 @@ dataSet[dataSetVersion].characterData = [
 
 
 
-			        {
-        "name": "Otsubo Mano",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/7/73/Portal_Otsubo_Mano.jpg?1"
-        , opts: {
-            subkeyaki: ["kss"]
-        }
     },
 			        {
         "name": "Yoshida Hikari",
