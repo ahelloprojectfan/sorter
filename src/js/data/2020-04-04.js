@@ -677,7 +677,6 @@ dataSet[dataSetVersion].characterData = [
 
 
 
-    },
 			        {
         "name": "Yoshida Hikari",
         "img": "https://static.wikia.nocookie.net/helloproject/images/f/f3/Portal_Yoshida_Hikari.jpg?1"
