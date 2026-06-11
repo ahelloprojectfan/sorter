@@ -69,6 +69,13 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["mm"]
         }
     },
+				 {
+        "name": "Yasuda Miyu",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/a/a4/Portal_Yasuda_Miyu.jpg"
+        , opts: {
+            subkeyaki: ["mm"]
+        }
+    },
 			 {
         "name": "Suzuki Moa",
         "img": "https://static.wikia.nocookie.net/helloproject/images/b/b3/Portal_Suzuki_Moa.jpg?1"
@@ -530,6 +537,13 @@ dataSet[dataSetVersion].characterData = [
             subkeyaki: ["by"]
         }
     },
+						        {
+        "name": "Sugiyama Yuna",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/d/d5/Portal_Sugiyama_Yuna.jpg"
+        , opts: {
+            subkeyaki: ["by"]
+        }
+    },
 	
 	//OCHA NORMA
 	
@@ -750,6 +764,13 @@ dataSet[dataSetVersion].characterData = [
 				        {
         "name": "Saito Yurika",
         "img": "https://static.wikia.nocookie.net/helloproject/images/a/a6/Portal_Saito_Yurika.jpg"
+        , opts: {
+            subkeyaki: ["kss"]
+        }
+    },
+						        {
+        "name": "Yamamoto Hana",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/1/1c/Portal_Yamamoto_Hana.jpg"
         , opts: {
             subkeyaki: ["kss"]
         }
