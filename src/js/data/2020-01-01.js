@@ -471,7 +471,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "高瀬くるみ",
         "img": "https://static.wikia.nocookie.net/helloproject/images/d/dd/Portal_Takase_Kurumi.jpg"
         , opts: {
-            subkeyaki: ["by"]
+            subkeyaki: ["exby"]
         }
     },
     {
