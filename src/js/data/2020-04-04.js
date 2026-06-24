@@ -21,13 +21,6 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        "name": "Makino Maria",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/2/2e/Portal_Makino_Maria.jpg?1"
-        , opts: {
-            subkeyaki: ["mm"]
-        }
-    },
-    {
         "name": "Okamura Homare",
         "img": "https://static.wikia.nocookie.net/helloproject/images/a/ac/Portal_Okamura_Homare.jpg?1"
         , opts: {
@@ -1321,6 +1314,13 @@ dataSet[dataSetVersion].characterData = [
     {
         "name": "Ogata Haruna",
         "img": "https://static.wikia.nocookie.net/helloproject/images/e/e5/Ogata2023oct.jpg"
+        , opts: {
+            subkeyaki: ["mmog"]
+        }
+    },
+	    {
+        "name": "Makino Maria",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/2/2e/Portal_Makino_Maria.jpg?1"
         , opts: {
             subkeyaki: ["mmog"]
         }
