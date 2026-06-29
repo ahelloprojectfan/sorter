@@ -525,14 +525,14 @@ dataSet[dataSetVersion].characterData = [
     },
 				        {
         "name": "Otsubo Mano",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/7/73/Portal_Otsubo_Mano.jpg?1"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/7/73/Portal_Otsubo_Mano.jpg?2"
         , opts: {
             subkeyaki: ["by"]
         }
     },
 						        {
         "name": "Sugiyama Yuna",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/d/d5/Portal_Sugiyama_Yuna.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/d/d5/Portal_Sugiyama_Yuna.jpg?1"
         , opts: {
             subkeyaki: ["by"]
         }
@@ -1320,7 +1320,7 @@ dataSet[dataSetVersion].characterData = [
     },
 	    {
         "name": "Makino Maria",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/2/2e/Portal_Makino_Maria.jpg?1"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/2/26/MakinoMaria-June2026.jpg"
         , opts: {
             subkeyaki: ["mmog"]
         }
