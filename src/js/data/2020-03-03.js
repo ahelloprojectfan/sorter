@@ -10,7 +10,7 @@ dataSet[dataSetVersion].characterData = [
  
     {
         "name": "Morning Musume '26",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/1/1f/MorningMusume-Apr2026.jpg",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/c/c3/MorningMusume-June2026.jpg",
         "opts": {
             subkeyaki: ["cgropus"]
         }
@@ -18,7 +18,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "ANGERME",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/7/76/Portal_ANGERME.jpg?",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/7/76/Portal_ANGERME.jpg?1",
         "opts": {
             subkeyaki: ["cgropus"]
         }
@@ -26,7 +26,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Juice=Juice",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/d/db/Portal_Juice%3DJuice.jpg",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/d/db/Portal_Juice%3DJuice.jpg?1",
         "opts": {
             subkeyaki: ["cgropus"]
         }
@@ -34,7 +34,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Tsubaki Factory",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/a/a2/Portal_Tsubaki_Factory.jpg?",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/a/a2/Portal_Tsubaki_Factory.jpg?1",
         "opts": {
             subkeyaki: ["cgropus"]
         }
@@ -42,7 +42,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "BEYOOOOONDS",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/2/28/Portal_BEYOOOOONDS.jpg",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/6/6e/BEYOOOOONDS-June2026_2.jpg",
         "opts": {
             subkeyaki: ["cgropus"]
         }
@@ -50,14 +50,14 @@ dataSet[dataSetVersion].characterData = [
     },
 	{
         "name": "OCHA NORMA",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/0/0b/Portal_OCHA_NORMA.jpg",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/0/0b/Portal_OCHA_NORMA.jpg?1",
         "opts": {
             subkeyaki: ["cgropus"]
         }
     },
 		{
         "name": "Rosy Chronicle",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/4/4d/Portal_Rosy_Chronicle.jpg",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/4/4d/Portal_Rosy_Chronicle.jpg?1",
         "opts": {
             subkeyaki: ["cgropus"]
         }
@@ -1395,6 +1395,20 @@ dataSet[dataSetVersion].characterData = [
         "img": "https://static.wikia.nocookie.net/helloproject/images/9/9f/AndroidwaYumewoMiruka-rb.jpg",
         "opts": {
             subkeyaki: ["anjuAside", "25single"]
+        }
+    },
+									{
+        "name": "BaBaBa Burning Love! (2026)",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/2/2d/BaBaBaBurningLove-ra.jpg",
+        "opts": {
+            subkeyaki: ["anjuAside"]
+        }
+    },
+										{
+        "name": "Ai ga Ai no Mama de Iraremasu you ni (2026)",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/7/75/BaBaBaBurningLove-rb.jpg",
+        "opts": {
+            subkeyaki: ["anjuAside"]
         }
     },
 		{
