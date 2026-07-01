@@ -64,21 +64,21 @@ dataSet[dataSetVersion].characterData = [
     },
 					 {
         "name": "安田美結",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/a/a4/Portal_Yasuda_Miyu.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/a/a4/Portal_Yasuda_Miyu.jpg?1"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
 			 {
         "name": "鈴木もあ",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/b/b3/Portal_Suzuki_Moa.jpg?1"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/b/b3/Portal_Suzuki_Moa.jpg?2"
         , opts: {
             subkeyaki: ["mm"]
         }
     },
 			 {
         "name": "石川華望",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/8/8d/Portal_Ishikawa_Hanano.jpg?1"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/8/8d/Portal_Ishikawa_Hanano.jpg?2"
         , opts: {
             subkeyaki: ["mm"]
         }
@@ -462,7 +462,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "高瀬くるみ",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/d/dd/Portal_Takase_Kurumi.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/b/ba/TakaseKurumi-June2026.jpg"
         , opts: {
             subkeyaki: ["exby"]
         }
