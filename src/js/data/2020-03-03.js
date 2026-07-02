@@ -10,7 +10,7 @@ dataSet[dataSetVersion].characterData = [
  
     {
         "name": "Morning Musume '26",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/c/c3/MorningMusume-June2026.jpg",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/b/bd/MorningMusume-Jul2026.jpg",
         "opts": {
             subkeyaki: ["cgropus"]
         }
@@ -869,28 +869,35 @@ dataSet[dataSetVersion].characterData = [
         "name": "Ki ni Naru Sono Ki no Uta (2025)",
         "img": "https://static.wikia.nocookie.net/helloproject/images/c/c6/KiniNaruSono-RA.jpg",
         "opts": {
-            "subkeyaki": ["aSideList", "25single"]
+            "subkeyaki": ["aSideList"]
 	}
 },
 			 {
         "name": "Akaruku Ii Ko (2025)",
         "img": "https://static.wikia.nocookie.net/helloproject/images/5/52/KiniNaruSono-RB.jpg",
         "opts": {
-            "subkeyaki": ["aSideList", "25single"]
+            "subkeyaki": ["aSideList"]
 	}
 },
 			 {
         "name": "Teka HAPPY no HAPPY! (2025)",
         "img": "https://static.wikia.nocookie.net/helloproject/images/9/9a/TekaHAPPYnoHAPPY-LA.jpg",
         "opts": {
-            "subkeyaki": ["aSideList", "25single"]
+            "subkeyaki": ["aSideList"]
 	}
 },
 			 {
         "name": "Watashi no Lamentazione (2025)",
         "img": "https://static.wikia.nocookie.net/helloproject/images/1/13/TekaHAPPYnoHAPPY-LSP.jpg",
         "opts": {
-            "subkeyaki": ["aSideList", "25single"]
+            "subkeyaki": ["aSideList"]
+	}
+},
+				 {
+        "name": "Lonely...But not Alone (2026)",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/b/ba/LonelyButnotAlone-dpr.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList", "26single"]
 	}
 },
 	{
@@ -1387,28 +1394,28 @@ dataSet[dataSetVersion].characterData = [
         "name": "Android wa Yume wo Miru ka? (2025)",
         "img": "https://static.wikia.nocookie.net/helloproject/images/0/0f/AndroidwaYumewoMiruka-ra.jpg",
         "opts": {
-            subkeyaki: ["anjuAside", "25single"]
+            subkeyaki: ["anjuAside"]
         }
     },
 								{
         "name": "Hikari no Uta (2025)",
         "img": "https://static.wikia.nocookie.net/helloproject/images/9/9f/AndroidwaYumewoMiruka-rb.jpg",
         "opts": {
-            subkeyaki: ["anjuAside", "25single"]
+            subkeyaki: ["anjuAside"]
         }
     },
 									{
         "name": "BaBaBa Burning Love! (2026)",
         "img": "https://static.wikia.nocookie.net/helloproject/images/2/2d/BaBaBaBurningLove-ra.jpg",
         "opts": {
-            subkeyaki: ["anjuAside"]
+            subkeyaki: ["anjuAside", "26single"]
         }
     },
 										{
         "name": "Ai ga Ai no Mama de Iraremasu you ni (2026)",
         "img": "https://static.wikia.nocookie.net/helloproject/images/7/75/BaBaBaBurningLove-rb.jpg",
         "opts": {
-            subkeyaki: ["anjuAside"]
+            subkeyaki: ["anjuAside", "26single"]
         }
     },
 		{
@@ -1870,28 +1877,28 @@ dataSet[dataSetVersion].characterData = [
         "name": "Hatsukoi no Bourei (2025)",
         "img": "https://static.wikia.nocookie.net/helloproject/images/d/de/HatsukoinoBourei-ra.jpg",
         "opts": {
-            subkeyaki: ["JJAside", "25single"]
+            subkeyaki: ["JJAside"]
         }
     },
 									{
         "name": "Kon'ya wa Hearty Party (2025)",
         "img": "https://static.wikia.nocookie.net/helloproject/images/5/58/HatsukoinoBourei-rb.jpg",
         "opts": {
-            subkeyaki: ["JJAside", "25single"]
+            subkeyaki: ["JJAside"]
         }
     },
 										{
         "name": "Shi no Go no Iwazu Satto Wakarete Ageta (2025)",
         "img": "https://static.wikia.nocookie.net/helloproject/images/7/78/ShinoGono-RA.jpg",
         "opts": {
-            subkeyaki: ["JJAside", "25single"]
+            subkeyaki: ["JJAside"]
         }
     },
 										{
         "name": "More! Mi Amore (2025)",
         "img": "https://static.wikia.nocookie.net/helloproject/images/a/a9/ShinoGono-RB.jpg",
         "opts": {
-            subkeyaki: ["JJAside", "25single"]
+            subkeyaki: ["JJAside"]
         }
     },
 				{
@@ -2245,94 +2252,87 @@ dataSet[dataSetVersion].characterData = [
         }
     },
 					{
-        "name": "Do-Did-Done (2025)",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/a/a1/DoDidDone-ra.jpg",
+        "name": "Misery ~Ai no Tenbin~ (2026)",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/c/c5/MiseryAinoTenbin-ra.jpg",
         "opts": {
-            subkeyaki: ["25single"]
+            subkeyaki: ["26single"]
         }
     },
 						{
-        "name": "Aa Kimi ni Tensei (2025)",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/e/ef/DoDidDone-rb.jpg",
+        "name": "Nantoka Naru Desho (2026)",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/0/0d/MiseryAinoTenbin-rb.jpg",
         "opts": {
-            subkeyaki: ["25single"]
+            subkeyaki: ["26single"]
         }
     },
 							{
-        "name": "Heirasshai! ~Nippon de Aimashou~ (2025)",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/5/51/HeirasshaiNippondeAimashou-ra.jpg",
+        "name": "FireWorks (2026)",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/a/a9/FireWorks-ra.jpg",
         "opts": {
-            subkeyaki: ["25single"]
+            subkeyaki: ["26single"]
         }
     },
 							{
-        "name": "Ubu to Zuru (2025)",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/d/db/HeirasshaiNippondeAimashou-rb.jpg",
+        "name": "Mappira da Tteba! (2026)",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/1/1d/FireWorks-rb.jpg",
         "opts": {
-            subkeyaki: ["25single"]
+            subkeyaki: ["26single"]
         }
     },
 							{
-        "name": "My Days for You (2025)",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/a/a8/MyDaysforYou-RA.jpg",
+        "name": "Dantotsu de Aishite (2026)",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/4/47/DantotsudeAishite-RegularEditionA.jpg",
         "opts": {
-            subkeyaki: ["25single"]
+            subkeyaki: ["26single"]
         }
     },
 							{
-        "name": "Kanashimi ga Tomaranai (2025)",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/9/93/MyDaysforYou-RB.jpg",
+        "name": "Mata, Anata ni Koikogarete Irun da (2026)",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/8/82/DantotsudeAishite-RegularEditionB.jpg",
         "opts": {
-            subkeyaki: ["25single"]
+            subkeyaki: ["26single"]
         }
     },
 							{
-        "name": "Secret Summer (2025)",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/2/26/SecretSummer-r.jpg",
+        "name": "Jun'ai Crusher (2026)",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/1/1e/JunaiCrusher-r.jpg",
         "opts": {
-            subkeyaki: ["25single"]
+            subkeyaki: ["26single"]
         }
     },
 							{
-        "name": "Natsu no Inazuma (2025)",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/a/a6/NatsunoInazuma-ra.jpg",
+        "name": "Waccha☆Future (2026)",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/1/19/WacchaFuture-r.jpg",
         "opts": {
-            subkeyaki: ["25single"]
+            subkeyaki: ["26single"]
         }
     },
 							{
-        "name": "Gao Gao Gao (2025)",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/3/3b/NatsunoInazuma-rb.jpg",
+        "name": "Liar Liner (2026)",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/1/10/LiarLiner-dpr.jpg",
         "opts": {
-            subkeyaki: ["25single"]
+            subkeyaki: ["26single"]
         }
     },
 							{
-        "name": "Onna no Aiso wa Buki ja nai (2025)",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/f/f3/OnnanoAisowaBukijanai-ra.jpg",
+        "name": "Ai ni Ikou (BEYOOOOONDS Ver.) (2026)",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/0/0f/AiNiIkou.jpg",
         "opts": {
-            subkeyaki: ["25single"]
+            subkeyaki: ["26single"]
         }
     },
 							{
-        "name": "Gakkou de wa Oshiete Kurenai Koto (2025)",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/8/86/OnnanoAisowaBukijanai-rb.jpg",
+        "name": "High! Tension (2026)",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/2/20/HighTension-r.jpg",
         "opts": {
-            subkeyaki: ["25single"]
+            subkeyaki: ["26single"]
         }
     },
 							{
-        "name": "Watashi・Premium (2025)",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/8/8e/WatashiPremium-r.jpg",
+        "name": "SaiKOO DE DANCE (BEYO Ver.) (2026)",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/b/bf/SaiKOODEDANCE-BEYODS.jpg",
         "opts": {
-            subkeyaki: ["25single"]
-        }
-    },
-							{
-        "name": "Sensou wo Shiranai Kodomotachi (2025)",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/6/6d/SensouwoShiranai.jpg",
-        "opts": {
-            subkeyaki: ["25single"]
+            subkeyaki: ["26single"]
         }
     }
 	
@@ -2347,7 +2347,7 @@ dataSet[dataSetVersion].options = [
         checked: true,
         sub: [
 		
-		{ name: '2025 Singles ', key: '25single' },
+		{ name: '2026 Singles ', key: '26single' },
             { name: 'Current Groups Sorter ', key: 'cgropus' },
             { name: 'Morning Musume Eras', key: 'mmeras' },
             { name: 'Morning Musume A Side List', key: 'aSideList' },
