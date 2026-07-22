@@ -2334,6 +2334,13 @@ dataSet[dataSetVersion].characterData = [
         "opts": {
             subkeyaki: ["26single"]
         }
+    },
+								{
+        "name": "Nimmin Friends (2026)",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/2/2d/NinminFriendsCover.jpg",
+        "opts": {
+            subkeyaki: ["26single"]
+        }
     }
 	
     ];
