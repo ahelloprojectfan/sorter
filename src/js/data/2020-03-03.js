@@ -10,7 +10,7 @@ dataSet[dataSetVersion].characterData = [
  
     {
         "name": "Morning Musume '26",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/b/bd/MorningMusume-Jul2026.jpg",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/3/37/MorningMusume-YeskaNokaWatashika-01.jpg",
         "opts": {
             subkeyaki: ["cgropus"]
         }
@@ -2338,6 +2338,13 @@ dataSet[dataSetVersion].characterData = [
 								{
         "name": "Nimmin Friends (2026)",
         "img": "https://static.wikia.nocookie.net/helloproject/images/2/2d/NinminFriendsCover.jpg",
+        "opts": {
+            subkeyaki: ["26single"]
+        }
+    },
+									{
+        "name": "Oinai sa, Ise (2026)",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/f/f1/Oinaisa%2C_Ise-r.jpg",
         "opts": {
             subkeyaki: ["26single"]
         }
