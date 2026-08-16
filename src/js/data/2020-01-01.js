@@ -686,133 +686,133 @@ dataSet[dataSetVersion].characterData = [
 
 			        {
         "name": "吉田光里",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/f/f3/Portal_Yoshida_Hikari.jpg?1"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/f/f3/Portal_Yoshida_Hikari.jpg?2"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 			        {
         "name": "服部琉愛",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/5/5d/Portal_Hattori_Rua.jpg?1"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/5/5d/Portal_Hattori_Rua.jpg?2"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 		 {
         "name": "坂本葵花",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/7/79/Portal_Sakamoto_Aoi.jpg?1"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/7/79/Portal_Sakamoto_Aoi.jpg?2"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 		        {
         "name": "青木優奈",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/0/06/Portal_Aoki_Yuna.jpg?1"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/0/06/Portal_Aoki_Yuna.jpg?2"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 		 {
         "name": "根本花凛",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/c/cc/Portal_Nemoto_Karin.jpg?1"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/c/cc/Portal_Nemoto_Karin.jpg?2"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 		 {
         "name": "宮﨑理帆",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/2/2c/Portal_Miyazaki_Riho.jpg?1"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/2/2c/Portal_Miyazaki_Riho.jpg?2"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 		 {
         "name": "大野愛莉",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/d/d5/Portal_Ohno_Airi.jpg?1"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/d/d5/Portal_Ohno_Airi.jpg?2"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 		 {
         "name": "樋口愛海",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/3/3a/Portal_Higuchi_Aika.jpg?1"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/3/3a/Portal_Higuchi_Aika.jpg?2"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 		 {
         "name": "染谷彩良",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/c/cd/Portal_Someya_Sara.jpg?1"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/c/cd/Portal_Someya_Sara.jpg?2"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 				        {
         "name": "鈴木琴美",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/0/00/Portal_Suzuki_Kotomi.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/0/00/Portal_Suzuki_Kotomi.jpg?1"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 				        {
         "name": "斎藤ゆり夏",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/a/a6/Portal_Saito_Yurika.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/a/a6/Portal_Saito_Yurika.jpg?1"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 					        {
         "name": "山本はな",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/1/1c/Portal_Yamamoto_Hana.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/1/1c/Portal_Yamamoto_Hana.jpg?1"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 				        {
         "name": "岸田桃果",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/9/9d/Portal_Kishida_Momoka.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/9/9d/Portal_Kishida_Momoka.jpg?1"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 				        {
         "name": "田村梛々",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/c/ce/Portal_Tamura_Nana.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/c/ce/Portal_Tamura_Nana.jpg?1"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 				        {
         "name": "長井莉依那",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/8/84/Portal_Nagai_Riina.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/8/84/Portal_Nagai_Riina.jpg?1"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 				        {
         "name": "坂田しおり",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/4/43/Portal_Sakata_Shiori.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/4/43/Portal_Sakata_Shiori.jpg?1"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 				        {
         "name": "佐藤絢音",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/d/d8/Portal_Sato_Ayane.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/d/d8/Portal_Sato_Ayane.jpg?1"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 				        {
         "name": "苅部咲良",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/f/f9/Portal_Karibe_Sara.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/f/f9/Portal_Karibe_Sara.jpg?1"
         , opts: {
             subkeyaki: ["kss"]
         }
     },
 				        {
         "name": "佐伯詩春",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/d/de/Portal_Saeki_Shiharu.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/d/de/Portal_Saeki_Shiharu.jpg?1"
         , opts: {
             subkeyaki: ["kss"]
         }
