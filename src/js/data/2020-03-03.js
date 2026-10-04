@@ -18,7 +18,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "ANGERME",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/7/76/Portal_ANGERME.jpg?1",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/9/95/ANGERME-BaBaBaBurningLove.jpg",
         "opts": {
             subkeyaki: ["cgropus"]
         }
@@ -26,7 +26,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Juice=Juice",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/d/db/Portal_Juice%3DJuice.jpg?1",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/c/cf/JuiceJuice-May2026.jpg",
         "opts": {
             subkeyaki: ["cgropus"]
         }
@@ -34,7 +34,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Tsubaki Factory",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/a/a2/Portal_Tsubaki_Factory.jpg?1",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/c/c6/TsubakiFactory-March2026.jpg",
         "opts": {
             subkeyaki: ["cgropus"]
         }
@@ -42,7 +42,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "BEYOOOOONDS",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/6/6e/BEYOOOOONDS-June2026_2.jpg",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/c/c1/BEYOOOOONDS-Sep2026.jpg",
         "opts": {
             subkeyaki: ["cgropus"]
         }
@@ -50,14 +50,14 @@ dataSet[dataSetVersion].characterData = [
     },
 	{
         "name": "OCHA NORMA",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/0/0b/Portal_OCHA_NORMA.jpg?1",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/1/13/OCHANORMA-May2026.jpg",
         "opts": {
             subkeyaki: ["cgropus"]
         }
     },
 		{
         "name": "Rosy Chronicle",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/4/4d/Portal_Rosy_Chronicle.jpg?1",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/5/55/RosyChronicle-Sep2026.jpg",
         "opts": {
             subkeyaki: ["cgropus"]
         }
@@ -896,6 +896,13 @@ dataSet[dataSetVersion].characterData = [
 				 {
         "name": "Lonely...But not Alone (2026)",
         "img": "https://static.wikia.nocookie.net/helloproject/images/b/ba/LonelyButnotAlone-dpr.jpg",
+        "opts": {
+            "subkeyaki": ["aSideList", "26single"]
+	}
+},
+					 {
+        "name": "Yes ka No ka Watashi ka (2026)",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/c/cd/LonelyButnotAlone-LimitedEditionB.jpg",
         "opts": {
             "subkeyaki": ["aSideList", "26single"]
 	}
@@ -2345,6 +2352,34 @@ dataSet[dataSetVersion].characterData = [
 									{
         "name": "Oinai sa, Ise (2026)",
         "img": "https://static.wikia.nocookie.net/helloproject/images/f/f1/Oinaisa%2C_Ise-r.jpg",
+        "opts": {
+            subkeyaki: ["26single"]
+        }
+    },
+										{
+        "name": "Ai = Un + En + On (2026)",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/1/1d/Aienunon-r.jpg/revision/latest?cb=20260820143938",
+        "opts": {
+            subkeyaki: ["26single"]
+        }
+    },
+											{
+        "name": "Datte Daikyou jan ☆ (2026)",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/5/50/DatteDaikyoujan-dpr.jpg",
+        "opts": {
+            subkeyaki: ["26single"]
+        }
+    },
+											{
+        "name": "Najiraretatte Nakenai Aisaretatte Nakenai (2026)",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/6/61/NajiraretatteNakenaiAisaretatteNakenai-dpr.jpg",
+        "opts": {
+            subkeyaki: ["26single"]
+        }
+    },
+											{
+        "name": "Batter's Box wa Doko? (2026)",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/f/f1/BattersBoxwaDoko-dpr.jpg",
         "opts": {
             subkeyaki: ["26single"]
         }
