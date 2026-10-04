@@ -2358,7 +2358,7 @@ dataSet[dataSetVersion].characterData = [
     },
 										{
         "name": "Ai = Un + En + On (2026)",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/1/1d/Aienunon-r.jpg/revision/latest?cb=20260820143938",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/1/1d/Aienunon-r.jpg",
         "opts": {
             subkeyaki: ["26single"]
         }
