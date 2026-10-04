@@ -448,14 +448,14 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Nishida Shiori",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/e/e1/Portal_Nishida_Shiori.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/e/e1/Portal_Nishida_Shiori.jpg?1"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "Eguchi Saya",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/6/6e/Portal_Eguchi_Saya.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/6/6e/Portal_Eguchi_Saya.jpg?1"
         , opts: {
             subkeyaki: ["by"]
         }
@@ -469,7 +469,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Maeda Kokoro",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/6/6c/Portal_Maeda_Kokoro.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/6/6c/Portal_Maeda_Kokoro.jpg?1"
         , opts: {
             subkeyaki: ["by"]
         }
@@ -483,56 +483,56 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         "name": "Okamura Minami",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/8/8a/Portal_Okamura_Minami.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/8/8a/Portal_Okamura_Minami.jpg?1"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "Kiyono Momohime",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/3/39/Portal_Kiyono_Momohime.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/3/39/Portal_Kiyono_Momohime.jpg?1"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "Hirai Miyo",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/7/7d/Portal_Hirai_Miyo.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/7/7d/Portal_Hirai_Miyo.jpg?1"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "Kobayashi Honoka",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/f/f9/Portal_Kobayashi_Honoka.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/f/f9/Portal_Kobayashi_Honoka.jpg?1"
         , opts: {
             subkeyaki: ["by"]
         }
     },
     {
         "name": "Satoyoshi Utano",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/f/f9/Portal_Satoyoshi_Utano.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/f/f9/Portal_Satoyoshi_Utano.jpg?1"
         , opts: {
             subkeyaki: ["by"]
         }
     },
 	    {
         "name": "Kojima Hana",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/e/ec/Portal_Kojima_Hana.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/e/ec/Portal_Kojima_Hana.jpg?1"
         , opts: {
             subkeyaki: ["by"]
         }
     },
 				        {
         "name": "Otsubo Mano",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/7/73/Portal_Otsubo_Mano.jpg?2"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/7/73/Portal_Otsubo_Mano.jpg?3"
         , opts: {
             subkeyaki: ["by"]
         }
     },
 						        {
         "name": "Sugiyama Yuna",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/d/d5/Portal_Sugiyama_Yuna.jpg?1"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/d/d5/Portal_Sugiyama_Yuna.jpg?2"
         , opts: {
             subkeyaki: ["by"]
         }
@@ -615,63 +615,63 @@ dataSet[dataSetVersion].characterData = [
 
 	{
         "name": "Matsubara Yulia",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/f/f0/Portal_Matsubara_Yulia.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/f/f0/Portal_Matsubara_Yulia.jpg?1"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
     {
         "name": "Onoda Karin",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/c/ce/Portal_Onoda_Karin.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/c/ce/Portal_Onoda_Karin.jpg?1"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
     {
         "name": "Hashida Honoka",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/0/09/Portal_Hashida_Honoka.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/0/09/Portal_Hashida_Honoka.jpg?1"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
     {
         "name": "Murakoshi Ayana",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/4/48/Portal_Murakoshi_Ayana.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/4/48/Portal_Murakoshi_Ayana.jpg?1"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
     {
         "name": "Uemura Hasumi",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/8/8c/Portal_Uemura_Hasumi.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/8/8c/Portal_Uemura_Hasumi.jpg?1"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
      {
         "name": "Yoshida Hinoha",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/9/96/Portal_Yoshida_Hinoha.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/9/96/Portal_Yoshida_Hinoha.jpg?1"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
         {
         "name": "Kamimura Rena",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/4/42/Portal_Kamimura_Rena.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/4/42/Portal_Kamimura_Rena.jpg?1"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
      		        {
         "name": "Shimakawa Hana",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/d/de/Portal_Shimakawa_Hana.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/d/de/Portal_Shimakawa_Hana.jpg?1"
         , opts: {
             subkeyaki: ["rosy"]
         }
     },
 				        {
         "name": "Soma Yume",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/6/65/Portal_Soma_Yume.jpg"
+        "img": "https://static.wikia.nocookie.net/helloproject/images/6/65/Portal_Soma_Yume.jpg?1"
         , opts: {
             subkeyaki: ["rosy"]
         }
