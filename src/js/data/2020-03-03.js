@@ -2365,14 +2365,14 @@ dataSet[dataSetVersion].characterData = [
     },
 											{
         "name": "Datte Daikyou jan ☆ (2026)",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/5/50/DatteDaikyoujan-dpr.jpg",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/f/f9/DatteDaikyoujan-ra.jpg",
         "opts": {
             subkeyaki: ["26single"]
         }
     },
 											{
         "name": "Najiraretatte Nakenai Aisaretatte Nakenai (2026)",
-        "img": "https://static.wikia.nocookie.net/helloproject/images/6/61/NajiraretatteNakenaiAisaretatteNakenai-dpr.jpg",
+        "img": "https://static.wikia.nocookie.net/helloproject/images/e/ed/DatteDaikyoujan-rb.jpg",
         "opts": {
             subkeyaki: ["26single"]
         }
