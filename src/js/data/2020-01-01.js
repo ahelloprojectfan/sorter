@@ -367,7 +367,7 @@ dataSet[dataSetVersion].characterData = [
         "name": "秋山眞緒",
         "img": "https://static.wikia.nocookie.net/helloproject/images/f/f0/Portal_Akiyama_Mao.jpg?1"
         , opts: {
-            subkeyaki: ["tf"]
+            subkeyaki: ["extf"]
         }
     },
 	    {
